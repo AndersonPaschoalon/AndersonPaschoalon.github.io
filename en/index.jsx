@@ -1,4 +1,11 @@
+ReactDOM.render
+( 
+    <CardPhoto image="../img/img_snowtops.jpg" style={{width:'70%'}} text="Exemplo de texto" title="Exemplo de Titulo">
+    </CardPhoto>,
+    document.getElementById("card-photo-sample")
+);
 
+/*
 ReactDOM.render
 (
     <NavbarLeft1 title="Anderson Paschoalon" menu= {[
@@ -75,7 +82,7 @@ ReactDOM.render
     </FooterLinks1>,
     document.getElementById("the-page-footer")
 );
-
+*/
 
 
 
