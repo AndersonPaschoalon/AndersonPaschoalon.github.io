@@ -39,8 +39,40 @@
         <div id="page-navbar"></div>
         <div class="content-wrap mb-5">
 
-            <div class="container">
-                <div id="card-photo-sample"></div>
+            <h1> SIMITAR (SniffIng, ModellIng, and TrAffic geneRation) </h1>
+            <hr>
+            <br>
+
+            <div class="text-fmt">
+
+                <p>
+                    SIMITAR (SnIffing, ModellIng and TrAffic geneRation) is a tool for creating synthetic and realist
+                    network traffic.
+                </p>
+
+                <p>
+                    It uses actual network traffic (live captures or pcap files) for creating a flow-oriented traffic
+                    model. This model is used for creating network traffic, and is provided as a parameter for the
+                    traffic generator. It is self-configured because you don't have to care about adjusting stochastic
+                    parameters such as exponential rates, protocol, ports, or traffic rates as input parameters. It is
+                    all contained inside the traffic model created.
+                </p>
+
+                <div class="container">
+                    <div id="card-dia"></div>
+                </div>
+
+                <p>
+                    The traffic generator is not attached to a specific technology. It has a flow scheduler, which
+                    creates a thread for each flow. As the traffic generator engine we can use applications or low-level
+                    C/C++ libraries. Currently we have extended it to Libtins (a C++ packet crafter library) and Iperf
+                    (network benchmark tool).
+                </p>
+
+                <div class="container">
+                    <div id="card-arch"></div>
+                </div>
+
             </div>
 
         </div>
@@ -50,7 +82,7 @@
         </div>
 
     </div>
-    <script src="../src/scripts.js" ></script>
+    <script src="../src/scripts.js"></script>
 
 </body>
 

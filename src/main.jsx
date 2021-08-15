@@ -76,6 +76,15 @@ ReactDOM.render
     document.getElementById("the-page-footer")
 );
 
+ReactDOM.render
+(
+    <BoltText>
+    1234567890
+    </BoltText>,
+    document.getElementById("test-bold-text")
+    
+);
+
 
 
 

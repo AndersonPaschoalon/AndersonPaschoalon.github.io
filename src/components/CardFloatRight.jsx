@@ -80,7 +80,6 @@ class CardFloatRight extends React.Component
         {
             console.log(THIS_METHOD + " -- some items from card btn are malformed (btnText or btnLink)");
         }  
-        
         // render
         return(
           <div className="card float-right">

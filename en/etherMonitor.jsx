@@ -1,6 +1,6 @@
 ReactDOM.render
 ( 
-    <CardPhoto image="../img/img_snowtops.jpg" style={{width:'70%'}} text="Exemplo de texto" title="Exemplo de Titulo">
+    <CardPhoto image="../img/etherMonitor.png" style={{width:'100%'}} text="Operation diagram operation of a LTE eNodeB." title="" skipLine="true">
     </CardPhoto>,
-    document.getElementById("card-photo-sample")
+    document.getElementById("card-ethermonitor-op")
 );

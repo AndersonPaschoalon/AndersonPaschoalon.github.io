@@ -1,6 +1,6 @@
 ReactDOM.render
 ( 
-    <FooterLinks1 footerNote= "This website was developed under MIT licence -- January of 2020)" 
+    <FooterLinks1 footerNote= "This website was developed under MIT licence -- January of 2020" 
                   linkSet={[{url:"https://github.com/AndersonPaschoalon"                                 , label:"GitHub"         , show:true}, 
                             {url:"https://www.researchgate.net/profile/Anderson_Paschoalon2"             , label:"Research Gate"  , show:true}, 
                             {url:"https://br.linkedin.com/in/anderson-paschoalon-61054175"               , label:"Linkedin"       , show:true}, 
