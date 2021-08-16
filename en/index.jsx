@@ -1,61 +1,52 @@
 ReactDOM.render
 ( 
-    <CardPhoto image="../img/img_snowtops.jpg" style={{width:'70%'}} text="Exemplo de texto" title="Exemplo de Titulo">
-    </CardPhoto>,
-    document.getElementById("card-photo-sample")
-);
-
-/*
-ReactDOM.render
-(
-    <NavbarLeft1 title="Anderson Paschoalon" menu= {[
-        {label:"Abacaxi", show:true,  content:"www.google.com"},
-        {label:"Banana", show:true, content:"https://br.yahoo.com"},
-        {label:"Carambola", show:true, content:"https://www.oantagonista.com/"},
-        {label:"Damasco", show:false, content:"https://www.sublimetext.com/"} ,
-        {label:"Universidades", show:true, content:[
-            {label:"Usp", show:false, content:"https://www5.usp.br"},
-            {label:"Unicamp", show:true, content:"https://www.unicamp.br/unicamp/"},
-            {label:"Unesp", show:true, content:"https://www2.unesp.br/"}
-        ]}, 
-        {label:"Espinafre", show:true, content:"https://www.sublimetext.com/"}
-    ]} /> ,
-    document.getElementById("page-navbar")
-);
-
-
-ReactDOM.render
-( 
-    <CardPhoto image="../img/img_snowtops.jpg" style={{width:'70%'}} text="Exemplo de texto" title="Exemplo de Titulo">
-    </CardPhoto>,
-    document.getElementById("card-photo-sample")
-);
-
-ReactDOM.render
-( 
-    <CardFloatLeft  btnText="Clique Aqui" 
-                     btnLink="www.google.com" 
-                     image="../img/img_snowtops.jpg" 
-                     title="Card Float Left" 
-                     textLines={["linha 1 linha 1", 
-                                "linha2, linha 2"]} >
+    <CardFloatLeft  btnText="Github" 
+                     btnLink="https://github.com/AndersonPaschoalon/Simitar/tree/master/SIMITAR" 
+                     image="../img/sim.png" 
+                     title="SIMITAR traffic generator repository at GitHub" 
+                     textLines={["Simitar: a tool for generation of generation of synthetic and realistic internet traffic for testing and benchmark." 
+                                ]} >
     </CardFloatLeft>,
-    document.getElementById("card-float-left-sample")
+    document.getElementById("card-simitar")
 );
 
 
 ReactDOM.render
 ( 
-    <CardFloatRight btnText="Clique Aqui" 
-                     btnLink="www.google.com" 
-                     image="../img/img_snowtops.jpg" 
-                     title="Card Float Right" 
-                     textLines={["linha 1 linha 1", 
-                                "linha2, linha 2"]} >
+    <CardFloatRight btnText="IEEE Xplore" 
+                     btnLink="https://ieeexplore.ieee.org/document/8667676" 
+                     image="../img/article.png" 
+                     title="Automated Selection of Inter-Packet Time Models Through Information Criteria" 
+                     textLines={["We evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times." 
+                                ]} >
     </CardFloatRight>,
-    document.getElementById("card-float-right-sample")
+    document.getElementById("card-aic-bic")
 );
 
+ReactDOM.render
+( 
+    <CardFloatLeft  btnText="repositorio.unicamp.br" 
+                     btnLink="http://repositorio.unicamp.br/handle/REPOSIP/334510?locale=es" 
+                     image="../img/tese.png" 
+                     title="SIMITAR : synthetic and realistic network traffic generation" 
+                     textLines={["My master degree thesis: SIMITAR : synthetic and realistic network traffic generation."
+                                ]} >
+    </CardFloatLeft>,
+    document.getElementById("card-ms-tese")
+);
+
+
+ReactDOM.render
+( 
+    <CardFloatRight btnText="PDF" 
+                     btnLink="../files/PatenteEtherMonitor.pdf" 
+                     image="../img/pat.png" 
+                     title="CPQD3036 - ETHERMONITOR - V.1.0" 
+                     textLines={["Certificado de Registro de Programa de Computador", 
+                                "Processo Nº: BR512014001177-1"]} >
+    </CardFloatRight>,
+    document.getElementById("card-patente")
+);
 
 ReactDOM.render
 ( 
@@ -72,17 +63,4 @@ ReactDOM.render
     </CardCarousel>,
     document.getElementById("card-carousel-sample")
 );
-
-ReactDOM.render
-( 
-    <FooterLinks1 footerNote= "Some footer Note B)" 
-                  linkSet={[{url:"www.google.com", label:"Google", show:true}, 
-                            {url:"github.com",     label:"Git",    show:true}, 
-                            {url:"www.uol.com.br", label:"Uol",    show:true}]}>                    
-    </FooterLinks1>,
-    document.getElementById("the-page-footer")
-);
-*/
-
-
 
