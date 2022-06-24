@@ -1,5 +1,5 @@
 # Site settings
-title: The Minimum Viable Model
+title: Anderson Paschoalon
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -7,7 +7,6 @@ url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e
 logo: "/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
 logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
-
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
 # (19:00 - 07:00), "manual" is for manual toggle, and
@@ -19,26 +18,36 @@ logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG f
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 night_mode: "auto"
-
 logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
+# HEADER INFORMATION
+header-title: Anderson Paschoalon
+header-description: C/C++ hardware/embedded system developer, master and self-made researcher, machine learning enthusiast, and game modder.
+
+# Assets Paths
+path-icon:  /assets/img/icons/
+path-photos: /assets/img/photos/
+path-posts: /assets/img/posts/
+path-pages: /assets/img/pages/
+
 # Author settings
-author: Armando Maynez # add your name
-author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+author: Anderson Paschoalon # add your name
 
 # Contact links
-email: armando.maynez@gmail.com # Add your Email address
+email: anderson.paschoalon@gmail.com # Add your Email address
 phone: # Add your Phone number
-website: https://amaynez.github.io # Add your website
-linkedin: amaynez # Add your Linkedin handle
-github: amaynez # Add your Github handle
-twitter: '@MvmThe' # Add your Twitter handle
+website: # Add your website
+linkedin: https://br.linkedin.com/in/anderson-paschoalon-61054175 # Add your Linkedin handle
+github: https://github.com/AndersonPaschoalon # Add your Github handle
+twitter: # Add your Twitter handle
 bandcamp: armandomaynez # Add your Bandcamp username
+researchgate: https://www.researchgate.net/profile/Anderson-Paschoalon-2
+intrig: https://intrig.dca.fee.unicamp.br/people/
+lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8136551T3
 
 # Newsletter
-mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
+# mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
 
 # Disqus
 discus_identifier: amaynez-github-io # Add your discus identifier

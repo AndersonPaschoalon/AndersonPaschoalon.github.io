@@ -15,7 +15,17 @@
     
     "./conways-game-of-life.html",
     
-    "./single-neuron-perceptron.html"
+    "./single-neuron-perceptron.html",
+    
+    "./aic-bic.html",
+    
+    "./simitar-thesis.html",
+    
+    "./aic-bic.html",
+    
+    "./traff-gen.html",
+    
+    "./ethermonitor.html"
     
   ]
 }

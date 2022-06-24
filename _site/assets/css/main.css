@@ -1966,6 +1966,7 @@ a.read-more:hover {
             transform: translateY(0);
   }
 }
+
 /* = = = Social Share Icon Colors = = = */
 .twitter:hover{color:#1DA1F2}
 .facebook:hover{color:#4267B2}
@@ -1975,6 +1976,18 @@ a.read-more:hover {
 .bandcamp:hover{color:#629aa9}
 .github:hover{color:var(--github)}
 .copy-link:hover{color:var(--accent)}
+.researchgate:hover{color:#00ccbb}
+.lattes:hover{color:#3467a6}
+.intrig:hover{color:#f04c23}
+
+.icon-researchgate {
+  background-image: url("https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png");
+  background-position: center center;
+  height: 24px;
+  line-height: 24px;
+  width: 24px;
+}
+
 
 /* = = = = = = = = = = Media = = = = = = = = = = */
 /* Small Devices, Tablets */

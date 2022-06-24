@@ -1,0 +1,68 @@
+---
+layout: menu-page
+title: Bio
+permalink: bio:output_ext
+---
+{% include calculate_relative_base.html %}
+{% include escape-404.html %}
+
+<div class="small-wrapper">
+  <div class="about-container">
+
+    <section class="about-header">
+      <div class="author-image-container">
+        <a href='{{ site.website }}'><img src="{{relativebase}}/{{ site.path-photos}}/me.jpg" alt="{{site.author}}"></a>
+      </div>
+    </section>
+
+    <section class="about-body">
+
+      <p class="subtitle">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec urna viverra odio vulputate ullamcorper. Nunc pulvinar odio et justo porta sodales. Maecenas non risus mauris. Vestibulum et est a neque laoreet blandit in nec lacus. Sed rhoncus lectus nec libero vestibulum blandit. Proin ac ex lobortis, malesuada purus varius, porttitor ipsum. Quisque consequat molestie eros, ut dignissim nibh laoreet elementum.
+      </p>
+      <p class="subtitle">
+        In hac habitasse platea dictumst. Phasellus varius diam purus, et bibendum risus placerat non. In sit amet blandit nunc. Sed quis justo lorem. Donec efficitur vitae felis vitae porta. Sed viverra nulla non dictum posuere. Proin auctor consectetur bibendum. In ac congue lacus. Suspendisse potenti. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean ut laoreet ante, ut cursus arcu.
+      </p>
+      <p class="subtitle">
+        Suspendisse nisl risus, rutrum vel justo et, vulputate interdum nulla. Nam quis semper dolor. Vivamus in faucibus lacus. Integer quis ultricies libero. Vestibulum gravida vitae tortor eu pharetra. Nunc et diam a massa finibus facilisis. Nam sed ex eu turpis accumsan lacinia. Morbi magna augue, ornare nec purus vel, maximus pharetra augue. Suspendisse ut lacus metus. Aenean eu ultricies turpis, vel ultrices diam. Curabitur eget ultricies justo. Cras hendrerit libero quis aliquam efficitur.
+      </p>
+
+      <section class="about-header">
+      </section>
+
+      
+
+      <section class="about-body">
+
+        <ul class="contact-list">
+
+          <li class="github">
+            <a class="github" href="{{site.github}}" target="_blank"><i class="fa fa-github"></i> Github</a>
+          </li>
+
+          <li class="researchgate">
+            <a class="researchgate" href="{{site.researchgate}}" target="_blank"><i class="fa fa-circle-r"></i> Research Gate</a>
+          </li>
+
+          <li class="linkedin">
+            <a class="linkedin" href="{{site.linkedin}}" target="_blank"><i class="fa-solid fa-linkedin"></i> Linkedin</a>
+          </li>
+
+          <li class="lattes">
+            <a class="lattes" href="{{site.lattes}}" target="_blank"><i class="fa fa-envelope-o"></i> Lattes</a>
+          </li>
+        
+          <li class="intrig">
+            <a class="intrig" href="{{site.intrig}}" target="_blank"><i class="fa fa-envelope-o"></i> INTRIG</a>
+          </li>
+
+          <li class="email">
+            <a class="email" href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i> Email</a>
+          </li>
+
+        </ul>
+      
+    </section> <!-- End About Body-->
+
+  </div> <!-- End About Container -->
+</div> <!-- End Small Wrapper -->
