@@ -401,9 +401,9 @@ html, body {
   overflow: visible
 }
 html {
-    line-height: 1.75;
-    letter-spacing: 0.002em;
-    font-size: 1.375rem;
+  letter-spacing: 0.002em;
+  line-height: 1.3;
+  font-size: 1.075rem;
 }
 body {
   font-family: var(--font1);
@@ -420,7 +420,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 4rem;
+  /* font-size: 4rem;*/
+  font-size: 2rem;
   font-weight: var(--font2-regular);
   line-height: 1;
 }
@@ -617,14 +618,18 @@ svg {
   display: block;
   padding: 15px 0;
   text-decoration: none;
+  /*
   text-transform: uppercase;
-  font-weight: var(--font2-regular);
   font-size: 18px;
+  */
+  font-weight: var(--font2-regular);
+  font-size: 15px;
   color: var(--main);
 }
 .main-nav ul li a:hover {
   opacity: .8;
   color: var(--accent-dark);
+  font-weight: bold;
 }
 .menu-icon-container {
   width: 25%;
@@ -824,6 +829,7 @@ svg.menu-icon-house {
   list-style: none;
   float: left;
   width: 50%;
+/*  width: 50%;*/
 }
 
 .post-card {
@@ -832,7 +838,7 @@ svg.menu-icon-house {
 .post-card-image {
   display: block;
   width: 100%;
-  min-height: 150px;
+  min-height: 200px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1489,7 +1495,8 @@ img + small, img + br + small {
 }
 .header-page h1 {
   font-weight: var(--font2-regular);
-  font-size: 4.25rem;
+  /*font-size: 4.25rem;*/
+  font-size: 2rem;
   text-align: left;
   margin: 0 0 10px;
   color: var(--text)
@@ -2041,7 +2048,8 @@ a.read-more:hover {
     margin-bottom: 10px;
   }
   .header-page h1 {
-    font-size: 2.5rem;
+    /*font-size: 2.5rem;*/
+    font-size: 2.0rem;
     margin: 0 0 10px;
   }
   .header-page .page-date {
@@ -2115,12 +2123,20 @@ a.read-more:hover {
     html{margin:0;padding:0;min-height:auto !important;font-size:16px}
     body{margin:0 auto;background:white !important;color:#000 !important;font-size:1rem;line-height:1.5;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
     h1,h2,h3,h4,h5,h6{color:#000;line-height:1.2;margin-bottom:0.75rem;margin-top:0}
+/*
     h1{font-size:2.5rem}
     h2{font-size:2rem}
     h3{font-size:1.75rem}
     h4{font-size:1.5rem}
     h5{font-size:1.25rem}
     h6{font-size:1rem}
+*/
+  h1{font-size:2.0rem}
+  h2{font-size:1.75rem}
+  h3{font-size:1.5rem}
+  h4{font-size:1.2rem}
+  h5{font-size:1.0rem}
+  h6{font-size:0.8rem} 
     a,a:visited{color:#000;text-decoration:underline;word-wrap:break-word}
     table{border-collapse:collapse}
     thead{display:table-header-group}
@@ -2149,3 +2165,6 @@ a.read-more:hover {
     .page__hero-caption a{color:#000 !important}
     .masthead,.toc,.page__share,.page__related,.pagination,.ads,.page__footer,.page__comments-form,.author__avatar,.author__content,.author__urls-wrapper,.nav__list,.sidebar,.adsbygoogle{display:none !important;height:1px !important}}
 
+
+/* TEST CSS */
+.responsive-image {  width: 100%;  height: auto; } 

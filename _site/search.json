@@ -1,6 +1,56 @@
 [
   
     {
+      "title"       : "Md2Html",
+      "category"    : "",
+      "tags"        : "",
+      "url"         : "./md2Html.html",
+      "date"        : "2022-05-27 03:00:00 -0300",
+      "description" : "Md2Html",
+      "content"     : "Md2Html"
+    } ,
+  
+    {
+      "title"       : "Quest Dialog Manager",
+      "category"    : "",
+      "tags"        : "",
+      "url"         : "./quest-dialog-manager.html",
+      "date"        : "2021-08-27 03:00:00 -0300",
+      "description" : "Computer Program Registration Certificate.",
+      "content"     : "Quest Dialog Manager"
+    } ,
+  
+    {
+      "title"       : "MoForGit",
+      "category"    : "",
+      "tags"        : "",
+      "url"         : "./moforgit.html",
+      "date"        : "2021-08-27 03:00:00 -0300",
+      "description" : "Mod organizer for Git Versioning",
+      "content"     : "MoForGit"
+    } ,
+  
+    {
+      "title"       : "Mod Pack for Age of Mitology",
+      "category"    : "",
+      "tags"        : "patent, linux, embedded system, networks, LTE, 4G, CPQD",
+      "url"         : "./mods-age-of-mitology.html",
+      "date"        : "2021-08-27 03:00:00 -0300",
+      "description" : "Pack of small mods for Age of Mitology",
+      "content"     : "Mod Pack for Age of Mitology"
+    } ,
+  
+    {
+      "title"       : "Dawn of the Silver Hands",
+      "category"    : "",
+      "tags"        : "Skyrim, Creation Kit, Papyrus, Game, Mod",
+      "url"         : "./dsilhand.html",
+      "date"        : "2021-08-01 03:00:00 -0300",
+      "description" : "Skyrim mod -- Join the Silver Hand faction!",
+      "content"     : "DSilHand"
+    } ,
+  
+    {
       "title"       : "Who owns the copyright for an AI generated creative work?",
       "category"    : "opinion",
       "tags"        : "copyright, creativity, neural networks, machine learning, artificial intelligence",
@@ -81,33 +131,23 @@
     } ,
   
     {
-      "title"       : "Automated Selection of Inter-Packet Time Models Through Information Criteria",
-      "category"    : "",
-      "tags"        : "machine learning, coding, neural networks",
-      "url"         : "./aic-bic.html",
-      "date"        : "2021-01-25 16:32:20 -0300",
-      "description" : "Single neuron perceptron that classifies elements learning quite quickly.",
-      "content"     : ""
-    } ,
-  
-    {
       "title"       : "SIMITAR traffic generator repository at GitHub",
       "category"    : "",
-      "tags"        : "machine learning, coding, neural networks",
+      "tags"        : "",
       "url"         : "./simitar-thesis.html",
       "date"        : "2021-01-25 16:32:20 -0300",
-      "description" : "Single neuron perceptron that classifies elements learning quite quickly.",
-      "content"     : ""
+      "description" : "todo.",
+      "content"     : "SIMITAR traffic generator repository at GitHub"
     } ,
   
     {
       "title"       : "Aic-bic-pre",
       "category"    : "",
       "tags"        : "machine learning, coding, neural networks",
-      "url"         : "./aic-bic.html",
+      "url"         : "./aic-bic-first.html",
       "date"        : "2021-01-25 16:32:20 -0300",
-      "description" : "Single neuron perceptron that classifies elements learning quite quickly.",
-      "content"     : ""
+      "description" : "todo.",
+      "content"     : "Aic-bic-pre"
     } ,
   
     {
@@ -117,17 +157,47 @@
       "url"         : "./traff-gen.html",
       "date"        : "2021-01-25 16:32:20 -0300",
       "description" : "Single neuron perceptron that classifies elements learning quite quickly.",
-      "content"     : ""
+      "content"     : "Traff-gen"
     } ,
   
     {
-      "title"       : "Ethermonitor",
+      "title"       : "Simitar",
       "category"    : "",
-      "tags"        : "machine learning, coding, neural networks",
+      "tags"        : "",
+      "url"         : "./simitar.html",
+      "date"        : "2019-08-27 03:00:00 -0300",
+      "description" : "Simitar",
+      "content"     : "Simitar"
+    } ,
+  
+    {
+      "title"       : "Automated Selection of Inter-Packet Time Models Through Information Criteriaa",
+      "category"    : "",
+      "tags"        : "Stochastic processes, Cost function, Measurement, Computational modeling, Fractals, Correlation, Data models, BIC, AIC, stochastic function, inter-packet times, Hurst exponent",
+      "url"         : "./aic-bic.html",
+      "date"        : "2019-03-15 03:00:00 -0300",
+      "description" : "IEEE Networking Letters, Volume 1 Issue 2.",
+      "content"     : "Automated Selection of Inter-Packet Time Models Through Information CriteriaAbstract: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.Published in: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)Page(s): 56 - 59Date of Publication: 15 March 2019Electronic ISSN: 2576-3156INSPEC Accession Number: 18708377DOI: 10.1109/LNET.2019.2905364Publisher: IEEEBibTeX:@ARTICLE{ 8667676, author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve}, journal={IEEE Networking Letters}, title={Automated Selection of Inter-Packet Time Models Through Information Criteria}, year={2019}, volume={1}, number={2}, pages={56-59}, doi={10.1109/LNET.2019.2905364}}IEEE Networking Letters https://ieeexplore.ieee.org/document/8667676/authors#authorsPDF"
+    } ,
+  
+    {
+      "title"       : "CPQD3036 - ETHERMONITOR - V.1.0",
+      "category"    : "",
+      "tags"        : "patent, linux, embedded system, networks, LTE, 4G, CPQD",
       "url"         : "./ethermonitor.html",
-      "date"        : "2021-01-25 16:32:20 -0300",
-      "description" : "Single neuron perceptron that classifies elements learning quite quickly.",
-      "content"     : ""
+      "date"        : "2014-08-27 03:00:00 -0300",
+      "description" : "Computer Program Registration Certificate.",
+      "content"     : "CPQD3036 - ETHERMONITOR - V.1.0This is the register of computer program provided by INPI (Instituto Nacional da Propriedade Industrial – National Institute of Industrial Property) Ethermonitor, wich I developed at CPQD when I was an intern."
+    } ,
+  
+    {
+      "title"       : "CPQD3036 - ETHERMONITOR - V.1.0",
+      "category"    : "",
+      "tags"        : "patent, linux, embedded system, networks, LTE, 4G, CPQD",
+      "url"         : "./ethermonitor.html",
+      "date"        : "2014-08-27 03:00:00 -0300",
+      "description" : "Computer Program Registration Certificate.",
+      "content"     : "CPQD3036 - ETHERMONITOR - V.1.0"
     } 
   
 ]

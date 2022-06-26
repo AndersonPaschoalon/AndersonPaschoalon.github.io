@@ -3,6 +3,198 @@
 [   
       
   {
+  "tag" : "4G",
+  "posts" : [
+      
+      "./mods-age-of-mitology.html",
+      
+      "./ethermonitor.html",
+      
+      "./ethermonitor.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "AIC",
+  "posts" : [
+      
+      "./aic-bic.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "BIC",
+  "posts" : [
+      
+      "./aic-bic.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "CPQD",
+  "posts" : [
+      
+      "./mods-age-of-mitology.html",
+      
+      "./ethermonitor.html",
+      
+      "./ethermonitor.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Computational modeling",
+  "posts" : [
+      
+      "./aic-bic.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Correlation",
+  "posts" : [
+      
+      "./aic-bic.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Cost function",
+  "posts" : [
+      
+      "./aic-bic.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Creation Kit",
+  "posts" : [
+      
+      "./dsilhand.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Data models",
+  "posts" : [
+      
+      "./aic-bic.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Fractals",
+  "posts" : [
+      
+      "./aic-bic.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Game",
+  "posts" : [
+      
+      "./dsilhand.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Hurst exponent",
+  "posts" : [
+      
+      "./aic-bic.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "LTE",
+  "posts" : [
+      
+      "./mods-age-of-mitology.html",
+      
+      "./ethermonitor.html",
+      
+      "./ethermonitor.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Measurement",
+  "posts" : [
+      
+      "./aic-bic.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Mod",
+  "posts" : [
+      
+      "./dsilhand.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Papyrus",
+  "posts" : [
+      
+      "./dsilhand.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Skyrim",
+  "posts" : [
+      
+      "./dsilhand.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Stochastic processes",
+  "posts" : [
+      
+      "./aic-bic.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "artificial intelligence",
   "posts" : [
       
@@ -30,15 +222,9 @@
       
       "./single-neuron-perceptron.html",
       
-      "./aic-bic.html",
+      "./aic-bic-first.html",
       
-      "./simitar-thesis.html",
-      
-      "./aic-bic.html",
-      
-      "./traff-gen.html",
-      
-      "./ethermonitor.html"
+      "./traff-gen.html"
       
     ]
   } ,
@@ -75,6 +261,20 @@
     
       
   {
+  "tag" : "embedded system",
+  "posts" : [
+      
+      "./mods-age-of-mitology.html",
+      
+      "./ethermonitor.html",
+      
+      "./ethermonitor.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "general blogging",
   "posts" : [
       
@@ -85,10 +285,34 @@
     
       
   {
+  "tag" : "inter-packet times",
+  "posts" : [
+      
+      "./aic-bic.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "life",
   "posts" : [
       
       "./starting-the-adventure.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "linux",
+  "posts" : [
+      
+      "./mods-age-of-mitology.html",
+      
+      "./ethermonitor.html",
+      
+      "./ethermonitor.html"
       
     ]
   } ,
@@ -110,13 +334,21 @@
       
       "./single-neuron-perceptron.html",
       
-      "./aic-bic.html",
+      "./aic-bic-first.html",
       
-      "./simitar-thesis.html",
+      "./traff-gen.html"
       
-      "./aic-bic.html",
+    ]
+  } ,
+    
       
-      "./traff-gen.html",
+  {
+  "tag" : "networks",
+  "posts" : [
+      
+      "./mods-age-of-mitology.html",
+      
+      "./ethermonitor.html",
       
       "./ethermonitor.html"
       
@@ -136,15 +368,9 @@
       
       "./single-neuron-perceptron.html",
       
-      "./aic-bic.html",
+      "./aic-bic-first.html",
       
-      "./simitar-thesis.html",
-      
-      "./aic-bic.html",
-      
-      "./traff-gen.html",
-      
-      "./ethermonitor.html"
+      "./traff-gen.html"
       
     ]
   } ,
@@ -155,6 +381,20 @@
   "posts" : [
       
       "./neural-network-optimization-methods.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "patent",
+  "posts" : [
+      
+      "./mods-age-of-mitology.html",
+      
+      "./ethermonitor.html",
+      
+      "./ethermonitor.html"
       
     ]
   } ,
@@ -179,6 +419,16 @@
   "posts" : [
       
       "./deep-q-learning-tic-tac-toe.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "stochastic function",
+  "posts" : [
+      
+      "./aic-bic.html"
       
     ]
   } ,

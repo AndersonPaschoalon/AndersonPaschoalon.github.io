@@ -1,6 +1,67 @@
 ---
-layout: menu-page
+layout: home-page
 title: Projects
 permalink: projects:output_ext
+infinite: yes
 ---
+{% include calculate_relative_base.html %}
+{% include escape-404.html %}
+
+{% include calculate_relative_base.html %}
+
+<h1> My Personal Projecs </h1>
+
+This page contains my personal projects I worked in the past, or that I'm currently working right now.
+
+If you are interested in give some contribution or suggestion, plese comments in the posts.
+
+<h2> Releases </h2>
+
+<ol class="post-card-box clearfix">
+  {% for post in site.posts %}
+  {% include remove_double_slash.html %}
+    {%  if post.is_project == true and post.has_release == true %}
+      <li>
+        <div class="post-card">
+          <a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;">
+          </a>
+          <div class="post-card-body">
+            <p class="post-card-title-and-meta">     
+              <a href="{{ post_url }}" class="post-card-link">
+              {{ post.title }}
+              </a>
+              <p style="color:whitesmoke;"> {{ post.description }} </p>
+            </p>
+          </div>
+        </div>
+        <br>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ol>
+
+<h2> In Progress (no stable release) </h2> 
+
+<ol class="post-card-box clearfix">
+  {% for post in site.posts %}
+  {% include remove_double_slash.html %}
+    {%  if post.is_project == true and post.has_release == false %}
+      <li>
+        <div class="post-card">
+          <a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;">
+          </a>
+          <div class="post-card-body">
+            <p class="post-card-title-and-meta">     
+              <a href="{{ post_url }}" class="post-card-link">
+              {{ post.title }}
+              </a>
+              <p style="color:whitesmoke;"> {{ post.description }} </p>
+            </p>
+          </div>
+        </div>
+        <br>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ol>
 

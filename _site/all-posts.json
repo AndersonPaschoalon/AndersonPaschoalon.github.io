@@ -1,6 +1,16 @@
 {
   "posts" : [
     
+    "./md2Html.html",
+    
+    "./quest-dialog-manager.html",
+    
+    "./moforgit.html",
+    
+    "./mods-age-of-mitology.html",
+    
+    "./dsilhand.html",
+    
     "./AI-and-intellectual-property.html",
     
     "./back-to-basics.html",
@@ -17,13 +27,17 @@
     
     "./single-neuron-perceptron.html",
     
-    "./aic-bic.html",
-    
     "./simitar-thesis.html",
     
-    "./aic-bic.html",
+    "./aic-bic-first.html",
     
     "./traff-gen.html",
+    
+    "./simitar.html",
+    
+    "./aic-bic.html",
+    
+    "./ethermonitor.html",
     
     "./ethermonitor.html"
     
