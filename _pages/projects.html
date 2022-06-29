@@ -15,12 +15,12 @@ This page contains my personal projects I worked in the past, or that I'm curren
 
 If you are interested in give some contribution or suggestion, plese comments in the posts.
 
-<h2> Releases </h2>
+<h2> Research and Development </h2>
 
 <ol class="post-card-box clearfix">
   {% for post in site.posts %}
   {% include remove_double_slash.html %}
-    {%  if post.is_project == true and post.has_release == true %}
+    {%  if post.is_project == true and post.has_release == true and post.proj-group == "research" %}
       <li>
         <div class="post-card">
           <a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;">
@@ -40,12 +40,89 @@ If you are interested in give some contribution or suggestion, plese comments in
   {% endfor %}
 </ol>
 
+<h2> Open-Souce Contribution </h2>
+
+<ol class="post-card-box clearfix">
+  {% for post in site.posts %}
+  {% include remove_double_slash.html %}
+    {%  if post.is_project == true and post.has_release == true and post.proj-group == "open-source" %}
+      <li>
+        <div class="post-card">
+          <a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;">
+          </a>
+          <div class="post-card-body">
+            <p class="post-card-title-and-meta">     
+              <a href="{{ post_url }}" class="post-card-link">
+              {{ post.title }}
+              </a>
+              <p style="color:whitesmoke;"> {{ post.description }} </p>
+            </p>
+          </div>
+        </div>
+        <br>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ol>
+
+<h2> Games and Modding </h2>
+
+<ol class="post-card-box clearfix">
+  {% for post in site.posts %}
+  {% include remove_double_slash.html %}
+    {%  if post.is_project == true and post.has_release == true and post.proj-group == "game" %}
+      <li>
+        <div class="post-card">
+          <a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;">
+          </a>
+          <div class="post-card-body">
+            <p class="post-card-title-and-meta">     
+              <a href="{{ post_url }}" class="post-card-link">
+              {{ post.title }}
+              </a>
+              <p style="color:whitesmoke;"> {{ post.description }} </p>
+            </p>
+          </div>
+        </div>
+        <br>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ol>
+
+<h2> Tools and Utilities </h2>
+
+<ol class="post-card-box clearfix">
+  {% for post in site.posts %}
+  {% include remove_double_slash.html %}
+    {%  if post.is_project == true and post.has_release == true and post.proj-group == "tool" %}
+      <li>
+        <div class="post-card">
+          <a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;">
+          </a>
+          <div class="post-card-body">
+            <p class="post-card-title-and-meta">     
+              <a href="{{ post_url }}" class="post-card-link">
+              {{ post.title }}
+              </a>
+              <p style="color:whitesmoke;"> {{ post.description }} </p>
+            </p>
+          </div>
+        </div>
+        <br>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ol>
+
+
+
 <h2> In Progress (no stable release) </h2> 
 
 <ol class="post-card-box clearfix">
   {% for post in site.posts %}
   {% include remove_double_slash.html %}
-    {%  if post.is_project == true and post.has_release == false %}
+    {%  if post.is_project == true and post.has_release == false and post.proj-group == "wip"  %}
       <li>
         <div class="post-card">
           <a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;">

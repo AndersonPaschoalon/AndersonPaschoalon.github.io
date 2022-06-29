@@ -18,7 +18,7 @@ is_project: true
 has_release: true
 mathjax: 
 is_blog: false
-
+proj-group: research # research, open-source, game, tool 
 ---
 
 # CPQD3036 - ETHERMONITOR - V.1.0

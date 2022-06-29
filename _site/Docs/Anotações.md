@@ -14,11 +14,17 @@ Publications & Patents
 Projects
 	- Deve ter o mesmo tipo de tumb do home, e cada tumb leva para uma pagina individual
 
-	Releases
-	
+	Research and Development
 	[Simitar]
 	[EtherMonitor]
+
+	Open Source Contribuitions
+	[Mininet Wifi]
+
+	Games & Mods
 	[Dawn of the Silver Hands]
+
+	Tools & Utilities
 	[QuestDialogManager] 
 	[MOForGit]
 	[Md2Html]
@@ -26,6 +32,8 @@ Projects
 	In Development
     [Aldmeri Dominions Strengtened v2]
     [The Forsworn Legacy Remake]
+	[Tabletop RPG Soundtrack]
+
 
 Bio
 Contact

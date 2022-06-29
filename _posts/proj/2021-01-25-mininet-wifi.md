@@ -2,9 +2,9 @@
 layout: post
 read_time: false
 show_date: true
-title:  Simitar
+title:  MininetWifi Contribuition
 date:   2019-08-27 0:00:00 -0600
-description: Simitar
+description: MininetWifi
 img: posts/post_lte.webp
 tags: []
 author: Anderson Paschoalon
@@ -18,7 +18,7 @@ is_project: true
 has_release: true
 mathjax: 
 is_blog: false
-proj-group: research # research, open-source, game, tool 
+proj-group: open-source # research, open-source, game, tool 
 ---
 
-# Simitar
+#  MininetWifi Contribuition

@@ -13,12 +13,12 @@ github: www.google.com
 publication: 
 pdf: 
 # Properties
-is_publication: true
-is_project: false
-has_release: false
+is_publication: false
+is_project: true
+has_release: true
 mathjax: 
 is_blog: false
-
+proj-group: game # research, open-source, game, tool 
 ---
 
 

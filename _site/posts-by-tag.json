@@ -84,6 +84,8 @@
   "tag" : "Creation Kit",
   "posts" : [
       
+      "./tabletop.html",
+      
       "./dsilhand.html"
       
     ]
@@ -113,6 +115,8 @@
   {
   "tag" : "Game",
   "posts" : [
+      
+      "./tabletop.html",
       
       "./dsilhand.html"
       
@@ -158,6 +162,8 @@
   "tag" : "Mod",
   "posts" : [
       
+      "./tabletop.html",
+      
       "./dsilhand.html"
       
     ]
@@ -168,6 +174,8 @@
   "tag" : "Papyrus",
   "posts" : [
       
+      "./tabletop.html",
+      
       "./dsilhand.html"
       
     ]
@@ -177,6 +185,8 @@
   {
   "tag" : "Skyrim",
   "posts" : [
+      
+      "./tabletop.html",
       
       "./dsilhand.html"
       
