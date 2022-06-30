@@ -12,12 +12,15 @@ author: Anderson Paschoalon
 github: www.google.com
 publication: 
 pdf: 
+external:
+nexus: 
 # Properties
 is_publication: false
 is_project: true
-has_release: true
-mathjax: 
 is_blog: false
+is_highlight: false # if it will appear in the home or not
+mathjax: 
+has_release: true
 proj-group: game # research, open-source, game, tool 
 ---
 

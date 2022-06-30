@@ -12,11 +12,16 @@ author: Anderson Paschoalon
 github:  github
 publication: todo
 pdf: todo
+external:
+nexus: 
 # Properties
 is_publication: true
 is_project: false
-mathjax: yes
 is_blog: false
+is_highlight: false # if it will appear in the home or not
+mathjax: yes
+has_release: false
+proj-group: 
 ---
 
 # SIMITAR traffic generator repository at GitHub

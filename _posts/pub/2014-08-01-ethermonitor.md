@@ -12,12 +12,16 @@ author: Anderson Paschoalon
 github: 
 publication: 
 pdf: /assets/pdf/patent_ether_monitor.pdf
+external:
+nexus: 
 # Properties
 is_publication: true
 is_project: false
-mathjax: 
 is_blog: false
-
+is_highlight: false # if it will appear in the home or not
+mathjax: 
+has_release: false
+proj-group: 
 ---
 
 # CPQD3036 - ETHERMONITOR - V.1.0

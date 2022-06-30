@@ -12,12 +12,15 @@ author: Anderson Paschoalon
 github: 
 publication: 
 pdf: /assets/pdf/patent_ether_monitor.pdf
+external:
+nexus: 
 # Properties
 is_publication: false
 is_project: true
+is_blog: false
+is_highlight: true # if it will appear in the home or not
 has_release: true
 mathjax: 
-is_blog: false
 proj-group: research # research, open-source, game, tool 
 ---
 
