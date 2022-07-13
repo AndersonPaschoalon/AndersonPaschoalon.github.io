@@ -1,0 +1,33 @@
+I"�<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1>
+
+<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p>
+
+<p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>
+
+<p><strong>Page(s)</strong>: 56 - 59</p>
+
+<p><strong>Date of Publication</strong>: 15 March 2019</p>
+
+<p><strong>Electronic ISSN</strong>: 2576-3156</p>
+
+<p><strong>INSPEC Accession Number</strong>: 18708377</p>
+
+<p><strong>DOI</strong>: 10.1109/LNET.2019.2905364</p>
+
+<p><strong>Publisher</strong>: IEEE</p>
+
+<p><strong>BibTeX</strong>:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@ARTICLE{
+	8667676,  
+	author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve},  
+	journal={IEEE Networking Letters},   
+	title={Automated Selection of Inter-Packet Time Models Through Information Criteria},   
+	year={2019},  
+	volume={1},  
+	number={2},  
+	pages={56-59},  
+	doi={10.1109/LNET.2019.2905364}
+}
+</code></pre></div></div>
+
+:ET

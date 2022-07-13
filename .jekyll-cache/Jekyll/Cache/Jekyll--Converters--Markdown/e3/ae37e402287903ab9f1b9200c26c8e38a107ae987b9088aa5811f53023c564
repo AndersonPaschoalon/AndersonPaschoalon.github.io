@@ -1,0 +1,42 @@
+I"�<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1>
+
+<p><strong>Abstract</strong>: New emerging technologies have a larger unpredictability, compared to legacy equipment. They
+require a larger set of meaningful tests on many different scenarios. But, in the open source world is hard to find
+a single tool able to provide realism, speed, easy usage and flexibility at the same time. Most of the tools are
+monolithic and devoted to specific purposes. This work presents a flexible and extensible framework which aims
+to decouple synthetic traffic modelling from its traffic generator engine. Through a new abstraction layer, it would
+become possible to use modern and throughput optimized tools to create realistic traffic, in an automated way. This
+enables a platform agnostic configuration and reproduction of complex scenarios via analytical models. Also we use
+pcap files and live-capture to create “Compact Trace Descriptors”.</p>
+
+<p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>
+
+<p><strong>Page(s)</strong>: 56 - 59</p>
+
+<p><strong>Date of Publication</strong>: 15 March 2019</p>
+
+<p><strong>Electronic ISSN</strong>: 2576-3156</p>
+
+<p><strong>INSPEC Accession Number</strong>: 18708377</p>
+
+<p><strong>DOI</strong>: 10.1109/LNET.2019.2905364</p>
+
+<p><strong>Publisher</strong>: IEEE</p>
+
+<p><strong>BibTeX</strong>:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@ARTICLE{
+	8667676,  
+	author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve},  
+	journal={IEEE Networking Letters},   
+	title={Automated Selection of Inter-Packet Time Models Through Information Criteria},   
+	year={2019},  
+	volume={1},  
+	number={2},  
+	pages={56-59},  
+	doi={10.1109/LNET.2019.2905364}
+}
+</code></pre></div></div>
+
+<p>IEEE Networking Letters https://ieeexplore.ieee.org/document/8667676/authors#authors</p>
+
+:ET

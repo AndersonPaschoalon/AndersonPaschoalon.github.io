@@ -20,7 +20,9 @@
   "tag" : "AIC",
   "posts" : [
       
-      "./aic-bic.html"
+      "./aic-bic.html",
+      
+      "./aic-bic-first.html"
       
     ]
   } ,
@@ -30,7 +32,9 @@
   "tag" : "BIC",
   "posts" : [
       
-      "./aic-bic.html"
+      "./aic-bic.html",
+      
+      "./aic-bic-first.html"
       
     ]
   } ,
@@ -128,7 +132,9 @@
   "tag" : "Hurst exponent",
   "posts" : [
       
-      "./aic-bic.html"
+      "./aic-bic.html",
+      
+      "./aic-bic-first.html"
       
     ]
   } ,
@@ -219,6 +225,16 @@
     
       
   {
+  "tag" : "burstiness",
+  "posts" : [
+      
+      "./traff-gen.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "coding",
   "posts" : [
       
@@ -230,11 +246,7 @@
       
       "./conways-game-of-life.html",
       
-      "./single-neuron-perceptron.html",
-      
-      "./aic-bic-first.html",
-      
-      "./traff-gen.html"
+      "./single-neuron-perceptron.html"
       
     ]
   } ,
@@ -245,6 +257,16 @@
   "posts" : [
       
       "./AI-and-intellectual-property.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "correlation",
+  "posts" : [
+      
+      "./aic-bic-first.html"
       
     ]
   } ,
@@ -285,6 +307,36 @@
     
       
   {
+  "tag" : "flow level",
+  "posts" : [
+      
+      "./traff-gen.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "fractal",
+  "posts" : [
+      
+      "./traff-gen.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "framework",
+  "posts" : [
+      
+      "./traff-gen.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "general blogging",
   "posts" : [
       
@@ -295,10 +347,22 @@
     
       
   {
+  "tag" : "heavy-tailed distribution",
+  "posts" : [
+      
+      "./aic-bic-first.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "inter-packet times",
   "posts" : [
       
-      "./aic-bic.html"
+      "./aic-bic.html",
+      
+      "./aic-bic-first.html"
       
     ]
   } ,
@@ -342,9 +406,15 @@
       
       "./ML-Library-from-scratch.html",
       
-      "./single-neuron-perceptron.html",
+      "./single-neuron-perceptron.html"
       
-      "./aic-bic-first.html",
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "modelling",
+  "posts" : [
       
       "./traff-gen.html"
       
@@ -376,11 +446,7 @@
       
       "./ML-Library-from-scratch.html",
       
-      "./single-neuron-perceptron.html",
-      
-      "./aic-bic-first.html",
-      
-      "./traff-gen.html"
+      "./single-neuron-perceptron.html"
       
     ]
   } ,
@@ -438,7 +504,9 @@
   "tag" : "stochastic function",
   "posts" : [
       
-      "./aic-bic.html"
+      "./aic-bic.html",
+      
+      "./aic-bic-first.html"
       
     ]
   } ,
@@ -449,6 +517,16 @@
   "posts" : [
       
       "./starting-the-adventure.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "traffic generation",
+  "posts" : [
+      
+      "./traff-gen.html"
       
     ]
   } 

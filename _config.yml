@@ -27,7 +27,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # HEADER INFORMATION
 ###############################################################################
 header-title: Anderson Paschoalon
-header-description: C/C++/C# hardware/embedded system developer, master and self-made researcher, machine learning enthusiast, and game modder.
+header-description: C/C++/C# system developer, master and self-made researcher, machine learning enthusiast, and game modder.
 
 ###############################################################################
 # Assets Paths
@@ -87,7 +87,8 @@ analytics: G-R8SZS2YBZK
 fbadmin: ar.maybach
 
 # Paginate
-paginate: 6
+# paginate: 6
+paginate: 1024 # no limit for pages
 paginate_path: 'page:num'
 words_per_minute: 200
 

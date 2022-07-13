@@ -5,13 +5,13 @@ show_date: true
 title:  Quest Dialog Manager
 date:   2021-08-27 0:00:00 -0600
 description: Computer Program Registration Certificate.
-img: posts/post_lte.webp
+img: posts/post-quest-man.png
 tags: []
 author: Anderson Paschoalon
 # Links
 github: 
 publication: 
-pdf: /assets/pdf/patent_ether_monitor.pdf
+pdf: /assets/pdf/post-quest-man.png
 external:
 nexus: 
 # Properties

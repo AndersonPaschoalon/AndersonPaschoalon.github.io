@@ -29,17 +29,17 @@
     
     "./single-neuron-perceptron.html",
     
-    "./simitar-thesis.html",
-    
-    "./aic-bic-first.html",
-    
-    "./traff-gen.html",
-    
     "./simitar.html",
     
     "./mininet-wifi.html",
     
+    "./simitar-thesis.html",
+    
     "./aic-bic.html",
+    
+    "./aic-bic-first.html",
+    
+    "./traff-gen.html",
     
     "./ethermonitor.html",
     
