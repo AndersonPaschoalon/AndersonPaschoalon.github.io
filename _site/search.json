@@ -1,63 +1,73 @@
 [
   
     {
-      "title"       : "Md2Html",
+      "title"       : "Dawn of the Silver Hands",
       "category"    : "",
-      "tags"        : "",
-      "url"         : "./md2Html.html",
-      "date"        : "2022-05-27 03:00:00 -0300",
-      "description" : "Md2Html",
-      "content"     : "Md2Html"
+      "tags"        : "Skyrim, Creation Kit, Papyrus, Game Development, Mod",
+      "url"         : "./dsilhand.html",
+      "date"        : "2022-07-01 03:00:00 -0300",
+      "description" : "Skyrim mod -- Join the Silver Hand faction!",
+      "content"     : "DSilHand"
     } ,
   
     {
       "title"       : "Quest Dialog Manager",
       "category"    : "",
-      "tags"        : "",
+      "tags"        : "Skyrim, Mod, Desktop, Python",
       "url"         : "./quest-dialog-manager.html",
-      "date"        : "2021-08-27 03:00:00 -0300",
+      "date"        : "2022-06-01 03:00:00 -0300",
       "description" : "Computer Program Registration Certificate.",
-      "content"     : "Quest Dialog Manager"
+      "content"     : "Quest Dialog ManagerCK QuestDialogManages is a tool to help manage your quest mod: Allows the conversion and generation of many audiofiles formats (wav, xwm, fuz) Allow you easily manage the audios from you mod: listento audios, manage file names,and check subtitles; Generate beautifull and comprehensive documentation; Reusable Comments and anotations for your documentation.Regenerate as many times you want with no loss."
     } ,
   
     {
-      "title"       : "MoForGit",
+      "title"       : "Swing Traffic Generator",
       "category"    : "",
-      "tags"        : "",
+      "tags"        : "Swing, Traffic Generator, Traffic Modelling, Wavelet",
+      "url"         : "./swing.html",
+      "date"        : "2022-05-27 03:00:00 -0300",
+      "description" : "Swing - Realistic and Responsive Network Traffic Generation",
+      "content"     : "Swingxficgenerator (v0.3.2)This is a re-upload for the Swing Traffic Generator. Its official homepage is located HERE.The swing traffic generator is a tool used in the publication Swing: Realistic and Responsive Network Traffic Generation. But the original source code has a compilation error, and I fixed it.I tried to contact the author some times by email, but with no response. If the author, or anyone related with the project find this repository, please, contact me.Since the Author Kashi Venkatesh Vishwanath allowed to redistribute the code, according to its LICENCE I decided publish it here, so anyone can use this tool.The original readme file, with a quick introduction, can be found here.If you use Swingxficgenerator in any work, please, cite the original paper. I also recomment the reading for a deeper undertanding of the tool. Plain Text K. V. Vishwanath and A. Vahdat, “Swing: Realistic and Responsive Network Traffic Generation,” in IEEE/ACM Transactions on Networking, vol. 17, no. 3, pp. 712-725, June 2009, doi: 10.1109/TNET.2009.2020830. BibTeX @ARTICLE{4914755, author={Vishwanath, Kashi Venkatesh and Vahdat, Amin}, journal={IEEE/ACM Transactions on Networking}, title={Swing: Realistic and Responsive Network Traffic Generation}, year={2009}, volume={17}, number={3}, pages={712-725}, doi={10.1109/TNET.2009.2020830}} I used this paper in my master thesis and on its paper, so I’m really greatefull for his work.My thesis can be found here:SIMITAR: synthetic and realistic network traffic generationAnd my article “Automated Selection of Inter-Packet Time Models Through Information Criteria” here: Plain Text A. d. S. Paschoalon and C. E. Rothenberg, “Automated Selection of Inter-Packet Time Models Through Information Criteria,” in IEEE Networking Letters, vol. 1, no. 2, pp. 56-59, June 2019, doi: 10.1109/LNET.2019.2905364. BibTeX @ARTICLE{8667676, author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve}, journal={IEEE Networking Letters}, title={Automated Selection of Inter-Packet Time Models Through Information Criteria}, year={2019}, volume={1}, number={2}, pages={56-59}, doi={10.1109/LNET.2019.2905364}}"
+    } ,
+  
+    {
+      "title"       : "Md2Html",
+      "category"    : "",
+      "tags"        : "Markdown, HTML, Bootstrap, Python",
+      "url"         : "./md2Html.html",
+      "date"        : "2022-05-27 03:00:00 -0300",
+      "description" : "Md2Html",
+      "content"     : "Md2HtmlJust a simple command line app to convert Markdown files to HTML.Usage: md2html --md &lt;markdown-file&gt; --title &lt;html-title&gt;Options: --md|-m &lt;markdown-file&gt;: path to markdown file --title|-t &lt;html-title&gt;: title to the HTML page titleExample:.\\\\Md2Html.exe --md SampleMarkdown.md --title \"HTML page title\""
+    } ,
+  
+    {
+      "title"       : "Spear",
+      "category"    : "",
+      "tags"        : "Skyrim, Mod, Desktop, CSharp",
       "url"         : "./moforgit.html",
-      "date"        : "2021-08-27 03:00:00 -0300",
+      "date"        : "2022-01-25 03:00:00 -0300",
       "description" : "Mod organizer for Git Versioning",
-      "content"     : "MoForGit"
+      "content"     : "Spear: Mod Organizer for Git VersioningMoForGit is a tool that allows you create a Git repository using a Mod Organizer Tools. Allows you to manage different installations of Steam Game in the same Hard Disk; Transform the installation folder into a git repository, and gitignore all the game files – do file versioning of only your mod files."
     } ,
   
     {
       "title"       : "Mod Pack for Age of Mitology",
       "category"    : "",
-      "tags"        : "patent, linux, embedded system, networks, LTE, 4G, CPQD",
+      "tags"        : "Age of Mitology, Game Development, Mod",
       "url"         : "./mods-age-of-mitology.html",
       "date"        : "2021-08-27 03:00:00 -0300",
       "description" : "Pack of small mods for Age of Mitology",
-      "content"     : "Mod Pack for Age of Mitology"
+      "content"     : "Mod Pack for Age of MitologySome small mods I developed for Age Of Mitology. Right now I have seven random maps, and one Campaing with five scenarios (in development).Random Maps Arabian Desert: A large desert with hidden treasures and bandit camps and scarse wood. Elysius Camps: A miraculous and brilliant land, with plenty of resources available, but you will have to fight for it. Guardians A: Each player starts with a Guardian in the Valley of the Kings. Guardians B: Each player starts with a Guardian in a Savanna megalopolis. One Settlement: All players start with one settlement and some small villages. But there are no other settlements available. Ragnarock: A Battle Royale among the gods in a nordic apocalyptic World. Sahara Desert: All resources are hard to be found in this map, especially wood."
     } ,
   
     {
       "title"       : "Tabletop RPG Soundtrack",
       "category"    : "",
-      "tags"        : "Skyrim, Creation Kit, Papyrus, Game, Mod",
+      "tags"        : "RPG, Tabletop, Soundtrack",
       "url"         : "./tabletop.html",
       "date"        : "2021-08-01 03:00:00 -0300",
       "description" : "Tabletop RPG Soundtrack",
       "content"     : "Tabletop RPG Soundtrack"
-    } ,
-  
-    {
-      "title"       : "Dawn of the Silver Hands",
-      "category"    : "",
-      "tags"        : "Skyrim, Creation Kit, Papyrus, Game, Mod",
-      "url"         : "./dsilhand.html",
-      "date"        : "2021-08-01 03:00:00 -0300",
-      "description" : "Skyrim mod -- Join the Silver Hand faction!",
-      "content"     : "DSilHand"
     } ,
   
     {
@@ -141,29 +151,19 @@
     } ,
   
     {
-      "title"       : "Simitar",
+      "title"       : "SIMITAR - SniffIng ModellIng and TrAffic geneRation",
       "category"    : "",
-      "tags"        : "",
+      "tags"        : "Simitar, Traffic Generation, Network Traffic Modelling",
       "url"         : "./simitar.html",
       "date"        : "2019-08-27 03:00:00 -0300",
-      "description" : "Simitar",
-      "content"     : "Simitar"
-    } ,
-  
-    {
-      "title"       : "MininetWifi Contribuition",
-      "category"    : "",
-      "tags"        : "",
-      "url"         : "./mininet-wifi.html",
-      "date"        : "2019-08-27 03:00:00 -0300",
-      "description" : "MininetWifi",
-      "content"     : "MininetWifi Contribuition"
+      "description" : "SIMITAR - SniffIng ModellIng and TrAffic geneRation",
+      "content"     : "SIMITAR: SniffIng ModellIng and TrAffic geneRation 1. IntrodutionSIMITAR stands for SIMITAR: SnIffing, ModellIng and TrAffic geneRation. SIMITAR is a tool for creating synthetic and realist network traffic. It uses actual netowork traffic (live captures or pcap files) for creating a flow-oriented traffic model. This model is used for creating network traffic, and is provided as parameter for the traffic generator. It is self-configurated because you dont have to care about adjusting stochastic parameters such as exponenetial rates, protocol, ports, or traffic rates as input parameters. It is all contained inside te traffic model created. The traffic generator is not attached to a especific technology. It has a flow scheduler, which creates a thread for each flow. As traffic generator engine we can use from applications to low-level C/C++ lybraries. Currently we have extended it to Libtins(C++ packet frafter library) and Iperf. 2. Quick installation GuideClone this project directory:git clone https://github.com/AndersonPaschoalon/ProjetoMestradoGo to SIMITAR root directory:cd Projeto/Mestrado/SIMITAR/Run the build.py script. This is a script used to simplify the installarion of dependencies and build process. Type:./build.py --depsTypes y/Yes for any request of confimation. To build type:./build.py --clean./build.py --buildThese commands will ensure all required directories are created, and run make clean and make for each component in the right order. Link for all the binaries will be placed at bin/. This application use absoluthe paths for the files, so you may execute any executable from any place. These links and executables are equivalent: executable link sniffer/sniffer-cli.py bin/simitar-sniffer trace-analyzer/trace-analyzer bin/simitar-trace-analyzer simitar-gen/simitar-gen bin/simitar-gen 3. Components and appsSIMITAR is composed of 4 components: Sniffer (sniffer/sniffer-cli.py or bin/simitar-sniffer) : Capture data from the pcap files or live captures. Database (data/db/Trace.db): local database for the capture traces. Trace Analyzer (trace-analyzer/trace-analyzer or bin/trace-analyzer): creates the XML file (Compact Trace Descriptor) used by simitar-gen to create a synthetic traffic. The files are placed at the directory /data/xml/. Some pre-generated Compact Trace Descriptor files are already placed there. Traffic Generator (simitar-gen/simitar-gen or bin/simitar-gen): creates the sysnthetic traffic. A component diagram of the wole project is placed in the image below. 4. Basic ExecutionBefore executing any command, you must load the enviroment variables:source data/config/simitar-workspace-config.shSniffer works collecting information about an input traffic such as a pcap fileor a live traffic, and stores it in a sqlite3 database. It can be executed onthe directory sniffer/. Eg.:./sniffer-cli.py new \"intrig-traffic\" live eth0 --timeout 15This command will start and store a new capture trace on the local database. This capture will least for 15 seconds. Ather this execution, use this command to show the capture information on the database:./sniffer-cli.py listTrace Analyzer creates a compact trace descriptor in XML file using a saved in the database. It salves the xml on the directory data/xml/. It can be executed on the directory trace-analyzer/. Eg.:./trace-analyzer --trace \"intrig-traffic\"The name passed in the --trace option must be the same as the one stored in the local database. Many others options are available(you may check tem typing --help) but none is mandatory. They may be used to control the parameters on the modelling process. After the execution, you may type on the root directory this command do check if the compact traffic trace was created:ls data/xml/* |grep \"intrig-traffic\"It must show two files: intrig-traffic.sec.xml and intrig-traffic.ms.xml. The first was parameterized using a time-scale of seconds, and the second of milliseconds. Some tools, like D-ITG use milliseconds as parameter input for its stochastic models.The traffic generator simitar-gen is able to create traffic based on the modelcreated by the traffic generator. It can be executed on the directory simitar-gen/. To generate and receive the traffic, execute:sudo -E ./simitar-gen --tool iperf --mode client --ether eth0 --xml ../data/xml/intrig-traffic.sec.xml --dst-ip 10.0.0.2sudo -E ./simitar-gen --tool tins --mode client --ether eth0 --xml ../data/xml/intrig-traffic.sec.xmlsudo -E ./simitar-gen --tool iperf --mode server --ether eth0 --xml ../data/xml/intrig-traffic.sec.xmlIperf and D-ITG require the use of a client and a server, since it creates a connection before sending any packets. Others tools like tins, requirejust the operation as a client, since since it crafts packets “on the wire”. It is important the use of the -E option on sudo to export the enviroment variables.5. Demos5.1. 5 minutes (or less) demo (if you already have everything installed)Open two terminals (we recomend terminator). First, lets try iperf as packet generator engine. At SIMITAR root directory:source data/config/simitar-workspace-config.shsudo -E ./bin/simitar-gen --tool iperf --mode server --ether lo --xml data/xml/skype.sec.xmlThan, on another terminal, execute:source data/config/simitar-workspace-config.shsudo -E ./bin/simitar-gen --tool iperf --mode client --ether lo --xml data/xml/skype.sec.xml --dst-ip 127.0.0.1To test Libtins as packet generator engine, just execute:source data/config/simitar-workspace-config.shsudo -E ./bin/simitar-gen --tool tins --mode client --ether lo --xml data/xml/skype.sec.xml --dst-ip 127.0.0.15.2. OpenDayLight Topology DemoFor running this demo, you must have installed the following tools installed: Wireshark Mininet OpenDayLight (distribution-karaf-0.4.0-Beryllium) SIMITARWe also recoment a XML visualizer, such as XML Tree Editor.5.2.1. Installing and running OpenDayLight (Beryllium)First, we procedute with the follow commans on the terminalapt-get updateapt-get install maven git unzipThan, you cd to the directory you want to install OpenDayLight, and execute:wget https://nexus.opendaylight.org/content/groups/public/org/opendaylight/integration/distribution-karaf/0.4.0-Beryllium/distribution-karaf-0.4.0-Beryllium.zipunzip distribution-karaf-0.4.0-Beryllium.zipexport JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64To run OpenDaylight, execute:cd distribution-karaf-0.4.0-Beryllium.zip./bin/karafOn the OpenDayLight terminal, executeopendaylight-user@root&gt; feature:install odl-restconf odl-l2switch-switch odl-mdsal-apidocs odl-dlux-coreopendaylight-user@root&gt; feature:install odl-dlux-all odl-openflowplugin-flow-services-uiopendaylight-user@root&gt; feature:install odl-dlux-core odl-dlux-node odl-dlux-yangui odl-dlux-yangvisualizerYou may access the web interface of OpenDayLight using this link and login/passorwds on your browser:http://localhost:8181/index.htmllogin: adminpassword: admin5.2.2 Running and visualizing our Mininet topology:From SIMITAR root directory, run:cd Tests/SimulationMininet/First of all, clean up mininet:sudo mn -cWe first will build the simpler topology:sudo ./simple-topo-test.pyFrom Mininet terminal, you have to tell OpenDayLight where are all switches:mininet&gt; pingall 5.2.3 Finally, SIMITARIn the screenshot below you will see the topology we just build. To open a terminal for the host h1, type on mininet console:mininet&gt; xterm h1 On the h1 terminal, open Wireshark:wireshark &amp;and start scanning the interface h1-eth0. To run SIMITAR, execute:source data/config/simitar-workspace-config.sh ./bin/simitar-gen --tool tins --mode client --ether h1-eth0 --xml ./data/xml/skype.sec.xmlIf you go to the Wireshark window you just oppened, you will the the packets being generated, and how the bandwidth looks like over the time. Simitar will stop its execution once the whole traffic descripted by skype.sec.xml is executed. Since the implementation of Libtins, specified by the option --tool tins works as a packet injector, there is no need for the use of a server-size instantiation of SIMITAR. But if you choose iperf as traffic generator tool, you will need it. This time we will build a funnier topology:# @ Tests/SimulationMininet/$ sudo mn -c$ sudo ./simple-topo-test.py# @ mininet terminal. IF it fails the first time, just try againmininet&gt; pingallOn the OpenDayLight session you oppened on your favourite bronwnser, reload the page. You will find something like this: Much cooler.Now, on the mininet terminal, execute:mininet&gt; xterm h1mininet&gt; xterm h8Run wireshark on both, and go to SIMITAR directory on both was well. On the h8 terminal, run the server first:# xterm h8source data/config/simitar-workspace-config.sh ./bin/simitar-gen --tool tins --mode server --ether h1-eth0 --xml ./data/xml/skype.sec.xml Iperf need to know the IP addr of the destination, to stablishes contact. Try both commans below (in two different runs). In the first, you will just pass a single Ip address of destinations. For the second, to run properly, you will need to execute the server-side command of simitar on all hosts, from 2 to 8. The argument is a CSV file, in the format ,MACAddr. For iperf, there is no need for the MAC address. The MACs on the file `data/csv/ip-addrs-list1.csv` are not actually used.# xterm h1source data/config/simitar-workspace-config.sh ./bin/simitar-gen --tool iperf --mode client --ether h1-eth0 --xml ./data/xml/skype.sec.xml --dst-ip 10.0.08# xterm h1source data/config/simitar-workspace-config.sh ./bin/simitar-gen --tool iperf --mode client --ether h1-eth0 --xml ./data/xml/skype.sec.xml --dst-list-ip ./data/csv/ip-addrs-list1.csv"
     } ,
   
     {
       "title"       : "SIMITAR - synthetic and realistic network traffic generation",
       "category"    : "",
-      "tags"        : "",
+      "tags"        : "Sniffing, Modelling, Traffic Generator, Flow, Libtins, D-ITG, Iperf",
       "url"         : "./simitar-thesis.html",
       "date"        : "2019-03-19 16:32:20 -0300",
       "description" : "todo.",
@@ -183,7 +183,7 @@
     {
       "title"       : "Using BIC and AIC for Ethernet traffic model selection. Is it worth?",
       "category"    : "",
-      "tags"        : "BIC, AIC, stochastic function, inter-packet times, correlation, Hurst exponent, heavy-tailed distribution",
+      "tags"        : "BIC, AIC, Network Traffic Modelling, Hurst exponent, heavy-tailed distribution",
       "url"         : "./aic-bic-first.html",
       "date"        : "2017-10-26 16:32:20 -0300",
       "description" : "We aim to evaluate how good are the information criteria AIC and BIC inferring which is the best stochastic process to describe Ethernet inter-packet times.",
@@ -193,7 +193,7 @@
     {
       "title"       : "Towards a Flexible and Extensible Framework for Realistic Traffic Generation on Emerging Networking Scenarios",
       "category"    : "",
-      "tags"        : "framework, traffic generation, modelling, burstiness, fractal, flow level",
+      "tags"        : "BIC, AIC, Traffic Generation, Traffic Modelling, Fractal",
       "url"         : "./traff-gen.html",
       "date"        : "2016-09-29 16:32:20 -0300",
       "description" : "Model proposal for a flexible traffic generator.",
@@ -201,9 +201,19 @@
     } ,
   
     {
+      "title"       : "MininetWifi Contribuition",
+      "category"    : "",
+      "tags"        : "SDN, Open Source, Contribution, C++",
+      "url"         : "./mininet-wifi.html",
+      "date"        : "2016-09-29 03:00:00 -0300",
+      "description" : "MininetWifi",
+      "content"     : "MininetWifi ContribuitionThis is a contrubution I made in 2016 for the testing and validation related with a MininetWifi publication.It is a simulation of File tranference implemented using the NS-3 Framework. The source code can be found here. About: Simulate the tranference of a file of 62.6 Mbytes trough two wifi stations. Topology: Wifi 10.1.1.0 * &lt;-2.72m-&gt; * &lt;-4.08m-&gt; * n0 AP n1 (source) (client)"
+    } ,
+  
+    {
       "title"       : "CPQD3036 - ETHERMONITOR - V.1.0",
       "category"    : "",
-      "tags"        : "patent, linux, embedded system, networks, LTE, 4G, CPQD",
+      "tags"        : "patent, Embedded Linux, LTE, 4G, CPQD",
       "url"         : "./ethermonitor.html",
       "date"        : "2014-08-27 03:00:00 -0300",
       "description" : "Computer Program Registration Certificate.",
@@ -213,7 +223,7 @@
     {
       "title"       : "CPQD3036 - ETHERMONITOR - V.1.0",
       "category"    : "",
-      "tags"        : "patent, linux, embedded system, networks, LTE, 4G, CPQD",
+      "tags"        : "Embedded Linux, Networks, LTE, 4G, CPQD",
       "url"         : "./ethermonitor.html",
       "date"        : "2014-08-27 03:00:00 -0300",
       "description" : "Computer Program Registration Certificate.",

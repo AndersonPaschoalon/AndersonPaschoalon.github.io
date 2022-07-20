@@ -5,8 +5,8 @@ show_date: true
 title:  SIMITAR - synthetic and realistic network traffic generation
 date:   2019-03-19 13:32:20 -0600
 description: todo.
-img: posts/post-thesis.jpg
-tags: []
+img: posts/pub/post-thesis.jpg
+tags: [Sniffing, Modelling, Traffic Generator, Flow, Libtins, D-ITG, Iperf]
 author: Anderson Paschoalon
 # Links
 github:  https://github.com/AndersonPaschoalon/Simitar

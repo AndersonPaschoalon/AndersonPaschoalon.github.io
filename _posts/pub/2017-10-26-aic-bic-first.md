@@ -5,8 +5,8 @@ show_date: true
 title:  Using BIC and AIC for Ethernet traffic model selection. Is it worth?
 date:   2017-10-26 13:32:20 -0600
 description: We aim to evaluate how good are the information criteria AIC and BIC inferring which is the best stochastic process to describe Ethernet inter-packet times.
-img: posts/post_network-grid.png 
-tags: [BIC, AIC, stochastic function, inter-packet times, correlation, Hurst exponent, heavy-tailed distribution]
+img: posts/pub/post_network-grid.png 
+tags: [BIC, AIC, Network Traffic Modelling, Hurst exponent, heavy-tailed distribution]
 author: Anderson Paschoalon 
 # Links
 github: 

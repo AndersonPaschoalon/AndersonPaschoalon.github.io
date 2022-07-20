@@ -1,4 +1,116 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-13T02:28:57-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Anderson Paschoalon</title><subtitle>A front-end for my academic formation, projects, and some more stuff.</subtitle><author><name>Anderson Paschoalon</name></author><entry><title type="html">Md2Html</title><link href="http://localhost:4000/md2Html.html" rel="alternate" type="text/html" title="Md2Html" /><published>2022-05-27T03:00:00-03:00</published><updated>2022-05-27T03:00:00-03:00</updated><id>http://localhost:4000/md2Html</id><content type="html" xml:base="http://localhost:4000/md2Html.html"><![CDATA[<h1 id="md2html">Md2Html</h1>]]></content><author><name>Anderson Paschoalon</name></author><summary type="html"><![CDATA[Md2Html]]></summary></entry><entry><title type="html">Mod Pack for Age of Mitology</title><link href="http://localhost:4000/mods-age-of-mitology.html" rel="alternate" type="text/html" title="Mod Pack for Age of Mitology" /><published>2021-08-27T03:00:00-03:00</published><updated>2021-08-27T03:00:00-03:00</updated><id>http://localhost:4000/mods-age-of-mitology</id><content type="html" xml:base="http://localhost:4000/mods-age-of-mitology.html"><![CDATA[<h1 id="mod-pack-for-age-of-mitology">Mod Pack for Age of Mitology</h1>]]></content><author><name>Anderson Paschoalon</name></author><category term="patent" /><category term="linux" /><category term="embedded system" /><category term="networks" /><category term="LTE" /><category term="4G" /><category term="CPQD" /><summary type="html"><![CDATA[Pack of small mods for Age of Mitology]]></summary></entry><entry><title type="html">Quest Dialog Manager</title><link href="http://localhost:4000/quest-dialog-manager.html" rel="alternate" type="text/html" title="Quest Dialog Manager" /><published>2021-08-27T03:00:00-03:00</published><updated>2021-08-27T03:00:00-03:00</updated><id>http://localhost:4000/quest-dialog-manager</id><content type="html" xml:base="http://localhost:4000/quest-dialog-manager.html"><![CDATA[<h1 id="quest-dialog-manager">Quest Dialog Manager</h1>]]></content><author><name>Anderson Paschoalon</name></author><summary type="html"><![CDATA[Computer Program Registration Certificate.]]></summary></entry><entry><title type="html">MoForGit</title><link href="http://localhost:4000/moforgit.html" rel="alternate" type="text/html" title="MoForGit" /><published>2021-08-27T03:00:00-03:00</published><updated>2021-08-27T03:00:00-03:00</updated><id>http://localhost:4000/moforgit</id><content type="html" xml:base="http://localhost:4000/moforgit.html"><![CDATA[<h1 id="moforgit">MoForGit</h1>]]></content><author><name>Anderson Paschoalon</name></author><summary type="html"><![CDATA[Mod organizer for Git Versioning]]></summary></entry><entry><title type="html">Tabletop RPG Soundtrack</title><link href="http://localhost:4000/tabletop.html" rel="alternate" type="text/html" title="Tabletop RPG Soundtrack" /><published>2021-08-01T03:00:00-03:00</published><updated>2021-08-01T03:00:00-03:00</updated><id>http://localhost:4000/tabletop</id><content type="html" xml:base="http://localhost:4000/tabletop.html"><![CDATA[<h1 id="tabletop-rpg-soundtrack">Tabletop RPG Soundtrack</h1>]]></content><author><name>Anderson Paschoalon</name></author><category term="Skyrim" /><category term="Creation Kit" /><category term="Papyrus" /><category term="Game" /><category term="Mod" /><summary type="html"><![CDATA[Tabletop RPG Soundtrack]]></summary></entry><entry><title type="html">Dawn of the Silver Hands</title><link href="http://localhost:4000/dsilhand.html" rel="alternate" type="text/html" title="Dawn of the Silver Hands" /><published>2021-08-01T03:00:00-03:00</published><updated>2021-08-01T03:00:00-03:00</updated><id>http://localhost:4000/dsilhand</id><content type="html" xml:base="http://localhost:4000/dsilhand.html"><![CDATA[<h1 id="dsilhand">DSilHand</h1>]]></content><author><name>Anderson Paschoalon</name></author><category term="Skyrim" /><category term="Creation Kit" /><category term="Papyrus" /><category term="Game" /><category term="Mod" /><summary type="html"><![CDATA[Skyrim mod -- Join the Silver Hand faction!]]></summary></entry><entry><title type="html">Who owns the copyright for an AI generated creative work?</title><link href="http://localhost:4000/AI-and-intellectual-property.html" rel="alternate" type="text/html" title="Who owns the copyright for an AI generated creative work?" /><published>2021-04-20T00:00:00-03:00</published><updated>2021-04-20T00:00:00-03:00</updated><id>http://localhost:4000/AI-and-intellectual-property</id><content type="html" xml:base="http://localhost:4000/AI-and-intellectual-property.html"><![CDATA[<p>Recently I was <a href="https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/">reading an article</a> about a cool project that intends to have a neural network create songs of the late club of the 27 (artists that have tragically died at age 27 or near, and in the height of their respective careers), artists such as Amy Winehouse, Jimmy Hendrix, Curt Cobain and Jim Morrison.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-20T01:21:15-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Anderson Paschoalon</title><subtitle>A front-end for my academic formation, projects, and some more stuff.</subtitle><author><name>Anderson Paschoalon</name></author><entry><title type="html">Dawn of the Silver Hands</title><link href="http://localhost:4000/dsilhand.html" rel="alternate" type="text/html" title="Dawn of the Silver Hands" /><published>2022-07-01T03:00:00-03:00</published><updated>2022-07-01T03:00:00-03:00</updated><id>http://localhost:4000/dsilhand</id><content type="html" xml:base="http://localhost:4000/dsilhand.html"><![CDATA[<h1 id="dsilhand">DSilHand</h1>]]></content><author><name>Anderson Paschoalon</name></author><category term="Skyrim" /><category term="Creation Kit" /><category term="Papyrus" /><category term="Game Development" /><category term="Mod" /><summary type="html"><![CDATA[Skyrim mod -- Join the Silver Hand faction!]]></summary></entry><entry><title type="html">Quest Dialog Manager</title><link href="http://localhost:4000/quest-dialog-manager.html" rel="alternate" type="text/html" title="Quest Dialog Manager" /><published>2022-06-01T03:00:00-03:00</published><updated>2022-06-01T03:00:00-03:00</updated><id>http://localhost:4000/quest-dialog-manager</id><content type="html" xml:base="http://localhost:4000/quest-dialog-manager.html"><![CDATA[<h1 id="quest-dialog-manager">Quest Dialog Manager</h1>
+
+<p>CK QuestDialogManages is a tool to help manage your quest mod:</p>
+<ul>
+  <li>Allows the conversion and generation of many audio
+files formats (wav, xwm, fuz)</li>
+  <li>Allow you easily manage the audios from you mod: listen
+to audios, manage file names,and check subtitles;</li>
+  <li>Generate beautifull and comprehensive documentation;</li>
+  <li>Reusable Comments and anotations for your documentation.
+Regenerate as many times you want with no loss.</li>
+</ul>]]></content><author><name>Anderson Paschoalon</name></author><category term="Skyrim" /><category term="Mod" /><category term="Desktop" /><category term="Python" /><summary type="html"><![CDATA[Computer Program Registration Certificate.]]></summary></entry><entry><title type="html">Md2Html</title><link href="http://localhost:4000/md2Html.html" rel="alternate" type="text/html" title="Md2Html" /><published>2022-05-27T03:00:00-03:00</published><updated>2022-05-27T03:00:00-03:00</updated><id>http://localhost:4000/md2Html</id><content type="html" xml:base="http://localhost:4000/md2Html.html"><![CDATA[<h1 id="md2html">Md2Html</h1>
+
+<p>Just a simple command line app to convert Markdown files to HTML.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Usage:
+        md2html --md &lt;markdown-file&gt; --title &lt;html-title&gt;
+
+Options:
+        --md|-m &lt;markdown-file&gt;: path to markdown file
+        --title|-t &lt;html-title&gt;: title to the HTML page title
+</code></pre></div></div>
+
+<p>Example:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.\\Md2Html.exe --md SampleMarkdown.md --title "HTML page title"
+</code></pre></div></div>]]></content><author><name>Anderson Paschoalon</name></author><category term="Markdown" /><category term="HTML" /><category term="Bootstrap" /><category term="Python" /><summary type="html"><![CDATA[Md2Html]]></summary></entry><entry><title type="html">Swing Traffic Generator</title><link href="http://localhost:4000/swing.html" rel="alternate" type="text/html" title="Swing Traffic Generator" /><published>2022-05-27T03:00:00-03:00</published><updated>2022-05-27T03:00:00-03:00</updated><id>http://localhost:4000/swing</id><content type="html" xml:base="http://localhost:4000/swing.html"><![CDATA[<h1 id="swingxficgenerator-v032">Swingxficgenerator (v0.3.2)</h1>
+
+<p>This is a re-upload for the Swing Traffic Generator. Its official homepage is located <a href="https://cseweb.ucsd.edu/~kvishwanath/Swing/"><strong>HERE</strong></a>.</p>
+
+<p>The swing traffic generator is a tool used in the publication <em>Swing: Realistic and Responsive Network Traffic Generation</em>. But the original source code has a compilation error, and I fixed it.</p>
+
+<p>I tried to contact the author some times by email, but with no response. If the author, or anyone related with the project find this repository, please, contact me.</p>
+
+<p>Since the Author <a href="AUTHORS"><strong>Kashi Venkatesh Vishwanath</strong></a> allowed to redistribute the code, according to its <a href="LICENSE"><strong>LICENCE</strong></a> I decided publish it here, so anyone can use this tool.</p>
+
+<p>The original readme file, with a quick introduction, can be found <a href="README"><strong>here</strong></a>.</p>
+
+<p>If you use <strong>Swingxficgenerator</strong> in any work, please, cite the original paper. I also recomment the reading for a deeper undertanding of the tool.</p>
+
+<blockquote>
+  <p><strong>Plain Text</strong></p>
+  <blockquote>
+    <p>K. V. Vishwanath and A. Vahdat, “Swing: Realistic and Responsive Network Traffic Generation,” in IEEE/ACM Transactions on Networking, vol. 17, no. 3, pp. 712-725, June 2009, doi: 10.1109/TNET.2009.2020830.</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p><strong>BibTeX</strong></p>
+  <blockquote>
+    <p><code class="language-plaintext highlighter-rouge">@ARTICLE{4914755,
+  author={Vishwanath, Kashi Venkatesh and Vahdat, Amin},
+  journal={IEEE/ACM Transactions on Networking}, 
+  title={Swing: Realistic and Responsive Network Traffic Generation}, 
+  year={2009},
+  volume={17},
+  number={3},
+  pages={712-725},
+  doi={10.1109/TNET.2009.2020830}}</code></p>
+  </blockquote>
+</blockquote>
+
+<p>I used this paper in my master thesis and on its paper, so I’m really greatefull for his work.</p>
+
+<p>My thesis can be found here:
+<a href="http://repositorio.unicamp.br/acervo/detalhe/1090415?guid=1657351507677&amp;returnUrl=%2fresultado%2flistar%3fguid%3d1657351507677%26quantidadePaginas%3d1%26codigoRegistro%3d1090415%231090415&amp;i=1">SIMITAR: synthetic and realistic network traffic generation</a></p>
+
+<p>And my article “<strong>Automated Selection of Inter-Packet Time Models Through Information Criteria</strong>” here:</p>
+
+<blockquote>
+  <p><strong>Plain Text</strong></p>
+  <blockquote>
+    <p>A. d. S. Paschoalon and C. E. Rothenberg, “Automated Selection of Inter-Packet Time Models Through Information Criteria,” in IEEE Networking Letters, vol. 1, no. 2, pp. 56-59, June 2019, doi: 10.1109/LNET.2019.2905364.</p>
+  </blockquote>
+
+  <p><strong>BibTeX</strong></p>
+  <blockquote>
+    <p>@ARTICLE{8667676,
+  author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve},
+  journal={IEEE Networking Letters}, 
+  title={Automated Selection of Inter-Packet Time Models Through Information Criteria}, 
+  year={2019},
+  volume={1},
+  number={2},
+  pages={56-59},
+  doi={10.1109/LNET.2019.2905364}}</p>
+  </blockquote>
+</blockquote>]]></content><author><name>Anderson Paschoalon</name></author><category term="Swing" /><category term="Traffic Generator" /><category term="Traffic Modelling" /><category term="Wavelet" /><summary type="html"><![CDATA[Swing - Realistic and Responsive Network Traffic Generation]]></summary></entry><entry><title type="html">Spear</title><link href="http://localhost:4000/moforgit.html" rel="alternate" type="text/html" title="Spear" /><published>2022-01-25T03:00:00-03:00</published><updated>2022-01-25T03:00:00-03:00</updated><id>http://localhost:4000/moforgit</id><content type="html" xml:base="http://localhost:4000/moforgit.html"><![CDATA[<h1 id="spear-mod-organizer-for-git-versioning">Spear: Mod Organizer for Git Versioning</h1>
+
+<p>MoForGit is a tool that allows you create a Git repository using a Mod Organizer Tools.</p>
+
+<ul>
+  <li>
+    <p>Allows you to manage different installations of Steam Game in the same Hard Disk;</p>
+  </li>
+  <li>
+    <p>Transform the installation folder into a git repository, and gitignore all the game files – do file versioning of only your mod files.</p>
+  </li>
+</ul>]]></content><author><name>Anderson Paschoalon</name></author><category term="Skyrim" /><category term="Mod" /><category term="Desktop" /><category term="CSharp" /><summary type="html"><![CDATA[Mod organizer for Git Versioning]]></summary></entry><entry><title type="html">Mod Pack for Age of Mitology</title><link href="http://localhost:4000/mods-age-of-mitology.html" rel="alternate" type="text/html" title="Mod Pack for Age of Mitology" /><published>2021-08-27T03:00:00-03:00</published><updated>2021-08-27T03:00:00-03:00</updated><id>http://localhost:4000/mods-age-of-mitology</id><content type="html" xml:base="http://localhost:4000/mods-age-of-mitology.html"><![CDATA[<h1 id="mod-pack-for-age-of-mitology">Mod Pack for Age of Mitology</h1>
+
+<p>Some small mods I developed for Age Of Mitology. Right now I have seven random maps, and one Campaing with five scenarios (in development).</p>
+
+<h3 id="random-maps">Random Maps</h3>
+
+<ul>
+  <li><strong>Arabian Desert</strong>: A large desert with hidden treasures and bandit camps and scarse wood.</li>
+  <li><strong>Elysius Camps</strong>: A miraculous and brilliant land, with plenty of resources available, but you will have to fight for it.</li>
+  <li><strong>Guardians A</strong>: Each player starts with a Guardian in the Valley of the Kings.</li>
+  <li><strong>Guardians B</strong>: Each player starts with a Guardian in a Savanna megalopolis.</li>
+  <li><strong>One Settlement</strong>: All players start with one settlement and some small villages. But there are no other settlements available.</li>
+  <li><strong>Ragnarock</strong>: A Battle Royale among the gods in a nordic apocalyptic World.</li>
+  <li><strong>Sahara Desert</strong>: All resources are hard to be found in this map, especially wood.</li>
+</ul>]]></content><author><name>Anderson Paschoalon</name></author><category term="Age of Mitology" /><category term="Game Development" /><category term="Mod" /><summary type="html"><![CDATA[Pack of small mods for Age of Mitology]]></summary></entry><entry><title type="html">Tabletop RPG Soundtrack</title><link href="http://localhost:4000/tabletop.html" rel="alternate" type="text/html" title="Tabletop RPG Soundtrack" /><published>2021-08-01T03:00:00-03:00</published><updated>2021-08-01T03:00:00-03:00</updated><id>http://localhost:4000/tabletop</id><content type="html" xml:base="http://localhost:4000/tabletop.html"><![CDATA[<h1 id="tabletop-rpg-soundtrack">Tabletop RPG Soundtrack</h1>]]></content><author><name>Anderson Paschoalon</name></author><category term="RPG" /><category term="Tabletop" /><category term="Soundtrack" /><summary type="html"><![CDATA[Tabletop RPG Soundtrack]]></summary></entry><entry><title type="html">Who owns the copyright for an AI generated creative work?</title><link href="http://localhost:4000/AI-and-intellectual-property.html" rel="alternate" type="text/html" title="Who owns the copyright for an AI generated creative work?" /><published>2021-04-20T00:00:00-03:00</published><updated>2021-04-20T00:00:00-03:00</updated><id>http://localhost:4000/AI-and-intellectual-property</id><content type="html" xml:base="http://localhost:4000/AI-and-intellectual-property.html"><![CDATA[<p>Recently I was <a href="https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/">reading an article</a> about a cool project that intends to have a neural network create songs of the late club of the 27 (artists that have tragically died at age 27 or near, and in the height of their respective careers), artists such as Amy Winehouse, Jimmy Hendrix, Curt Cobain and Jim Morrison.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GogY7RQFFus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -275,248 +387,4 @@
 
 <p>But this fix did not work for the search function, because it relies on a <code class="language-plaintext highlighter-rouge">search.json</code> file (also generated programmatically to be served as a static file), therefore when generating this file one either use the relative path for the <code class="language-plaintext highlighter-rouge">root</code> directory or for a nested directory, thus the search results will only link correctly the corresponding pages if the page where the user searched for something is in the corresponding scope.</p>
 
-<p>So the final solution was to make the whole site flat, meaning to live in a single directory. All pages and posts will live under the root directory, and by doing so, I can control how to address the relative paths for resources.</p>]]></content><author><name>Armando Maynez</name></author><category term="general blogging" /><category term="thoughts" /><category term="life" /><summary type="html"><![CDATA[Midlife career change: a disaster or an opportunity?]]></summary></entry><entry><title type="html">Deep Q Learning for Tic Tac Toe</title><link href="http://localhost:4000/deep-q-learning-tic-tac-toe.html" rel="alternate" type="text/html" title="Deep Q Learning for Tic Tac Toe" /><published>2021-03-18T18:14:20-03:00</published><updated>2021-03-18T18:14:20-03:00</updated><id>http://localhost:4000/deep-q-learning-tic-tac-toe</id><content type="html" xml:base="http://localhost:4000/deep-q-learning-tic-tac-toe.html"><![CDATA[<center><img style="float: left;margin-right: 1em;" src="./assets/img/posts/Game_Screen.png" width="310" height="300" /></center>
-
-<h2 id="background">Background</h2>
-<p>After many years of a corporate career (17) diverging from computer science, I have now decided to learn Machine Learning and in the process return to coding (something I have always loved!).</p>
-
-<p>To fully grasp the essence of ML I decided to start by <a href="./ML-Library-from-scratch.html">coding a ML library myself</a>, so I can fully understand the inner workings, linear algebra and calculus involved in Stochastic Gradient Descent. And on top learn Python (I used to code in C++ 20 years ago).</p>
-
-<p>I built a general purpose basic ML library that creates a Neural Network (only DENSE layers), saves and loads the weights into a file, does forward propagation and training (optimization of weights and biases) using SGD. I tested the ML library with the XOR problem to make sure it worked fine. You can read the blog post for it <a href="./ML-Library-from-scratch.html">here</a>.</p>
-
-<p>For the next challenge I am interested in reinforcement learning greatly inspired by Deep Mind’s astonishing feats of having their Alpha Go, Alpha Zero and Alpha Star programs learn (and be amazing at it) Go, Chess, Atari games and lately Starcraft; I set myself to the task of programming a neural network that will learn by itself how to play the ancient game of tic tac toe (or noughts and crosses).</p>
-
-<p>How hard could it be?</p>
-
-<p>Of course the first thing to do was to program the game itself, so I chose Python because I am learning it, so it gives me a good practice opportunity, and PyGame for the interface.
-Coding the game was quite straightforward, albeit for the hiccups of being my first PyGame and almost my first Python program ever.
-I created the game quite openly, in such a way that it can be played by two humans, by a human vs. an algorithmic AI, and a human vs. the neural network. And of course the neural network against a choice of 3 AI engines: random, <a href="https://en.wikipedia.org/wiki/Minimax">minimax</a> or hardcoded (an exercise I wanted to do since a long time).</p>
-
-<p>While training, the visuals of the game can be disabled to make training much faster.
-Now, for the fun part, training the network, I followed Deep Mind’s own DQN recommendations:</p>
-
-<ul><li>The network will be an approximation for the Q value function or Bellman equation, meaning that the network will be trained to predict the "value" of each move available in a given game state.</li><li>A replay experience memory was implemented. This meant that the neural network will not be trained after each move. Each move will be recorded in a special "memory" alongside with the state of the board and the reward it received for taking such an action (move).</li><li>After the memory is sizable enough, batches of random experiences sampled from the replay memory are used for every training round</li><li>A secondary neural network (identical to the main one) is used to calculate part of the Q value function (Bellman equation), in particular the future Q values. And then it is updated with the main network's weights every <em>n</em> games. This is done so that we are not chasing a moving target.</li></ul>
-
-<h2 id="designing-the-neural-network">Designing the neural network</h2>
-
-<center><img src="./assets/img/posts/Neural_Network_Topology.png" width="540" /></center>
-<p><br /></p>
-
-<p>The Neural Network chosen takes 9 inputs (the current state of the game) and outputs 9 Q values for each of the 9 squares in the board of the game (possible actions). Obviously some squares are illegal moves, hence while training there was a negative reward given to illegal moves hoping that the model would learn not to play illegal moves in a given position.</p>
-
-<p>I started out with two hidden layers of 36 neurons each, all fully connected and activated via ReLu. The output layer was initially activated using sigmoid to ensure that we get a nice value between 0 and 1 that represents the QValue of a given state action pair.</p>
-
-<h2 id="the-many-models">The many models…</h2>
-<h3 id="model-1---the-first-try">Model 1 - the first try</h3>
-
-<p>At first the model was trained by playing vs. a “perfect” AI, meaning a <a href="https://github.com/amaynez/TicTacToe/blob/b429e5637fe5f61e997f04c01422ad0342565640/entities/Game.py#L43">hard coded algorithm</a> that never looses and that will win if it is given the chance. After several thousand training rounds, I noticed that the Neural Network was not learning much; so I switched to training vs. a completely random player, so that it will also learn how to win. After training vs. the random player, the Neural Network seems to have made progress and is steadily diminishing the loss function over time.</p>
-
-<center><img src="./assets/img/posts/Loss_function_across_all_episodes.png" width="540" /></center>
-<p><br /></p>
-
-<p>However, the model was still generating many illegal moves, so I decided to modify the reinforcement learning algorithm to punish more the illegal moves. The change consisted in populating with zeros all the corresponding illegal moves for a given position at the target values to train the network. This seemed to work very well for diminishing the illegal moves:</p>
-
-<center><img src="./assets/img/posts/Loss_function_and_Illegal_moves.png" width="540" /></center>
-<p><br /></p>
-
-<p>Nevertheless, the model was still performing quite poorly winning only around 50% of games vs. a completely random player (I expected it to win above 90% of the time). This was after only training 100,000 games, so I decided to keep training and see the results:</p>
-
-<center><img src="./assets/img/posts/Loss_function_and_Illegal_moves2.png" width="540" />
-<small>Wins: 65.46% Losses: 30.32% Ties: 4.23%</small></center>
-
-<p>Note that when training restarts, the loss and illegal moves are still high in the beginning of the training round, and this is caused by the epsilon greedy strategy that prefers exploration (a completely random move) over exploitation, this preference diminishes over time.</p>
-
-<p>After another round of 100,000 games, I can see that the loss function actually started to diminish, and the win rate ended up at 65%, so with little hope I decided to carry on and do another round of 100,000 games (about 2 hours in an i7 MacBook Pro):</p>
-
-<center><img src="./assets/img/posts/Loss_function_and_Illegal_moves3.png" width="540" />
-<small>Wins: 46.40% Losses: 41.33% Ties: 12.27%</small></center>
-
-<p>As you can see in the chart, the calculated loss not even plateaued, but it seemed to increase a bit over time, which tells me the model is not learning anymore. This was confirmed by the win rate decreasing with respect of the previous round to a meek 46.4% that looks no better than a random player.</p>
-
-<h3 id="model-2---linear-activation-for-the-output">Model 2 - Linear activation for the output</h3>
-
-<p>After not getting the results I wanted, I decided to change the output activation function to linear, since the output is supposed to be a Q value, and not a probability of an action.</p>
-
-<center><img src="./assets/img/posts/Loss_function_and_Illegal_moves4.png" width="540" /><br />
-<small>Wins: 47.60% Losses: 39% Ties: 13.4%</small></center>
-<p><br /></p>
-
-<p>Initially I tested with only 1000 games to see if the new activation function was working, the loss function appears to be decreasing, however it reached a plateau around a value of 1, hence still not learning as expected. I came across a <a href="https://github.com/bckenstler/CLR">technique by Brad Kenstler, Carl Thome and Jeremy Jordan</a> called Cyclical Learning Rate, which appears to solve some cases of stagnating loss functions in this type of networks. So I gave it a go using their Triangle 1 model.</p>
-
-<p>With the cycling learning rate in place, still no luck after a quick 1,000 games training round; so I decided to implement on top a decaying learning rate as per the following formula:</p>
-
-<center><img src="./assets/img/posts/lr_formula.jpeg" width="280" /></center>
-
-<p>The resulting learning rate combining the cycles and decay per epoch is:</p>
-<center><img src="./assets/img/posts/LR_cycle_decay.png" width="480" />
-<small>Learning Rate = 0.1, Decay = 0.0001, Cycle = 2048 epochs,<br />
-        max Learning Rate factor = 10x</small></center>
-
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">true_epoch</span> <span class="o">=</span> <span class="n">epoch</span> <span class="o">-</span> <span class="n">c</span><span class="p">.</span><span class="n">BATCH_SIZE</span>
-<span class="n">learning_rate</span> <span class="o">=</span> <span class="bp">self</span><span class="p">.</span><span class="n">learning_rate</span><span class="o">*</span><span class="p">(</span><span class="mi">1</span><span class="o">/</span><span class="p">(</span><span class="mi">1</span><span class="o">+</span><span class="n">c</span><span class="p">.</span><span class="n">DECAY_RATE</span><span class="o">*</span><span class="n">true_epoch</span><span class="p">))</span>
-<span class="k">if</span> <span class="n">c</span><span class="p">.</span><span class="n">CLR_ON</span><span class="p">:</span> <span class="n">learning_rate</span> <span class="o">=</span> <span class="bp">self</span><span class="p">.</span><span class="n">cyclic_learning_rate</span><span class="p">(</span><span class="n">learning_rate</span><span class="p">,</span><span class="n">true_epoch</span><span class="p">)</span>
-</code></pre></div></div>
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">@</span><span class="nb">staticmethod</span>
-<span class="k">def</span> <span class="nf">cyclic_learning_rate</span><span class="p">(</span><span class="n">learning_rate</span><span class="p">,</span> <span class="n">epoch</span><span class="p">):</span>
-    <span class="n">max_lr</span> <span class="o">=</span> <span class="n">learning_rate</span><span class="o">*</span><span class="n">c</span><span class="p">.</span><span class="n">MAX_LR_FACTOR</span>
-    <span class="n">cycle</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">floor</span><span class="p">(</span><span class="mi">1</span><span class="o">+</span><span class="p">(</span><span class="n">epoch</span><span class="o">/</span><span class="p">(</span><span class="mi">2</span><span class="o">*</span><span class="n">c</span><span class="p">.</span><span class="n">LR_STEP_SIZE</span><span class="p">)))</span>
-    <span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="nb">abs</span><span class="p">((</span><span class="n">epoch</span><span class="o">/</span><span class="n">c</span><span class="p">.</span><span class="n">LR_STEP_SIZE</span><span class="p">)</span><span class="o">-</span><span class="p">(</span><span class="mi">2</span><span class="o">*</span><span class="n">cycle</span><span class="p">)</span><span class="o">+</span><span class="mi">1</span><span class="p">)</span>
-    <span class="k">return</span> <span class="n">learning_rate</span><span class="o">+</span><span class="p">(</span><span class="n">max_lr</span><span class="o">-</span><span class="n">learning_rate</span><span class="p">)</span><span class="o">*</span><span class="n">np</span><span class="p">.</span><span class="n">maximum</span><span class="p">(</span><span class="mi">0</span><span class="p">,(</span><span class="mi">1</span><span class="o">-</span><span class="n">x</span><span class="p">))</span>
-</code></pre></div></div>
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">c</span><span class="p">.</span><span class="n">DECAY_RATE</span> <span class="o">=</span> <span class="n">learning</span> <span class="n">rate</span> <span class="n">decay</span> <span class="n">rate</span>
-<span class="n">c</span><span class="p">.</span><span class="n">MAX_LR_FACTOR</span> <span class="o">=</span> <span class="n">multiplier</span> <span class="n">that</span> <span class="n">determines</span> <span class="n">the</span> <span class="nb">max</span> <span class="n">learning</span> <span class="n">rate</span>
-<span class="n">c</span><span class="p">.</span><span class="n">LR_STEP_SIZE</span> <span class="o">=</span> <span class="n">the</span> <span class="n">number</span> <span class="n">of</span> <span class="n">epochs</span> <span class="n">each</span> <span class="n">cycle</span> <span class="n">lasts</span>
-</code></pre></div></div>
-<p><br />With these many changes, I decided to restart with a fresh set of random weights and biases and try training more (much more) games.</p>
-
-<center><img src="./assets/img/posts/Loss_function_and_Illegal_moves6.png" width="540" />
-<small>1,000,000 episodes, 7.5 million epochs with batches of 64 moves each<br />
-Wins: 52.66% Losses: 36.02% Ties: 11.32%</small></center>
-
-<p>After <strong>24 hours!</strong>, my computer was able to run 1,000,000 episodes (games played), which represented 7.5 million training epochs of batches of 64 plays (480 million plays learned), the learning rate did decreased (a bit), but is clearly still in a plateau; interestingly, the lower boundary of the loss function plot seems to continue to decrease as the upper bound and the moving average remains constant. This led me to believe that I might have hit a local minimum.
-<a name="Model3"></a></p>
-<h3 id="model-3---new-network-topology">Model 3 - new network topology</h3>
-
-<p>After all the failures I figured I had to rethink the topology of the network and play around with combinations of different networks and learning rates.</p>
-
-<center><img src="./assets/img/posts/Loss_function_and_Illegal_moves7.png" width="540" />
-<small>100,000 episodes, 635,000 epochs with batches of 64 moves each<br />
-<b>Wins: 76.83%</b> Losses: 17.35% Ties: 5.82%</small></center>
-
-<p>I increased to 200 neurons each hidden layer. In spite of this great improvement the loss function was still in a plateau at around 0.1 (Mean Squared Error). Which, although it is greatly reduced from what we had, still was giving out only 77% win rate vs. a random player, the network was playing tic tac toe as a toddler!</p>
-
-<center><img src="./assets/img/posts/Game_Screen2.png" width="240" height="240" />
-<small>*I can still beat the network most of the time! (I am playing with the red X)*</small></center>
-
-<center><img src="./assets/img/posts/Loss_function_and_Illegal_moves10.png" width="540" />
-<small>100,000 more episodes, 620,000 epochs with batches of 64 moves each<br />
-<b>Wins: 82.25%</b> Losses: 13.28% Ties: 4.46%</small></center>
-
-<p><strong>Finally we crossed the 80% mark!</strong> This is quite an achievement, it seems that the change in network topology is working, although it also looks like the loss function is stagnating at around 0.15.</p>
-
-<p>After more training rounds and some experimenting with the learning rate and other parameters, I couldn’t improve past the 82.25% win rate.</p>
-
-<p>These have been the results so far:</p>
-
-<center><img src="./assets/img/posts/Models1to3.png" width="540" /></center>
-<p><br /></p>
-
-<p>It is quite interesting to learn how the many parameters (hyper-parameters as most authors call them) of a neural network model affect its training performance, I have played with:</p>
-<ul>
-  <li>the learning rate</li>
-  <li>the network topology and activation functions</li>
-  <li>the cycling and decaying learning rate parameters</li>
-  <li>the batch size</li>
-  <li>the target update cycle (when the target network is updated with the weights from the policy network)</li>
-  <li>the rewards policy</li>
-  <li>the epsilon greedy strategy</li>
-  <li>whether to train vs. a random player or an “intelligent” AI.</li>
-</ul>
-
-<p>And so far the most effective change has been the network topology, but being so close but not quite there yet to my goal of 90% win rate vs. a random player, I will still try to optimize further.</p>
-
-<tweet>Network topology seems to have the biggest impact on a neural network's learning ability.</tweet>
-
-<p><a name="Model4"></a></p>
-<h3 id="model-4---implementing-momentum">Model 4 - implementing momentum</h3>
-
-<p>I <a href="https://www.reddit.com/r/MachineLearning/comments/lzvrwp/p_help_with_a_reinforcement_learning_project/">reached out to the reddit community</a> and a kind soul pointed out that maybe what I need is to apply momentum to the optimization algorithm. So I did some research and ended up deciding to implement various optimization methods to experiment with:</p>
-
-<ul>
-  <li>Stochastic Gradient Descent with Momentum</li>
-  <li>RMSProp: Root Mean Square Plain Momentum</li>
-  <li>NAG: Nezterov’s Accelerated Momentum</li>
-  <li>Adam: Adaptive Moment Estimation</li>
-  <li>and keep my old vanilla Gradient Descent (vGD) ☺</li>
-</ul>
-
-<p><a name="optimization"></a><a href="https://the-mvm.github.io/neural-network-optimization-methods/">Click here for a detailed explanation and code of all the implemented optimization algorithms.</a></p>
-
-<p>So far, I have not been able to get better results with Model 4, I have tried all the momentum optimization algorithms with little to no success.
-<a name="Model5"></a></p>
-<h3 id="model-5---implementing-one-hot-encoding-and-changing-topology-again">Model 5 - implementing one-hot encoding and changing topology (again)</h3>
-<p>I came across an <a href="https://github.com/AxiomaticUncertainty/Deep-Q-Learning-for-Tic-Tac-Toe/blob/master/tic_tac_toe.py">interesting project in Github</a> that deals exactly with Deep Q Learning, and I noticed that he used “one-hot” encoding for the input as opposed to directly entering the values of the player into the 9 input slots. So I decided to give it a try and at the same time change my topology to match his:</p>
-
-<center><img src="./assets/img/posts/Neural_Network_Topology3.png" width="540" /></center>
-
-<p>So, ‘one hot’ encoding is basically changing the input of a single square in the tic tac toe board to three numbers, so that each state is represented with different inputs, thus the network can clearly differentiate the three of them. As the original author puts it, the way I was encoding, having 0 for empty, 1 for X and 2 for O, the network couldn’t easily tell that, for instance, O and X both meant occupied states, because one is two times as far from 0 as the other. With the new encoding, the empty state will be 3 inputs: (1,0,0), the X will be (0,1,0) and the O (0,0,1) as in the diagram.</p>
-
-<p>Still, no luck even with Model 5, so I am starting to think that there could be a bug in my code.</p>
-
-<p>To test this hypothesis, I decided to implement the same model using Tensorflow / Keras.</p>
-
-<p><a name="Model6"></a></p>
-<h3 id="model-6---tensorflow--keras">Model 6 - Tensorflow / Keras</h3>
-<center><img src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" width="100" height="100" /></center>
-
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="bp">self</span><span class="p">.</span><span class="n">PolicyNetwork</span> <span class="o">=</span> <span class="n">Sequential</span><span class="p">()</span>
-<span class="k">for</span> <span class="n">layer</span> <span class="ow">in</span> <span class="n">hidden_layers</span><span class="p">:</span>
-    <span class="bp">self</span><span class="p">.</span><span class="n">PolicyNetwork</span><span class="p">.</span><span class="n">add</span><span class="p">(</span><span class="n">Dense</span><span class="p">(</span>
-                           <span class="n">units</span><span class="o">=</span><span class="n">layer</span><span class="p">,</span>
-                           <span class="n">activation</span><span class="o">=</span><span class="s">'relu'</span><span class="p">,</span>
-                           <span class="n">input_dim</span><span class="o">=</span><span class="n">inputs</span><span class="p">,</span>
-                           <span class="n">kernel_initializer</span><span class="o">=</span><span class="s">'random_uniform'</span><span class="p">,</span>
-                           <span class="n">bias_initializer</span><span class="o">=</span><span class="s">'zeros'</span><span class="p">))</span>
-<span class="bp">self</span><span class="p">.</span><span class="n">PolicyNetwork</span><span class="p">.</span><span class="n">add</span><span class="p">(</span><span class="n">Dense</span><span class="p">(</span>
-                        <span class="n">outputs</span><span class="p">,</span>
-                        <span class="n">kernel_initializer</span><span class="o">=</span><span class="s">'random_uniform'</span><span class="p">,</span>
-                        <span class="n">bias_initializer</span><span class="o">=</span><span class="s">'zeros'</span><span class="p">))</span>
-<span class="n">opt</span> <span class="o">=</span> <span class="n">Adam</span><span class="p">(</span><span class="n">learning_rate</span><span class="o">=</span><span class="n">c</span><span class="p">.</span><span class="n">LEARNING_RATE</span><span class="p">,</span>
-           <span class="n">beta_1</span><span class="o">=</span><span class="n">c</span><span class="p">.</span><span class="n">GAMMA_OPT</span><span class="p">,</span>
-           <span class="n">beta_2</span><span class="o">=</span><span class="n">c</span><span class="p">.</span><span class="n">BETA</span><span class="p">,</span>
-           <span class="n">epsilon</span><span class="o">=</span><span class="n">c</span><span class="p">.</span><span class="n">EPSILON</span><span class="p">,</span>
-           <span class="n">amsgrad</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
-<span class="bp">self</span><span class="p">.</span><span class="n">PolicyNetwork</span><span class="p">.</span><span class="nb">compile</span><span class="p">(</span><span class="n">optimizer</span><span class="o">=</span><span class="s">'adam'</span><span class="p">,</span>
-                           <span class="n">loss</span><span class="o">=</span><span class="s">'mean_squared_error'</span><span class="p">,</span>
-                           <span class="n">metrics</span><span class="o">=</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">])</span>
-</code></pre></div></div>
-<p>As you can see I am reusing all of my old code, and just replacing my Neural Net library with Tensorflow/Keras, keeping even my hyper-parameter constants.</p>
-
-<p>The training function changed to:</p>
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">reduce_lr_on_plateau</span> <span class="o">=</span> <span class="n">ReduceLROnPlateau</span><span class="p">(</span><span class="n">monitor</span><span class="o">=</span><span class="s">'loss'</span><span class="p">,</span>
-                                         <span class="n">factor</span><span class="o">=</span><span class="mf">0.1</span><span class="p">,</span>
-                                         <span class="n">patience</span><span class="o">=</span><span class="mi">25</span><span class="p">)</span>
-<span class="n">history</span> <span class="o">=</span> <span class="bp">self</span><span class="p">.</span><span class="n">PolicyNetwork</span><span class="p">.</span><span class="n">fit</span><span class="p">(</span><span class="n">np</span><span class="p">.</span><span class="n">asarray</span><span class="p">(</span><span class="n">states_to_train</span><span class="p">),</span>
-                                 <span class="n">np</span><span class="p">.</span><span class="n">asarray</span><span class="p">(</span><span class="n">targets_to_train</span><span class="p">),</span>
-                                 <span class="n">epochs</span><span class="o">=</span><span class="n">c</span><span class="p">.</span><span class="n">EPOCHS</span><span class="p">,</span>
-                                 <span class="n">batch_size</span><span class="o">=</span><span class="n">c</span><span class="p">.</span><span class="n">BATCH_SIZE</span><span class="p">,</span>
-                                 <span class="n">verbose</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span>
-                                 <span class="n">callbacks</span><span class="o">=</span><span class="p">[</span><span class="n">reduce_lr_on_plateau</span><span class="p">],</span>
-                                 <span class="n">shuffle</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
-</code></pre></div></div>
-
-<p>With Tensorflow implemented, the first thing I noticed, was that I had an error in the calculation of the loss, although this only affected reporting and didn’t change a thing on the training of the network, so the results kept being the same, <strong>the loss function was still stagnating! My code was not the issue.</strong>
-<a name="Model7"></a></p>
-<h3 id="model-7---changing-the-training-schedule">Model 7 - changing the training schedule</h3>
-<p>Next I tried to change the way the network was training as per <a href="https://www.reddit.com/user/elBarto015">u/elBarto015</a> <a href="https://www.reddit.com/r/reinforcementlearning/comments/lzzjar/i_created_an_ai_for_super_hexagon_based_on/gqc8ka6?utm_source=share&amp;utm_medium=web2x&amp;context=3">advised me on reddit</a>.</p>
-
-<p>The way I was training initially was:</p>
-<ul>
-  <li>Games begin being simulated and the outcome recorded in the replay memory</li>
-  <li>Once a sufficient ammount of experiences are recorded (at least equal to the batch size) the Network will train with a random sample of experiences from the replay memory. The ammount of experiences to sample is the batch size.</li>
-  <li>The games continue to be played between the random player and the network.</li>
-  <li>Every move from either player generates a new training round, again with a random sample from the replay memory.</li>
-  <li>This continues until the number of games set up conclude.</li>
-</ul>
-
-<center><img src="./assets/img/posts/ReplayMemoryBefore.png" width="540" /></center>
-
-<p>The first change was to train only after every game concludes with the same ammount of data (a batch). This was still not giving any good results.</p>
-
-<p>The second change was more drastic, it introduced the concept of epochs for every training round, it basically sampled the replay memory for epochs * batch size experiences, for instance if epochs selected were 10, and batch size was 81, then 810 experiences were sampled out of the replay memory. With this sample the network was then trained for 10 epochs randomly using the batch size.</p>
-
-<p>This meant that I was training now effectively 10 (or the number of epochs selected) times more per game, but in batches of the same size and randomly shuffling the experiences each epoch.</p>
-
-<center><img src="./assets/img/posts/ReplayMemoryAfter.png" width="540" /></center>
-<p><br /></p>
-
-<p>After still playing around with some hyperparameters I managed to get similar performance as I got before, reaching 83.15% win rate vs. the random player, so I decided to keep training in rounds of 2,000 games each to evaluate performance. With almost every round I could see improvement:</p>
-
-<center><img src="./assets/img/posts/Model7HyperParameters.png" width="540" /><br />
-<img src="./assets/img/posts/Model7.png" width="480" />
-</center>
-<p><br /></p>
-
-<p>As of today, my best result so far is 87.5%, I will leave it rest for a while and keep investigating to find a reason for not being able to reach at least 90%. I read about <a href="https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717">self play</a>, and it looks like a viable option to test and a fun coding challenge. However, before embarking in yet another big change I want to ensure I have been thorough with the model and have tested every option correctly.</p>
-
-<p>I feel the end is near… should I continue to update this post as new events unfold or shall I make it a multi post thread?</p>]]></content><author><name>Armando Maynez</name></author><category term="machine learning" /><category term="artificial intelligence" /><category term="reinforcement learning" /><category term="coding" /><category term="python" /><summary type="html"><![CDATA[Inspired by Deep Mind's astonishing feats of having their Alpha Go, Alpha Zero and Alpha Star programs learn (and be amazing at it) Go, Chess, Atari games and lately Starcraft; I set myself to the task of programming a neural network that will learn by itself how to play the ancient game of tic tac toe. How hard could it be?]]></summary></entry></feed>
+<p>So the final solution was to make the whole site flat, meaning to live in a single directory. All pages and posts will live under the root directory, and by doing so, I can control how to address the relative paths for resources.</p>]]></content><author><name>Armando Maynez</name></author><category term="general blogging" /><category term="thoughts" /><category term="life" /><summary type="html"><![CDATA[Midlife career change: a disaster or an opportunity?]]></summary></entry></feed>

@@ -22,7 +22,7 @@
   "headline": "Anderson Paschoalon",
   "abstract": "",
     "keywords": "",
-    "wordcount": "33",
+    "wordcount": "141",
     "image": ["http://localhost:4000/assets/img"],
   "datePublished": "",
   "dateModified": "",
@@ -62,7 +62,7 @@
 <meta name="twitter:description" content="">
 <meta name="twitter:creator" content="">
 <meta data-rh="true" name="twitter:label1" content="Word count"/>
-<meta data-rh="true" name="twitter:data1" content="33"/>
+<meta data-rh="true" name="twitter:data1" content="141"/>
 <meta name="twitter:image:src" content="http://localhost:4000/assets/img/">
   <!-- ICONS https://fontawesome.com/icons ---->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -171,7 +171,7 @@
           <li>
             <a href="./">
               <div class="left">
-                * Home
+                Home
               </div>  
               <div class="right">
                 <svg width="24px" aria-hidden="true" focusable="false" role="img" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
@@ -292,7 +292,7 @@
         <div class="card-body">
           <h3 class="card-title">Anderson Paschoalon</h3>
           <hr>
-          <p class="card-text"> C/C++/C# hardware/embedded system developer, master and self-made researcher, machine learning enthusiast, and game modder.</p>
+          <p class="card-text"> C/C++/C# desktop and embedded-system developer, master and self-made researcher, machine learning enthusiast, and game modder.</p>
         </div>
       </div>
 
@@ -313,25 +313,129 @@
 
 
 
+<style>
+  
+  * {
+    box-sizing: border-box;
+  }
+  .row {
+    display: -ms-flexbox; /* IE 10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE 10 */
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  /* Create two equal columns that sits next to each other */
+  .column {
+    -ms-flex: 50%; /* IE 10 */
+    flex: 50%;
+    padding: 0 4px;
+  }
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }
+
+/* Parent Container */
+.content_img{
+  position: relative;
+}
+
+/* Child Text Container */
+.content_img div{
+ position: absolute;
+ bottom: 0;
+ right: 0;
+ background: black;
+ color: white;
+ margin-bottom: 5px;
+ font-family: sans-serif;
+ opacity: 0;
+ visibility: hidden;
+ -webkit-transition: visibility 0s, opacity 0.5s linear; 
+ transition: visibility 0s, opacity 0.5s linear;
+}
+
+/* Hover on Parent Container */
+.content_img:hover{
+ cursor: pointer;
+}
+
+.content_img:hover div{
+ width: 150px;
+ padding: 8px 15px;
+ visibility: visible;
+ opacity: 0.7; 
+}  
+
+</style>
+
+
+<h1 style="text-align: center;" >Welcome to my Personal Website!</h1>
+
+<br></br>
+<br></br>
+<h2 style="text-align: center;" >Who I'm</h2>
+
+<p class="subtitle">
+  Hi there!
+</p>
+<p class="subtitle">
+  I'm Anderson Paschoalon, an desktop & embeeded-system developer.
+</p>
+<p class="subtitle">
+  I work mainly with C/C++/C#, and I'm also experienced in Python.
+</p>
+<p class="subtitle">
+  Currently I'm working with smart-card issuance technologies.
+</p>
+<p class="subtitle">
+  I also have worked as a Network and Telecomunication researcher, with experience on Network Stack, LTE, SDN and Network Traffic generation and modelling.
+</p> 
+<p class="subtitle">
+  Right now my interests of studies are Deep Learning technologies and Game Development.
+</p>
+<p class="subtitle"> 
+  I also love to travel and be in touch with the nature :)
+</p>
+
+<div>
+  <div class="row"> 
+    <div class="column">
+      <div class="content_img">
+        <img src="assets/img/photos/me-her.jpg" style="width:100%" >      
+        <div>Me, and my wife, Rubia :)</div>
+      </div>
+      <div class="content_img">
+        <img src="assets/img/photos/araucaria.jpg" style="width:100%" >      
+        <div>Araucarias from Campos do Jordão</div>
+      </div>
+    </div>
+    <div class="column">
+      <div class="content_img">
+        <img src="assets/img/photos/montain.jpg" style="width:100%" >
+        <div>Pedra Redonda mount at Monte Verde</div>
+      </div>
+      <div class="content_img">
+        <img src="assets/img/photos/blue.jpg" style="width:100%" >
+        <div>Serrinha do Alambari at Penedo</div>
+      </div>      
+    </div>  
+</div>
+
+<br></br>
+<br></br>
+<h2 style="text-align: center;" >Selected Highlights!</h2>
 
 <ol class="post-card-box clearfix">
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
+
   
     
       
 
       <li>
         <div class="post-card">
-          <a href="./dsilhand.html" title="Dawn of the Silver Hands" class="post-card-image" style="background: url('./assets/img/posts/post_lte.webp') center no-repeat; background-size: cover;">
+          <a href="./dsilhand.html" title="Dawn of the Silver Hands" class="post-card-image" style="background: url('./assets/img/posts/dsilhand/logo.png') center no-repeat; background-size: cover;">
           </a>
           <div class="post-card-body">
             <p class="post-card-title-and-meta">
@@ -374,17 +478,29 @@
     
   
     
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
       
 
       <li>
         <div class="post-card">
-          <a href="./simitar.html" title="Simitar" class="post-card-image" style="background: url('./assets/img/posts/post_lte.webp') center no-repeat; background-size: cover;">
+          <a href="./simitar.html" title="SIMITAR - SniffIng ModellIng and TrAffic geneRation" class="post-card-image" style="background: url('./assets/img/posts/simitar/simitar-architecture-diagram.png') center no-repeat; background-size: cover;">
           </a>
           <div class="post-card-body">
             <p class="post-card-title-and-meta">
               
               <a href="./simitar.html" class="post-card-link">
-              Simitar
+              SIMITAR - SniffIng ModellIng and TrAffic geneRation
               </a>
               
 
@@ -407,13 +523,11 @@
     
   
     
-  
-    
       
 
       <li>
         <div class="post-card">
-          <a href="./aic-bic.html" title="Automated Selection of Inter-Packet Time Models Through Information Criteriaa" class="post-card-image" style="background: url('./assets/img/posts/post-fractal.jpg') center no-repeat; background-size: cover;">
+          <a href="./aic-bic.html" title="Automated Selection of Inter-Packet Time Models Through Information Criteriaa" class="post-card-image" style="background: url('./assets/img/posts/pub/post-fractal.jpg') center no-repeat; background-size: cover;">
           </a>
           <div class="post-card-body">
             <p class="post-card-title-and-meta">
@@ -446,11 +560,13 @@
     
   
     
+  
+    
       
 
       <li>
         <div class="post-card">
-          <a href="./ethermonitor.html" title="CPQD3036 - ETHERMONITOR - V.1.0" class="post-card-image" style="background: url('./assets/img/posts/post_lte.webp') center no-repeat; background-size: cover;">
+          <a href="./ethermonitor.html" title="CPQD3036 - ETHERMONITOR - V.1.0" class="post-card-image" style="background: url('./assets/img/posts/pub/post_lte.webp') center no-repeat; background-size: cover;">
           </a>
           <div class="post-card-body">
             <p class="post-card-title-and-meta">
@@ -511,19 +627,34 @@
         <ul class="tags">
             
                 
-                <li><a href="./tag.html?tag=4G" class="tag">4G <span>(3)</span></a></li>
+                <li><a href="./tag.html?tag=4G" class="tag">4G <span>(2)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=AIC" class="tag">AIC <span>(2)</span></a></li>
+                <li><a href="./tag.html?tag=AIC" class="tag">AIC <span>(3)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=BIC" class="tag">BIC <span>(2)</span></a></li>
+                <li><a href="./tag.html?tag=Age+of+Mitology" class="tag">Age of Mitology <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=CPQD" class="tag">CPQD <span>(3)</span></a></li>
+                <li><a href="./tag.html?tag=BIC" class="tag">BIC <span>(3)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Bootstrap" class="tag">Bootstrap <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=C%2B%2B" class="tag">C++ <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=CPQD" class="tag">CPQD <span>(2)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=CSharp" class="tag">CSharp <span>(1)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=Computational+modeling" class="tag">Computational modeling <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Contribution" class="tag">Contribution <span>(1)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=Correlation" class="tag">Correlation <span>(1)</span></a></li>
@@ -532,43 +663,115 @@
                 <li><a href="./tag.html?tag=Cost+function" class="tag">Cost function <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=Creation+Kit" class="tag">Creation Kit <span>(2)</span></a></li>
+                <li><a href="./tag.html?tag=Creation+Kit" class="tag">Creation Kit <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=D-ITG" class="tag">D-ITG <span>(1)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=Data+models" class="tag">Data models <span>(1)</span></a></li>
             
                 
+                <li><a href="./tag.html?tag=Desktop" class="tag">Desktop <span>(2)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Embedded+Linux" class="tag">Embedded Linux <span>(2)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Flow" class="tag">Flow <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Fractal" class="tag">Fractal <span>(1)</span></a></li>
+            
+                
                 <li><a href="./tag.html?tag=Fractals" class="tag">Fractals <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=Game" class="tag">Game <span>(2)</span></a></li>
+                <li><a href="./tag.html?tag=Game+Development" class="tag">Game Development <span>(2)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=HTML" class="tag">HTML <span>(1)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=Hurst+exponent" class="tag">Hurst exponent <span>(2)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=LTE" class="tag">LTE <span>(3)</span></a></li>
+                <li><a href="./tag.html?tag=Iperf" class="tag">Iperf <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=LTE" class="tag">LTE <span>(2)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Libtins" class="tag">Libtins <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Markdown" class="tag">Markdown <span>(1)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=Measurement" class="tag">Measurement <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=Mod" class="tag">Mod <span>(2)</span></a></li>
+                <li><a href="./tag.html?tag=Mod" class="tag">Mod <span>(4)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=Papyrus" class="tag">Papyrus <span>(2)</span></a></li>
+                <li><a href="./tag.html?tag=Modelling" class="tag">Modelling <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=Skyrim" class="tag">Skyrim <span>(2)</span></a></li>
+                <li><a href="./tag.html?tag=Network+Traffic+Modelling" class="tag">Network Traffic Modelling <span>(2)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Networks" class="tag">Networks <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Open+Source" class="tag">Open Source <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Papyrus" class="tag">Papyrus <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Python" class="tag">Python <span>(2)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=RPG" class="tag">RPG <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=SDN" class="tag">SDN <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Simitar" class="tag">Simitar <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Skyrim" class="tag">Skyrim <span>(3)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Sniffing" class="tag">Sniffing <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Soundtrack" class="tag">Soundtrack <span>(1)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=Stochastic+processes" class="tag">Stochastic processes <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=artificial+intelligence" class="tag">artificial intelligence <span>(3)</span></a></li>
+                <li><a href="./tag.html?tag=Swing" class="tag">Swing <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=burstiness" class="tag">burstiness <span>(1)</span></a></li>
+                <li><a href="./tag.html?tag=Tabletop" class="tag">Tabletop <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Traffic+Generation" class="tag">Traffic Generation <span>(2)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Traffic+Generator" class="tag">Traffic Generator <span>(2)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Traffic+Modelling" class="tag">Traffic Modelling <span>(2)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Wavelet" class="tag">Wavelet <span>(1)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=artificial+intelligence" class="tag">artificial intelligence <span>(3)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=coding" class="tag">coding <span>(5)</span></a></li>
@@ -577,25 +780,10 @@
                 <li><a href="./tag.html?tag=copyright" class="tag">copyright <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=correlation" class="tag">correlation <span>(1)</span></a></li>
-            
-                
                 <li><a href="./tag.html?tag=creativity" class="tag">creativity <span>(1)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=deep+Neural+networks" class="tag">deep Neural networks <span>(1)</span></a></li>
-            
-                
-                <li><a href="./tag.html?tag=embedded+system" class="tag">embedded system <span>(3)</span></a></li>
-            
-                
-                <li><a href="./tag.html?tag=flow+level" class="tag">flow level <span>(1)</span></a></li>
-            
-                
-                <li><a href="./tag.html?tag=fractal" class="tag">fractal <span>(1)</span></a></li>
-            
-                
-                <li><a href="./tag.html?tag=framework" class="tag">framework <span>(1)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=general+blogging" class="tag">general blogging <span>(1)</span></a></li>
@@ -604,22 +792,13 @@
                 <li><a href="./tag.html?tag=heavy-tailed+distribution" class="tag">heavy-tailed distribution <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=inter-packet+times" class="tag">inter-packet times <span>(2)</span></a></li>
+                <li><a href="./tag.html?tag=inter-packet+times" class="tag">inter-packet times <span>(1)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=life" class="tag">life <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=linux" class="tag">linux <span>(3)</span></a></li>
-            
-                
                 <li><a href="./tag.html?tag=machine+learning" class="tag">machine learning <span>(6)</span></a></li>
-            
-                
-                <li><a href="./tag.html?tag=modelling" class="tag">modelling <span>(1)</span></a></li>
-            
-                
-                <li><a href="./tag.html?tag=networks" class="tag">networks <span>(3)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=neural+networks" class="tag">neural networks <span>(4)</span></a></li>
@@ -628,7 +807,7 @@
                 <li><a href="./tag.html?tag=optimization" class="tag">optimization <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=patent" class="tag">patent <span>(3)</span></a></li>
+                <li><a href="./tag.html?tag=patent" class="tag">patent <span>(1)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=python" class="tag">python <span>(3)</span></a></li>
@@ -637,13 +816,10 @@
                 <li><a href="./tag.html?tag=reinforcement+learning" class="tag">reinforcement learning <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=stochastic+function" class="tag">stochastic function <span>(2)</span></a></li>
+                <li><a href="./tag.html?tag=stochastic+function" class="tag">stochastic function <span>(1)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=thoughts" class="tag">thoughts <span>(1)</span></a></li>
-            
-                
-                <li><a href="./tag.html?tag=traffic+generation" class="tag">traffic generation <span>(1)</span></a></li>
             
     
         </ul>
