@@ -237,6 +237,32 @@
   
     
     <url>
+      <loc>http://localhost:4000/smartcity.html</loc>
+      
+        <lastmod>2019-03-15T03:00:00-03:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority></url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/sdn-nfv.html</loc>
+      
+        <lastmod>2019-03-15T03:00:00-03:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority></url>
+    
+  
+    
+    <url>
       <loc>http://localhost:4000/aic-bic-first.html</loc>
       
         <lastmod>2017-10-26T16:32:20-03:00</lastmod>
@@ -276,7 +302,33 @@
   
     
     <url>
-      <loc>http://localhost:4000/ethermonitor.html</loc>
+      <loc>http://localhost:4000/claka.html</loc>
+      
+        <lastmod>2015-05-01T03:00:00-03:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority></url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/nfv-arm.html</loc>
+      
+        <lastmod>2014-09-01T03:00:00-03:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority></url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/pub-ethermonitor.html</loc>
       
         <lastmod>2014-08-27T03:00:00-03:00</lastmod>
       
@@ -289,7 +341,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/ethermonitor.html</loc>
+      <loc>http://localhost:4000/proj-ethermonitor.html</loc>
       
         <lastmod>2014-08-27T03:00:00-03:00</lastmod>
       
@@ -305,7 +357,7 @@
     <url>
       <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2022-07-20T01:21:15-03:00</lastmod>
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -320,7 +372,7 @@
     <url>
       <loc>http://localhost:4000/all-posts.json</loc>
       
-        <lastmod>2022-07-20T01:21:15-03:00</lastmod>
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -335,7 +387,7 @@
     <url>
       <loc>http://localhost:4000/archive.html</loc>
       
-        <lastmod>2022-07-20T01:21:15-03:00</lastmod>
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -350,7 +402,37 @@
     <url>
       <loc>http://localhost:4000/bio.html</loc>
       
-        <lastmod>2022-07-20T01:21:15-03:00</lastmod>
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/blog.html</loc>
+      
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/curriculum.html</loc>
+      
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -365,7 +447,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2022-07-20T01:21:15-03:00</lastmod>
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -380,7 +462,7 @@
     <url>
       <loc>http://localhost:4000/ipfs-404.html</loc>
       
-        <lastmod>2022-07-20T01:21:15-03:00</lastmod>
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -395,7 +477,7 @@
     <url>
       <loc>http://localhost:4000/posts-by-tag.json</loc>
       
-        <lastmod>2022-07-20T01:21:15-03:00</lastmod>
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -410,7 +492,7 @@
     <url>
       <loc>http://localhost:4000/projects.html</loc>
       
-        <lastmod>2022-07-20T01:21:15-03:00</lastmod>
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -425,7 +507,7 @@
     <url>
       <loc>http://localhost:4000/search.json</loc>
       
-        <lastmod>2022-07-20T01:21:15-03:00</lastmod>
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -442,7 +524,7 @@
     <url>
       <loc>http://localhost:4000/tag.html</loc>
       
-        <lastmod>2022-07-20T01:21:15-03:00</lastmod>
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -457,7 +539,7 @@
     <url>
       <loc>http://localhost:4000/tags.html</loc>
       
-        <lastmod>2022-07-20T01:21:15-03:00</lastmod>
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -472,7 +554,7 @@
     <url>
       <loc>http://localhost:4000/under-construction.html</loc>
       
-        <lastmod>2022-07-20T01:21:15-03:00</lastmod>
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -487,7 +569,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2022-07-20T01:21:15-03:00</lastmod>
+        <lastmod>2022-07-26T02:45:47-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>

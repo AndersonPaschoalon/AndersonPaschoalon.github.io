@@ -66,11 +66,11 @@ page-publications: /archive.html
 page-projects: /projects.html
 page-curriculum: /curriculum.html
 page-bio: /bio.html
-page-blog: /under-construction.html # todo
+page-blog: /blog.html # todo
 page-404.html: /404.html
 page-under-construction: /under-construction.html
 # projects
-page-ethermonitor: /projects/ethermonitor.html
+page-ethermonitor: /projects/proj-ethermonitor.html
 page-simitar: /projects/simitar.html
 page-dsilhand: /projects/dsilhand.html
 page-moforgit: /projects/moforgit.html

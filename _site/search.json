@@ -181,6 +181,26 @@
     } ,
   
     {
+      "title"       : "(blog)  Automated Selection of Inter-Packet Time Models Through Information Criteriaa",
+      "category"    : "",
+      "tags"        : "Stochastic processes, Cost function, Measurement, Computational modeling, Fractals, Correlation, Data models, BIC, AIC, stochastic function, inter-packet times, Hurst exponent",
+      "url"         : "./smartcity.html",
+      "date"        : "2019-03-15 03:00:00 -0300",
+      "description" : "IEEE Networking Letters, Volume 1 Issue 2.",
+      "content"     : "Automated Selection of Inter-Packet Time Models Through Information CriteriaAbstract: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.Published in: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)Page(s): 56 - 59Date of Publication: 15 March 2019Electronic ISSN: 2576-3156INSPEC Accession Number: 18708377DOI: 10.1109/LNET.2019.2905364Publisher: IEEEBibTeX:@ARTICLE{ 8667676, author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve}, journal={IEEE Networking Letters}, title={Automated Selection of Inter-Packet Time Models Through Information Criteria}, year={2019}, volume={1}, number={2}, pages={56-59}, doi={10.1109/LNET.2019.2905364}}"
+    } ,
+  
+    {
+      "title"       : "(blog) Automated Selection of Inter-Packet Time Models Through Information Criteriaa",
+      "category"    : "",
+      "tags"        : "Stochastic processes, Cost function, Measurement, Computational modeling, Fractals, Correlation, Data models, BIC, AIC, stochastic function, inter-packet times, Hurst exponent",
+      "url"         : "./sdn-nfv.html",
+      "date"        : "2019-03-15 03:00:00 -0300",
+      "description" : "IEEE Networking Letters, Volume 1 Issue 2.",
+      "content"     : "Automated Selection of Inter-Packet Time Models Through Information CriteriaAbstract: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.Published in: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)Page(s): 56 - 59Date of Publication: 15 March 2019Electronic ISSN: 2576-3156INSPEC Accession Number: 18708377DOI: 10.1109/LNET.2019.2905364Publisher: IEEEBibTeX:@ARTICLE{ 8667676, author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve}, journal={IEEE Networking Letters}, title={Automated Selection of Inter-Packet Time Models Through Information Criteria}, year={2019}, volume={1}, number={2}, pages={56-59}, doi={10.1109/LNET.2019.2905364}}"
+    } ,
+  
+    {
       "title"       : "Using BIC and AIC for Ethernet traffic model selection. Is it worth?",
       "category"    : "",
       "tags"        : "BIC, AIC, Network Traffic Modelling, Hurst exponent, heavy-tailed distribution",
@@ -211,23 +231,43 @@
     } ,
   
     {
+      "title"       : "(Portuguese) Introduction to CL-AKA Protocols",
+      "category"    : "",
+      "tags"        : "CL-AKA, Public Key, Criptography without certificates",
+      "url"         : "./claka.html",
+      "date"        : "2015-05-01 03:00:00 -0300",
+      "description" : "CL-AKA criptography protocols",
+      "content"     : "Introduction to CL-AKA ProtocolsAbstract: The use of digital certificates distributed by a Public Key Infrastructure (PKI) is the most widespread methodology in symmetric key agreement protocols. In this work, some alternative methodologies will be discussed, with a greater focus on CL-AKA protocols, ie, authenticated key agreement protocols without the use of certificates. The theoretical foundations, two protocol implementations, and some practical applications and proposals will be discussed."
+    } ,
+  
+    {
+      "title"       : "(Portuguese) Introduction to CL-AKA Protocols",
+      "category"    : "",
+      "tags"        : "Stochastic processes, Cost function, Measurement, Computational modeling, Fractals, Correlation, Data models, BIC, AIC, stochastic function, inter-packet times, Hurst exponent",
+      "url"         : "./nfv-arm.html",
+      "date"        : "2014-09-01 03:00:00 -0300",
+      "description" : "",
+      "content"     : "Automated Selection of Inter-Packet Time Models Through Information CriteriaAbstract: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.Published in: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)Page(s): 56 - 59Date of Publication: 15 March 2019Electronic ISSN: 2576-3156INSPEC Accession Number: 18708377DOI: 10.1109/LNET.2019.2905364Publisher: IEEEBibTeX:@ARTICLE{ 8667676, author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve}, journal={IEEE Networking Letters}, title={Automated Selection of Inter-Packet Time Models Through Information Criteria}, year={2019}, volume={1}, number={2}, pages={56-59}, doi={10.1109/LNET.2019.2905364}}"
+    } ,
+  
+    {
       "title"       : "CPQD3036 - ETHERMONITOR - V.1.0",
       "category"    : "",
       "tags"        : "patent, Embedded Linux, LTE, 4G, CPQD",
-      "url"         : "./ethermonitor.html",
+      "url"         : "./pub-ethermonitor.html",
       "date"        : "2014-08-27 03:00:00 -0300",
       "description" : "Computer Program Registration Certificate.",
       "content"     : "CPQD3036 - ETHERMONITOR - V.1.0This is the register of computer program provided by INPI (Instituto Nacional da Propriedade Industrial – National Institute of Industrial Property) Ethermonitor, wich I developed at CPQD when I was an intern."
     } ,
   
     {
-      "title"       : "CPQD3036 - ETHERMONITOR - V.1.0",
+      "title"       : "CPQD3036 EtherMonitor",
       "category"    : "",
       "tags"        : "Embedded Linux, Networks, LTE, 4G, CPQD",
-      "url"         : "./ethermonitor.html",
+      "url"         : "./proj-ethermonitor.html",
       "date"        : "2014-08-27 03:00:00 -0300",
-      "description" : "Computer Program Registration Certificate.",
-      "content"     : "CPQD3036 - ETHERMONITOR - V.1.0"
+      "description" : "Embedded software for eternet interfaces management.",
+      "content"     : "CPQD3036 EtherMonitor EtherMonitor is an application developed in C and implemented for an LTE radio base station, called eNodeB developed in the CPQD Foundation's LTE/4G project. eNodeB is the radio base station responsible for data transmission using LTE technology, used by internet providers to offer 4G services. Physically, the eNodeB has several ethernet network cables responsible for connecting it to the cloud. In the implementation developed by CPQD, at any given time, only one of them will be operational, and the other backup cables. If any of its interfaces fail, EtherMonitor is responsible for disabling this interface, and reconfiguring the next backup interface with all configurations and IPv4 address of the disconnected interface. In this way, EtherMonitor ensures that: eNodeB will lose cloud access and control only if all interfaces fail. For the cloud and the operator it is completely transparent that any hardware or software failure has occurred in one of the network interfaces, as the backup interface configuration is automatic. The operator may still be aware that any of the interfaces failed through the eNodeB command line interface, and may take the necessary measures. EtherMonitor must ensure that the correct information about the physical interface used is available."
     } 
   
 ]
