@@ -20,13 +20,17 @@
       
       "./aic-bic.html",
       
-      "./smartcity.html",
-      
-      "./sdn-nfv.html",
-      
       "./aic-bic-first.html",
       
-      "./traff-gen.html",
+      "./traff-gen.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "ARM",
+  "posts" : [
       
       "./nfv-arm.html"
       
@@ -50,15 +54,19 @@
       
       "./aic-bic.html",
       
-      "./smartcity.html",
-      
-      "./sdn-nfv.html",
-      
       "./aic-bic-first.html",
       
-      "./traff-gen.html",
+      "./traff-gen.html"
       
-      "./nfv-arm.html"
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Big Data",
+  "posts" : [
+      
+      "./smartcity.html"
       
     ]
   } ,
@@ -79,6 +87,16 @@
   "posts" : [
       
       "./mininet-wifi.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "CAPEX",
+  "posts" : [
+      
+      "./sdn-nfv.html"
       
     ]
   } ,
@@ -117,16 +135,20 @@
     
       
   {
+  "tag" : "Civitas",
+  "posts" : [
+      
+      "./smartcity.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "Computational modeling",
   "posts" : [
       
-      "./aic-bic.html",
-      
-      "./smartcity.html",
-      
-      "./sdn-nfv.html",
-      
-      "./nfv-arm.html"
+      "./aic-bic.html"
       
     ]
   } ,
@@ -146,13 +168,7 @@
   "tag" : "Correlation",
   "posts" : [
       
-      "./aic-bic.html",
-      
-      "./smartcity.html",
-      
-      "./sdn-nfv.html",
-      
-      "./nfv-arm.html"
+      "./aic-bic.html"
       
     ]
   } ,
@@ -162,13 +178,7 @@
   "tag" : "Cost function",
   "posts" : [
       
-      "./aic-bic.html",
-      
-      "./smartcity.html",
-      
-      "./sdn-nfv.html",
-      
-      "./nfv-arm.html"
+      "./aic-bic.html"
       
     ]
   } ,
@@ -208,13 +218,7 @@
   "tag" : "Data models",
   "posts" : [
       
-      "./aic-bic.html",
-      
-      "./smartcity.html",
-      
-      "./sdn-nfv.html",
-      
-      "./nfv-arm.html"
+      "./aic-bic.html"
       
     ]
   } ,
@@ -268,13 +272,7 @@
   "tag" : "Fractals",
   "posts" : [
       
-      "./aic-bic.html",
-      
-      "./smartcity.html",
-      
-      "./sdn-nfv.html",
-      
-      "./nfv-arm.html"
+      "./aic-bic.html"
       
     ]
   } ,
@@ -303,18 +301,32 @@
     
       
   {
+  "tag" : "Hadoop",
+  "posts" : [
+      
+      "./smartcity.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Hipervisor",
+  "posts" : [
+      
+      "./nfv-arm.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "Hurst exponent",
   "posts" : [
       
       "./aic-bic.html",
       
-      "./smartcity.html",
-      
-      "./sdn-nfv.html",
-      
-      "./aic-bic-first.html",
-      
-      "./nfv-arm.html"
+      "./aic-bic-first.html"
       
     ]
   } ,
@@ -366,13 +378,17 @@
   "tag" : "Measurement",
   "posts" : [
       
-      "./aic-bic.html",
+      "./aic-bic.html"
       
-      "./smartcity.html",
+    ]
+  } ,
+    
       
-      "./sdn-nfv.html",
+  {
+  "tag" : "Middleboxes",
+  "posts" : [
       
-      "./nfv-arm.html"
+      "./sdn-nfv.html"
       
     ]
   } ,
@@ -405,6 +421,18 @@
     
       
   {
+  "tag" : "NFV",
+  "posts" : [
+      
+      "./sdn-nfv.html",
+      
+      "./nfv-arm.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "Network Traffic Modelling",
   "posts" : [
       
@@ -427,10 +455,50 @@
     
       
   {
+  "tag" : "NoSQL",
+  "posts" : [
+      
+      "./smartcity.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "OPEX",
+  "posts" : [
+      
+      "./sdn-nfv.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "Open Source",
   "posts" : [
       
       "./mininet-wifi.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "OpenDayLight",
+  "posts" : [
+      
+      "./sdn-nfv.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "OpenFlow",
+  "posts" : [
+      
+      "./sdn-nfv.html"
       
     ]
   } ,
@@ -469,6 +537,16 @@
     
       
   {
+  "tag" : "RISC",
+  "posts" : [
+      
+      "./nfv-arm.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "RPG",
   "posts" : [
       
@@ -482,7 +560,11 @@
   "tag" : "SDN",
   "posts" : [
       
-      "./mininet-wifi.html"
+      "./mininet-wifi.html",
+      
+      "./sdn-nfv.html",
+      
+      "./nfv-arm.html"
       
     ]
   } ,
@@ -513,6 +595,16 @@
     
       
   {
+  "tag" : "Smart Cities",
+  "posts" : [
+      
+      "./smartcity.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "Sniffing",
   "posts" : [
       
@@ -536,13 +628,7 @@
   "tag" : "Stochastic processes",
   "posts" : [
       
-      "./aic-bic.html",
-      
-      "./smartcity.html",
-      
-      "./sdn-nfv.html",
-      
-      "./nfv-arm.html"
+      "./aic-bic.html"
       
     ]
   } ,
@@ -667,6 +753,16 @@
     
       
   {
+  "tag" : "data mining",
+  "posts" : [
+      
+      "./smartcity.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "deep Neural networks",
   "posts" : [
       
@@ -700,13 +796,7 @@
   "tag" : "inter-packet times",
   "posts" : [
       
-      "./aic-bic.html",
-      
-      "./smartcity.html",
-      
-      "./sdn-nfv.html",
-      
-      "./nfv-arm.html"
+      "./aic-bic.html"
       
     ]
   } ,
@@ -736,7 +826,19 @@
       
       "./ML-Library-from-scratch.html",
       
-      "./single-neuron-perceptron.html"
+      "./single-neuron-perceptron.html",
+      
+      "./smartcity.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "middleware",
+  "posts" : [
+      
+      "./smartcity.html"
       
     ]
   } ,
@@ -806,13 +908,7 @@
   "tag" : "stochastic function",
   "posts" : [
       
-      "./aic-bic.html",
-      
-      "./smartcity.html",
-      
-      "./sdn-nfv.html",
-      
-      "./nfv-arm.html"
+      "./aic-bic.html"
       
     ]
   } ,

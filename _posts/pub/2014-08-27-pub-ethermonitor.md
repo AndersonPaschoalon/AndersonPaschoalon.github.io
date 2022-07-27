@@ -11,7 +11,7 @@ author: Anderson Paschoalon
 # Links
 github: 
 publication: 
-pdf: /assets/pdf/patent_ether_monitor.pdf
+pdf: /assets/pdf/Publications/patent_ether_monitor.pdf
 external:
 nexus: 
 # Properties

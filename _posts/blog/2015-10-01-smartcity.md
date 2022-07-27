@@ -2,21 +2,21 @@
 layout: post
 read_time: false
 show_date: true
-title: (blog)  Automated Selection of Inter-Packet Time Models Through Information Criteriaa
-date:   2019-03-15 00:00:00 -0600
-description: IEEE Networking Letters, Volume 1 Issue 2.
-img: posts/pub/post-fractal.jpg 
-tags: [Stochastic processes, Cost function, Measurement, Computational modeling, Fractals, Correlation, Data models, BIC, AIC, stochastic function, inter-packet times, Hurst exponent]
-author: Armando Maynez
+title: (Portuguese) Smart Cities & Big Data - Big Data Technologies as Enablers of the Cities of the Future - A top-down approach
+date:   2015-10-01 00:00:00 -0600
+description: 
+img: posts/blog/smart-city.gif
+tags: [Big Data, Smart Cities, machine learning, data mining, NoSQL, Hadoop, middleware, Civitas]
+author: Anderson Paschoalon
 # Links
-github:  https://github.com/AndersonPaschoalon/aic-bic-paper.git
-publication: https://ieeexplore.ieee.org/document/8667676
-pdf: https://intrig.dca.fee.unicamp.br/wp-content/uploads/2019/03/Aic-Bic-IEEE-preprint.pdf
+github: 
+publication: 
+pdf: ./assets/pdf/Blog/smartcity.pdf
 external:
 nexus: 
 # Properties
 is_project: false
-is_publication: true
+is_publication: false
 is_blog: true
 is_highlight: false # if it will appear in the home or not
 mathjax: yes
@@ -24,38 +24,14 @@ has_release: true
 proj-group: 
 ---
 
-# Automated Selection of Inter-Packet Time Models Through Information Criteria
+# Cidades Inteligentes & Big Data
+## Tecnologias de Big Data como habilitadoras das Cidades do Futuro - Uma abordagem top-down
 
-**Abstract**: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.
+**Abstract**: This work aims to discuss the themes of smart cities and big data, inserted within the same context, and to show the numerous points at which they interrelate. It is discussed how big data technologies are a fundamental enabler so that smart cities can actually be implemented. Both concepts are formally introduced, with the concept of smart cities discussed being inserted within the architecture and technological map of the big data value chain. Finally, a practical example of implementing a big data infrastructure for a smart city is presented: CiDAP, in Santander, Spain.
 
-**Published in**: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)
+**Resumo**: Este trabalho tem por objetivo discutir os temas de cidades inteligentes e big dada, inseridos dentro do mesmo contexto, e mostrar os inúmeros pontos em que eles se interrelacionam. É discutido como as tecnologias de big data tratam-se se um habilitados fundamental para que cidades inteligentes possam ser de fato implantada. Ambos os conceitos são formalmente introduzidos, sendo o conceito de cidades inteligentes discutido inserido dentro da arquitetura e mapa tecnológico de cadeia de valor do big data. Por fim, é apresentado um exemplo prático de implementação de uma infraestrutura de big data de uma cidade inteligente: o CiDAP, em Santander, na Espanha. 
 
-**Page(s)**: 56 - 59
 
-**Date of Publication**: 15 March 2019
-
-**Electronic ISSN**: 2576-3156
-
-**INSPEC Accession Number**: 18708377
-
-**DOI**: 10.1109/LNET.2019.2905364
-
-**Publisher**: IEEE
-
-**BibTeX**:
-```
-@ARTICLE{
-	8667676,  
-	author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve},  
-	journal={IEEE Networking Letters},   
-	title={Automated Selection of Inter-Packet Time Models Through Information Criteria},   
-	year={2019},  
-	volume={1},  
-	number={2},  
-	pages={56-59},  
-	doi={10.1109/LNET.2019.2905364}
-}
-```
 
 
 

@@ -11,7 +11,7 @@ author: Anderson Paschoalon
 # Links
 github:  https://github.com/AndersonPaschoalon/Simitar
 publication: http://repositorio.unicamp.br/acervo/detalhe/1090415?guid=1657351507677&returnUrl=%2fresultado%2flistar%3fguid%3d1657351507677%26quantidadePaginas%3d1%26codigoRegistro%3d1090415%231090415&i=1
-pdf: ./assets/pdf/tese-mestrado.pdf
+pdf: ./assets/pdf/Publications/tese-mestrado.pdf
 external:
 nexus: 
 # Properties

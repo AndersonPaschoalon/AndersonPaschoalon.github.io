@@ -10,7 +10,7 @@ tags: [BIC, AIC, Network Traffic Modelling, Hurst exponent, heavy-tailed distrib
 author: Anderson Paschoalon 
 # Links
 github: 
-pdf:  ./assets/pdf/aic-bic-pre.pdf
+pdf:  ./assets/pdf/Publications/aic-bic-pre.pdf
 publication: https://www.fee.unicamp.br/sites/default/files/departamentos/dca/eadca/eadcax/trabalhos/artigo_22_Using_BIC_AID_Ethernet_Traffic_Anderson_Prof_Christian.pdf
 external:
 nexus: 

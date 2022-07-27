@@ -171,30 +171,10 @@
     } ,
   
     {
-      "title"       : "Automated Selection of Inter-Packet Time Models Through Information Criteriaa",
+      "title"       : "Automated Selection of Inter-Packet Time Models Through Information Criteria",
       "category"    : "",
       "tags"        : "Stochastic processes, Cost function, Measurement, Computational modeling, Fractals, Correlation, Data models, BIC, AIC, stochastic function, inter-packet times, Hurst exponent",
       "url"         : "./aic-bic.html",
-      "date"        : "2019-03-15 03:00:00 -0300",
-      "description" : "IEEE Networking Letters, Volume 1 Issue 2.",
-      "content"     : "Automated Selection of Inter-Packet Time Models Through Information CriteriaAbstract: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.Published in: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)Page(s): 56 - 59Date of Publication: 15 March 2019Electronic ISSN: 2576-3156INSPEC Accession Number: 18708377DOI: 10.1109/LNET.2019.2905364Publisher: IEEEBibTeX:@ARTICLE{ 8667676, author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve}, journal={IEEE Networking Letters}, title={Automated Selection of Inter-Packet Time Models Through Information Criteria}, year={2019}, volume={1}, number={2}, pages={56-59}, doi={10.1109/LNET.2019.2905364}}"
-    } ,
-  
-    {
-      "title"       : "(blog)  Automated Selection of Inter-Packet Time Models Through Information Criteriaa",
-      "category"    : "",
-      "tags"        : "Stochastic processes, Cost function, Measurement, Computational modeling, Fractals, Correlation, Data models, BIC, AIC, stochastic function, inter-packet times, Hurst exponent",
-      "url"         : "./smartcity.html",
-      "date"        : "2019-03-15 03:00:00 -0300",
-      "description" : "IEEE Networking Letters, Volume 1 Issue 2.",
-      "content"     : "Automated Selection of Inter-Packet Time Models Through Information CriteriaAbstract: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.Published in: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)Page(s): 56 - 59Date of Publication: 15 March 2019Electronic ISSN: 2576-3156INSPEC Accession Number: 18708377DOI: 10.1109/LNET.2019.2905364Publisher: IEEEBibTeX:@ARTICLE{ 8667676, author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve}, journal={IEEE Networking Letters}, title={Automated Selection of Inter-Packet Time Models Through Information Criteria}, year={2019}, volume={1}, number={2}, pages={56-59}, doi={10.1109/LNET.2019.2905364}}"
-    } ,
-  
-    {
-      "title"       : "(blog) Automated Selection of Inter-Packet Time Models Through Information Criteriaa",
-      "category"    : "",
-      "tags"        : "Stochastic processes, Cost function, Measurement, Computational modeling, Fractals, Correlation, Data models, BIC, AIC, stochastic function, inter-packet times, Hurst exponent",
-      "url"         : "./sdn-nfv.html",
       "date"        : "2019-03-15 03:00:00 -0300",
       "description" : "IEEE Networking Letters, Volume 1 Issue 2.",
       "content"     : "Automated Selection of Inter-Packet Time Models Through Information CriteriaAbstract: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.Published in: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)Page(s): 56 - 59Date of Publication: 15 March 2019Electronic ISSN: 2576-3156INSPEC Accession Number: 18708377DOI: 10.1109/LNET.2019.2905364Publisher: IEEEBibTeX:@ARTICLE{ 8667676, author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve}, journal={IEEE Networking Letters}, title={Automated Selection of Inter-Packet Time Models Through Information Criteria}, year={2019}, volume={1}, number={2}, pages={56-59}, doi={10.1109/LNET.2019.2905364}}"
@@ -231,23 +211,43 @@
     } ,
   
     {
+      "title"       : "(Portuguese) Smart Cities &amp; Big Data - Big Data Technologies as Enablers of the Cities of the Future - A top-down approach",
+      "category"    : "",
+      "tags"        : "Big Data, Smart Cities, machine learning, data mining, NoSQL, Hadoop, middleware, Civitas",
+      "url"         : "./smartcity.html",
+      "date"        : "2015-10-01 03:00:00 -0300",
+      "description" : "",
+      "content"     : "Cidades Inteligentes &amp; Big DataTecnologias de Big Data como habilitadoras das Cidades do Futuro - Uma abordagem top-downAbstract: This work aims to discuss the themes of smart cities and big data, inserted within the same context, and to show the numerous points at which they interrelate. It is discussed how big data technologies are a fundamental enabler so that smart cities can actually be implemented. Both concepts are formally introduced, with the concept of smart cities discussed being inserted within the architecture and technological map of the big data value chain. Finally, a practical example of implementing a big data infrastructure for a smart city is presented: CiDAP, in Santander, Spain.Resumo: Este trabalho tem por objetivo discutir os temas de cidades inteligentes e big dada, inseridos dentro do mesmo contexto, e mostrar os inúmeros pontos em que eles se interrelacionam. É discutido como as tecnologias de big data tratam-se se um habilitados fundamental para que cidades inteligentes possam ser de fato implantada. Ambos os conceitos são formalmente introduzidos, sendo o conceito de cidades inteligentes discutido inserido dentro da arquitetura e mapa tecnológico de cadeia de valor do big data. Por fim, é apresentado um exemplo prático de implementação de uma infraestrutura de big data de uma cidade inteligente: o CiDAP, em Santander, na Espanha."
+    } ,
+  
+    {
+      "title"       : "(Portuguese) SDN and NFV and SDN Technologies as an NFV Enabler",
+      "category"    : "",
+      "tags"        : "SDN, NFV, Middleboxes, CAPEX, OPEX, OpenFlow, OpenDayLight",
+      "url"         : "./sdn-nfv.html",
+      "date"        : "2015-06-01 03:00:00 -0300",
+      "description" : "",
+      "content"     : "Tecnologias SDN e NFV; e SDN como habilitadora de NFVAbstract: In recent years, the expansion of internet access has led to a true revolution in telecommunications. However, the very nature of the architecture of the internet has shown itself to be a bottleneck that prevents innovations in the medium. Thus, increases in operating capital expenditures, as well as increased network complexity are inevitable. In order to solve part of these problems, new technologies, SDN and NFV, appear. Although both are conceptually independent of each other, the set of common goals, as well as the possibility of adopting both together, ends up making them mutually collaborative. This work aims to present the concepts of SDN and NFV, as well as show their commonalities, and bring projects in which both technologies have been used collaboratively.Resumo: Nos últimos anos, a expansão do acesso a internet propiciou uma verdadeira revolução nas telecomunicações. No entanto, a própria natureza da arquitetura da internet vem se mostrando hoje um gargalo que impede inovações no meio. Dessa forma aumentos de gastos com capital operativos, bom como aumento da complexidade das redes são inevitáveis. Visando resolver parte desses problemas, surgem novas tecnologias, SDN e NFV. Apesar de ambas serem conceitualmente independentes entre si, o conjunto objetivos em comum, bem como a possibilidade de adoção de ambas em conjunto, acaba por torná-las mutuamente colaborativas. Este trabalho tem por objetivo apresentar os conceitos de SDN e NFV, bem como mostrar seus pontos em comum, e trazer projetos em que ambas as tecnologias vêm sendo usadas de maneira colaborativa."
+    } ,
+  
+    {
       "title"       : "(Portuguese) Introduction to CL-AKA Protocols",
       "category"    : "",
       "tags"        : "CL-AKA, Public Key, Criptography without certificates",
       "url"         : "./claka.html",
       "date"        : "2015-05-01 03:00:00 -0300",
       "description" : "CL-AKA criptography protocols",
-      "content"     : "Introduction to CL-AKA ProtocolsAbstract: The use of digital certificates distributed by a Public Key Infrastructure (PKI) is the most widespread methodology in symmetric key agreement protocols. In this work, some alternative methodologies will be discussed, with a greater focus on CL-AKA protocols, ie, authenticated key agreement protocols without the use of certificates. The theoretical foundations, two protocol implementations, and some practical applications and proposals will be discussed."
+      "content"     : "Introdução aos protocolos CL-AKAAbstract: The use of digital certificates distributed by a Public Key Infrastructure (PKI) is the most widespread methodology in symmetric key agreement protocols. In this work, some alternative methodologies will be discussed, with a greater focus on CL-AKA protocols, ie, authenticated key agreement protocols without the use of certificates. The theoretical foundations, two protocol implementations, and some practical applications and proposals will be discussed.Resumo: A utilização de certificados digitais distribuídos por uma Infraestrutura de chaves públicas (PKI) é a metodologia mais difundida em protocolos de acordo de chave simétrica. Neste trabalho serão discutidas algumas metodologias alternativas, com um maior enfoque em protocolos CL-AKA, ou seja protocolos de acordo de chave autenticado sem uso de certificados. Serão discutidos os fundamentos teóricos, duas implementações de protocolos, e algumas aplicações e propostas pratias."
     } ,
   
     {
-      "title"       : "(Portuguese) Introduction to CL-AKA Protocols",
+      "title"       : "(Portuguese) Review involving the feasibility of using NFV in conjunction with SDN on new generation ARM servers",
       "category"    : "",
-      "tags"        : "Stochastic processes, Cost function, Measurement, Computational modeling, Fractals, Correlation, Data models, BIC, AIC, stochastic function, inter-packet times, Hurst exponent",
+      "tags"        : "NFV, SDN, Hipervisor, ARM, RISC",
       "url"         : "./nfv-arm.html",
       "date"        : "2014-09-01 03:00:00 -0300",
       "description" : "",
-      "content"     : "Automated Selection of Inter-Packet Time Models Through Information CriteriaAbstract: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.Published in: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)Page(s): 56 - 59Date of Publication: 15 March 2019Electronic ISSN: 2576-3156INSPEC Accession Number: 18708377DOI: 10.1109/LNET.2019.2905364Publisher: IEEEBibTeX:@ARTICLE{ 8667676, author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve}, journal={IEEE Networking Letters}, title={Automated Selection of Inter-Packet Time Models Through Information Criteria}, year={2019}, volume={1}, number={2}, pages={56-59}, doi={10.1109/LNET.2019.2905364}}"
+      "content"     : "Revisão envolvendo a viabilidade da utilização de NFV em conjunto com SDN sobre servidores ARM de nova geraçãoAbstract: This work reviews the feasibility of using NFV (Network Function Virtualization) and SDN (Software Defined Networks) technologies together on an ARM hardware platform. A theoretical introduction is made on the subject, a brief exposition of the architecture of NFV and SDN technologies, as well as a study of motivations, requirements and challenges, with a main focus on NFV. SDN here is mainly seen as a possibility that the use of these technologies together can more easily lead to the fulfillment of requirements. An analysis is made of some results involving virtualized network functions and networks defined by software, which show important conclusions, such as the dimension of the added overheads, and points where the technologies can be optimized. The feasibility of using ARM processors as NFV servers is also discussed, when analyzing several recent results involving computational and energy performance compared to other x86 architectures. The analysis of performance results of virtualization on this platform was also performed. Finally, a line of ARMv8 processors launched in 2014 is briefly presented, which has great potential with new network technologies.Resumo: Neste trabalho é feita uma revisão a respeito da viabilidade da utilização em conjunto das tecnologias NFV (Network Function Virtualization) e SDN(Software Defined Networks), sobre uma plataforma de hardware ARM. É feita uma introdução teórica sobre o assunto, uma exposição breve de como é a arquitetura das tecnologias NFV e SDN, bem como estudo das motivações, requisitos e desafios, com foco principal em NFV. SDN aqui é visto principalmente como uma possibilidade de que a utilização dessas tecnologias em conjunto, pode levar mais facilmente levar ao cumprimento de requisitos. É feita a análise de alguns resultados envolvendo funções de rede virtualizadas e redes definidas por softwares, que mostram conclusões importantes, como a dimensão dos overheads acrescentados, e pontos onde as tecnologias podem ser otimizadas. É também discutida a viabilidade da utilização de processadores ARM como servidores NFV, ao se analisarem diversos resultados recentes envolvendo desempenho computacional e energético dos mesmos comparados com outras arquiteturas x86. Foi também feita a análise de resultados de desempenho da virtualização sobre esta plataforma. Por fim é brevemente apresentado uma linha de processadores da arquitetura ARMv8 lançados em 2014, que tem grande potencial com novas tecnologias de rede."
     } ,
   
     {

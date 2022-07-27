@@ -37,15 +37,15 @@
     
     "./aic-bic.html",
     
-    "./smartcity.html",
-    
-    "./sdn-nfv.html",
-    
     "./aic-bic-first.html",
     
     "./traff-gen.html",
     
     "./mininet-wifi.html",
+    
+    "./smartcity.html",
+    
+    "./sdn-nfv.html",
     
     "./claka.html",
     
