@@ -1,0 +1,28 @@
+---
+layout: menu-page
+title: Blog
+permalink: blog:output_ext
+infinite: yes
+---
+{% include calculate_relative_base.html %}
+
+<div class="archive tag-master">
+	<div class="post-list">
+	{% for post in site.posts %}
+		{% if post.is_blog == true %}
+			<div class="post">
+				{% include remove_double_slash.html %}
+				<a class="post-list-title" href="{{ post_url }}">{{ post.title }}</a>
+				{% include post_meta.html type="post-card-meta" %}
+				<div class="post-excerpt">
+					{{ post.content | markdownify | strip_newlines | truncatewords: 100 }}<a class="read-more" href="{{ post_url }}"> read more</a>
+				</div>
+			</div>
+		{% endif %}
+	{% endfor %}
+	</div>
+</div>
+
+<!--
+{% include spinner.html %}
+-->

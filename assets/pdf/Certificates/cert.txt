@@ -1,0 +1,238 @@
+Udemy: 
+
+	course-name: Modern C++ Concurrency in Depth ( C++17/20)
+	course-url: https://www.udemy.com/course/modern-cpp-concurrency-in-depth/
+	issuance-month: Mar
+	issuance-year: 2022
+	credential-code: UC-eb0282cc-d9c4-4755-b4a4-8d0c5bcd1c88
+	certificate: https://www.udemy.com/certificate/UC-eb0282cc-d9c4-4755-b4a4-8d0c5bcd1c88
+		
+	course-name: Criando sites estáticos com Jekyll
+	course-url: https://www.udemy.com/share/102md63@Uknu-XqGouAmzqGkUwxe6erZV6ES1h3lSrPP5Y-HBcKaNuS97GtJLYRXlgFxbeFa/
+	issuance-month: Jun
+	issuance-year: 2022
+	credential-code: 
+	certificate: 		
+
+	course-name: Modern C++ Memory Management: Learn to write good code fast
+	course-url: https://www.udemy.com/course/modern-cpp-memory-management-learn-to-write-good-code-fast/
+	issuance-month: Sep
+	issuance-year: 2020
+	credential-code: UC-8ac52729-ceec-4813-b9ee-8cb6c464f852
+	certificate: https://www.udemy.com/certificate/UC-8ac52729-ceec-4813-b9ee-8cb6c464f852/		
+
+--
+
+Coursera
+
+	course-name: Machine Learning
+	course-url: https://www.coursera.org/learn/machine-learning/home/welcome
+	issuance-month: Fev
+	issuance-year: 2016
+	credential-code: 
+	certificate: 		
+
+--
+
+Edx
+
+	course-name: Introduction to Cloud Computing
+	course-url: https://www.edx.org
+	issuance-month: Jul
+	issuance-year: 2015
+	credential-code: https://verify.edx.org/cert/d92984df51e74c519e544385cc8f4ee6
+	certificate: https://s3.amazonaws.com/verify.edx.org/downloads/a0b0c2ed71004e3184b8ac849b624927/Certificate.pdf 		
+
+	course-name: Introduction to ReactJS
+	course-url: https://learning.edx.org/course/course-v1:Microsoft+DEV281x+3T2018/home
+	issuance-month: Dez
+	issuance-year: 2018
+	credential-code: 
+	certificate: 		
+
+	course-name: English Grammar & Style
+	course-url: https://learning.edx.org/course/course-v1:UQx+Write101x+2T2015/home
+	issuance-month: Oct
+	issuance-year: 2015
+	credential-code: https://verify.edx.org/cert/d6950e60c4304635a4f51398413ca231
+	certificate: https://s3.amazonaws.com/verify.edx.org/downloads/760dcbb386fd40288ae666c671c80989/Certificate.pdf		
+
+	course-name: Programming with Java - Part 1: Starting to Program in Java
+	course-url: https://www.edx.org
+	issuance-month: Jul
+	issuance-year: 2015
+	credential-code: https://verify.edx.org/cert/76cb8eb81cc94f5f981d3ba515bcee39
+	certificate: https://s3.amazonaws.com/verify.edx.org/downloads/a1a9e298935442acad99f854b0630b29/Certificate.pdf		
+
+---
+
+FUN
+	course-name: Internet Measurements: a Hands-on Introduction
+	course-url: https://www.my-mooc.com/pt/mooc/internet-measurements-a-hands-on-introduction/
+	issuance-month: Jul
+	issuance-year: 2016
+	credential-code: 9a5910a63e9dd505f0c3fba3ab96506a
+	certificate:  InternetMeasurements.pdf		
+
+---
+
+Alura
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+
+	course-name: 
+	course-url: 
+	issuance-month: 
+	issuance-year: 
+	credential-code: 
+	certificate: 		
+	
+	
+	
+	
