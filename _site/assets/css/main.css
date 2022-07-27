@@ -29,17 +29,17 @@ html {
 
 
 html[data-theme="dark"]  {
-  --accent:       #d14c47;    /* accent     */
-  --accent-dark:  #DBBEA1;    /* accent 2   */
-  --main:         #5F8081;    /* main color */
-  --main-dim:     #333D47;    /* dimmed version of main color */
-  --text:         #CBCCCD;
-  --grey1:        #B1B1AE;
-  --grey2:        #959692;
-  --grey3:        #7C7E7B;
-  --grey4:        #636564;
-  --grey5:        #3B3D40;
-  --background:   #2B323B;
+  --accent:       #A020F0;    /* accent     */
+  --accent-dark:  #c7d5e0;    /* accent 2   */
+  --main:         #66c0f4;    /* main color */
+  --main-dim:     #2a475e;    /* dimmed version of main color */
+  --text:         #c7d5e0;
+  --grey1:        #c7d5e0;
+  --grey2:        #66c0f4;
+  --grey3:        #66c0f4;
+  --grey4:        #66c0f4;
+  --grey5:        #1b2838;
+  --background:   #171a21;
   --shadow:       rgba(0,0,0,.3);
   --github:       #000;
 }

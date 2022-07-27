@@ -73,7 +73,26 @@ DOI: https://doi.org/10.47749/T/UNICAMP.2019.1090415
 
 
 **Citação**:
+
 ```
-PASCHOALON, Ánderson dos Santos. SIMITAR: synthetic and realistic network traffic generation = SIMITAR: geração de tráfego de rede sintético e realístico. 2019. 1 recurso online (159 p.) Dissertação (mestrado) - Universidade Estadual de Campinas, Faculdade de Engenharia Elétrica e de Computação, Campinas, SP. Disponível em: https://hdl.handle.net/20.500.12733/1636558. Acesso em: 13 jul. 2022. 
+@phdthesis{
+  simitar-thesis,
+  author  = "Paschoalon, Anderson dos Santos ",
+  title   = "SIMITAR: synthetic and realistic network traffic generation",
+  school  = "State University of Campinas, Faculty of Electrical Engineering and Computing",
+  year    = "2019",
+  type    = "Master Dissertation",
+  address = "Campinas, SP",
+  month   = "March",
+  note    = "\url{https://hdl.handle.net/20.500.12733/1636558}",
+}
+```
+```
+PASCHOALON, Ánderson dos Santos. SIMITAR: synthetic and realistic network 
+traffic generation = SIMITAR: geração de tráfego de rede sintético e 
+realístico. 2019. 1 recurso online (159 p.) Dissertação (mestrado) - 
+Universidade Estadual de Campinas, Faculdade de Engenharia Elétrica e de 
+Computação, Campinas, SP. Disponível em: 
+https://hdl.handle.net/20.500.12733/1636558. Acesso em: 13 jul. 2022. 
 ```
 
