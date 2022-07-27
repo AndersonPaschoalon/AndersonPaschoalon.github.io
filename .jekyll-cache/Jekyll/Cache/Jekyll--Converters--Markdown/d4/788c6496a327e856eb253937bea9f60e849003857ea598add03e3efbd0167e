@@ -1,5 +1,0 @@
-I"<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1>
-
-<p><strong>Resumo</strong>: Nos últimos anos, a expansão do acesso a internet propiciou uma verdadeira revolução nas telecomunicações. No entanto, a própria natureza da arquitetura da internet vem se mostrando hoje um gargalo que impede inovações no meio. Dessa forma aumentos de gastos com capital operativos, bom como aumento da complexidade das redes são inevitáveis. Visando resolver parte desses problemas, surgem novas tecnologias, SDN e NFV. Apesar de ambas serem conceitualmente independentes entre si, o conjunto objetivos em comum, bem como a possibilidade de adoção de ambas em conjunto, acaba por torná-las mutuamente colaborativas. Este trabalho tem por objetivo apresentar os conceitos de SDN e NFV, bem como mostrar seus pontos em comum, e trazer projetos em que ambas as tecnologias vêm sendo usadas de maneira colaborativa.</p>
-
-:ET

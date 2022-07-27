@@ -1,5 +1,0 @@
-I"?<h1 id="introduction-to-cl-aka-protocols">Introduction to CL-AKA Protocols</h1>
-
-<p><strong>Abstract</strong>: The use of digital certificates distributed by a Public Key Infrastructure (PKI) is the most widespread methodology in symmetric key agreement protocols. In this work, some alternative methodologies will be discussed, with a greater focus on CL-AKA protocols, ie, authenticated key agreement protocols without the use of certificates. The theoretical foundations, two protocol implementations, and some practical applications and proposals will be discussed.</p>
-
-:ET

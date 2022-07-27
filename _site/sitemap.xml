@@ -94,110 +94,6 @@
   
     
     <url>
-      <loc>http://localhost:4000/AI-and-intellectual-property.html</loc>
-      
-        <lastmod>2021-04-20T00:00:00-03:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/back-to-basics.html</loc>
-      
-        <lastmod>2021-04-02T00:00:00-03:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/starting-the-adventure.html</loc>
-      
-        <lastmod>2021-03-24T00:00:00-03:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/deep-q-learning-tic-tac-toe.html</loc>
-      
-        <lastmod>2021-03-18T18:14:20-03:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/neural-network-optimization-methods.html</loc>
-      
-        <lastmod>2021-03-12T16:32:20-03:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/ML-Library-from-scratch.html</loc>
-      
-        <lastmod>2021-02-28T15:32:20-03:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/conways-game-of-life.html</loc>
-      
-        <lastmod>2021-02-10T16:32:20-03:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/single-neuron-perceptron.html</loc>
-      
-        <lastmod>2021-01-25T16:32:20-03:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
       <loc>http://localhost:4000/simitar.html</loc>
       
         <lastmod>2019-08-27T03:00:00-03:00</lastmod>
@@ -357,7 +253,7 @@
     <url>
       <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -372,7 +268,7 @@
     <url>
       <loc>http://localhost:4000/all-posts.json</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -387,7 +283,7 @@
     <url>
       <loc>http://localhost:4000/archive.html</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -402,7 +298,7 @@
     <url>
       <loc>http://localhost:4000/bio.html</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -417,7 +313,7 @@
     <url>
       <loc>http://localhost:4000/blog.html</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -432,7 +328,7 @@
     <url>
       <loc>http://localhost:4000/curriculum.html</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -447,7 +343,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -462,7 +358,7 @@
     <url>
       <loc>http://localhost:4000/ipfs-404.html</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -477,7 +373,7 @@
     <url>
       <loc>http://localhost:4000/posts-by-tag.json</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -492,7 +388,7 @@
     <url>
       <loc>http://localhost:4000/projects.html</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -507,7 +403,7 @@
     <url>
       <loc>http://localhost:4000/search.json</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -524,7 +420,7 @@
     <url>
       <loc>http://localhost:4000/tag.html</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -539,7 +435,7 @@
     <url>
       <loc>http://localhost:4000/tags.html</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -554,7 +450,7 @@
     <url>
       <loc>http://localhost:4000/under-construction.html</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -569,7 +465,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2022-07-27T01:18:17-03:00</lastmod>
+        <lastmod>2022-07-27T01:53:18-03:00</lastmod>
       
       
         <changefreq>daily</changefreq>

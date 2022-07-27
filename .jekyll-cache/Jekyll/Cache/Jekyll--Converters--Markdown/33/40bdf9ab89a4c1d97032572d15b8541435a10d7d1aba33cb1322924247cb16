@@ -1,5 +1,0 @@
-I"_<h1 id="introduction-to-cl-aka-protocols">Introduction to CL-AKA Protocols</h1>
-
-<p><strong>Abstract</strong>: A utilização de certificados digitais distribuídos por uma Infraestrutura de chaves públicas (PKI) é a metodologia mais difundida em protocolos de acordo de chave simétrica. Neste trabalho serão discutidas algumas metodologias alternativas, com um maior enfoque em protocolos CL-AKA, ou seja protocolos de acordo de chave autenticado sem uso de certificados. Serão discutidos os fundamentos teóricos, duas implementações de protocolos, e algumas aplicações e propostas pratias.</p>
-
-:ET
