@@ -2,9 +2,9 @@
 layout: post
 read_time: false
 show_date: true
-title:  Mod Pack for Age of Mitology
+title: (Age of Mitology) Lost Continent of Adria
 date:   2021-08-27 0:00:00 -0600
-description: Pack of small mods for Age of Mitology
+description: A new Campaign with an rpg-like lore, and a collection of new random maps for Age of Mithology.
 img: posts/aom/Screenshot_AOM.png
 tags: [Age of Mitology, Game Development, Mod]
 author: Anderson Paschoalon
@@ -25,10 +25,14 @@ proj-group: game # research, open-source, game, tool
 ---
 
 
-# Mod Pack for Age of Mitology
+# The Lost Continent of Adria
 
 
-Some small mods I developed for Age Of Mitology. Right now I have seven random maps, and one Campaing with five scenarios (in development).
+_In the mythical continent of Adria, a fantastic and magical land there is a permanent conflict between all the human and beast races that inhabit that land._
+
+_You will have the mission to lead the Nords, a human race that lives in the snowy mountains and pine forests of the north through a journey to conquer the world._
+
+_You will travel through deserts, forests, mountains, volcanos, and forests, full of secrets, animals, and mythical creatures._
 
 ### Random Maps
 
