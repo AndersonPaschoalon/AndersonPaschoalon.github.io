@@ -24,8 +24,6 @@ has_release: false
 proj-group: 
 ---
 
-# CPQD3036 - ETHERMONITOR - V.1.0
-
 
 This is the register of computer program provided by INPI (_Instituto Nacional da Propriedade Industrial_ -- National Institute of Industrial Property) [Ethermonitor]( {{site.page-ethermonitor}}), wich I developed at CPQD when I was an intern. 
 

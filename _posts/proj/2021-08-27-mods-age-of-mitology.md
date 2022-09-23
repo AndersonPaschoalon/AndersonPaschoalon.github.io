@@ -2,7 +2,7 @@
 layout: post
 read_time: false
 show_date: true
-title: The Lost Continent of Adria
+title: The Lost Continent of Adria -- Age of Mithology Mod
 date:   2021-08-27 0:00:00 -0600
 description: This mod brings a new Campaign with RPG-like lore and a collection of new random maps for Age of Mythology.
 img: posts/aom/Adria.jpg
@@ -23,9 +23,6 @@ mathjax:
 has_release: true
 proj-group: game # research, open-source, game, tool 
 ---
-
-
-# The Lost Continent of Adria -- Age of Mithology Mod
 
 
 _In the mythical continent of Adria, a fantastic and magical land there is a permanent conflict between all the human and beast races that inhabit that land._

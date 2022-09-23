@@ -24,7 +24,6 @@ has_release: false
 proj-group: 
 ---
 
-# SIMITAR: synthetic and realistic network traffic generation
 
 **Abstract**: 
 

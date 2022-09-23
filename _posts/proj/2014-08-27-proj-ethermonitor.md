@@ -23,8 +23,6 @@ has_release: true
 mathjax: 
 proj-group: research # research, open-source, game, tool 
 ---
-
-# CPQD3036 EtherMonitor
             
 <p>
 	<b>EtherMonitor</b> is an application developed in C and implemented for an LTE radio base station, called eNodeB developed in the <a target="_blank" href="https://www.cpqd.com.br/releases/cpqd-apresenta-tecnologia-lte4g-na-faixa-de-700-mhz/">CPQD Foundation's LTE/4G project</a>.
