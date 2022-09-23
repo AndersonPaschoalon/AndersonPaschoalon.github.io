@@ -28,11 +28,16 @@ layout: default
         </div>
         {% include sidebar.html context="post" class="side" id="sidebar" %}
         {% if page.toc %}{% include sidebar-toc.html %}{% endif %}
-        {{page.content | markdownify}}
+
         {% include publication-button.html %}
         {% include pdf-button.html %}
         {% include github-button.html %}
         {% include web-button.html %}
+        {% include nexus-button.html %}
+
+        {{page.content | markdownify}}
+
+
         {% include sidebar.html context="post" class="inline" id="post-end" %}
         <div class="separator"></div>
       </div>
