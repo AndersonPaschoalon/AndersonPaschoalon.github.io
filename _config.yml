@@ -11,7 +11,7 @@ url: "https://andersonpaschoalon.github.io" # the base hostname & protocol for y
 # logo removed
 # logo-icon: "/assets/img/branding/MVM-symbol.svg"
 # logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
-logo-icon-SEO: "/assets/img/icon/SEO-icon.png" # must be a non SVG file
+logo-icon-SEO: "/assets/img/icons/SEO-icon.png" # must be a non SVG file
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
 # (19:00 - 07:00), "manual" is for manual toggle, and
@@ -26,7 +26,9 @@ night_mode: "auto"
 # logo dark removed
 # logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
-version: "beta-v1.1.0"
+# alpha (not stable), beta (stable, has known small bugs), none (no known bugs)
+# Major update (technology/website structure) | Update (post, small changes) | Hotfix 
+version: "beta-v1.1.1"
 
 ###############################################################################
 # HEADER INFORMATION
