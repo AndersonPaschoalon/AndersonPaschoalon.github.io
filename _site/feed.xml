@@ -1,4 +1,304 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-27T02:45:05-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Anderson Paschoalon</title><subtitle>A front-end for my academic formation, projects, and some more stuff.</subtitle><author><name>Anderson Paschoalon</name></author><entry><title type="html">Dawn of the Silver Hands</title><link href="http://localhost:4000/dsilhand.html" rel="alternate" type="text/html" title="Dawn of the Silver Hands" /><published>2022-07-01T03:00:00-03:00</published><updated>2022-07-01T03:00:00-03:00</updated><id>http://localhost:4000/dsilhand</id><content type="html" xml:base="http://localhost:4000/dsilhand.html"><![CDATA[<h1 id="dsilhand">DSilHand</h1>]]></content><author><name>Anderson Paschoalon</name></author><category term="Skyrim" /><category term="Creation Kit" /><category term="Papyrus" /><category term="Game Development" /><category term="Mod" /><summary type="html"><![CDATA[Skyrim mod -- Join the Silver Hand faction!]]></summary></entry><entry><title type="html">Quest Dialog Manager</title><link href="http://localhost:4000/quest-dialog-manager.html" rel="alternate" type="text/html" title="Quest Dialog Manager" /><published>2022-06-01T03:00:00-03:00</published><updated>2022-06-01T03:00:00-03:00</updated><id>http://localhost:4000/quest-dialog-manager</id><content type="html" xml:base="http://localhost:4000/quest-dialog-manager.html"><![CDATA[<h1 id="quest-dialog-manager">Quest Dialog Manager</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-24T17:14:50-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Anderson Paschoalon</title><subtitle>A front-end for my academic formation, projects, and some more stuff.</subtitle><author><name>Anderson Paschoalon</name></author><entry><title type="html">Dawn of the Silver Hands – Join the Silver Hands!</title><link href="http://localhost:4000/dsilhand.html" rel="alternate" type="text/html" title="Dawn of the Silver Hands – Join the Silver Hands!" /><published>2022-09-24T03:00:00-03:00</published><updated>2022-09-24T03:00:00-03:00</updated><id>http://localhost:4000/dsilhand</id><content type="html" xml:base="http://localhost:4000/dsilhand.html"><![CDATA[<p align="center">
+	<img src="./assets/img/posts/dsilhand/DSilhandLogo.jpg" width="600" />
+</p>
+
+<p><em>For centuries the Daedric Wolves lived among the sons of Skyrim in secret.</em></p>
+
+<p><em>But no one wanted to believe.</em>
+<em>Or had the strength to fight.</em></p>
+
+<p><em>Now it is up to YOU to choose which side will prevail.</em></p>
+
+<p><em>The Beast Blood… Or the Silver Hands!</em></p>
+
+<h2 id="overview">Overview</h2>
+
+<p>This mod allow you to join the Silver Hand faction!</p>
+
+<p>It is up to you to decide! You can still follow the vanilla path joining The Companions, but this mod allow you to see an alternate timeline where the Dragonborn joins the Silver Hand instead!</p>
+
+<p>I am really grateful for all the positive comments and good reception of this mod.</p>
+
+<p>It has already received some reviews from the portal <em>THE GAMER</em>, and the youtube player <em>yerak</em>:</p>
+
+<h1 id="-skyrim-mod-lets-players-join-the-silver-hands-"><a href="https://www.thegamer.com/skyrim-join-silver-hands/" target="_blank"> <em>Skyrim Mod Lets Players Join The Silver Hands</em> </a></h1>
+
+<p><a href="https://www.youtube.com/watch?v=CaOS87Rn4L4" target="_blank">
+ <img src="https://img.youtube.com/vi/CaOS87Rn4L4/0.jpg" alt="Mods de Skyrim - Agora você pode ser um Mão de Prata contra Companions! (Dawn of the Silver Hands)" width="360" height="180" border="10" />
+</a></p>
+
+<p><strong>Dragonborn as a Silver Hand!</strong></p>
+
+<p>This mod tries to imagine how would be the sequence of facts if he decided to join the Silver Hands instead. It is not a simple mod with some bounty quests. It has a full story-line that tries to follows the same sequence of facts you see in The Companions quest-line, but from the Silver Hands perspective:</p>
+
+<ul>
+  <li>Find the missing pieces of Wuulthad!</li>
+  <li>Work in the shadows to dismantle The Companions plans!</li>
+  <li><strong>Defend Gallows Rock</strong> from Companions invasion, and <strong>attack Jorrvaskr</strong>!</li>
+  <li>Reassemble the legendary Axe Wuuthrad!</li>
+</ul>
+
+<p>The amount of content added by this mod is similar in therms of game-play with The Companions content, alongside with <strong>two new Silver Hand’s locations</strong> and a new <strong>Player House</strong>.</p>
+
+<p align="center">
+	<img src="./assets/img/posts/dsilhand/Skyrim90.jpeg" width="600" />
+</p>
+
+<p align="center">
+	<img src="./assets/img/posts/dsilhand/Skyrim93.jpeg" width="600" />
+</p>
+
+<p align="center">
+	<img src="./assets/img/posts/dsilhand/ScreenShot7.jpeg" width="600" />
+</p>
+
+<p align="center">
+	<img src="./assets/img/posts/dsilhand/Skyrim13.jpeg" width="600" />
+</p>
+
+<p align="center">
+	<img src="./assets/img/posts/dsilhand/Skyrim73.jpeg" width="600" />
+</p>
+
+<p><strong>Improoved Experience</strong></p>
+
+<p>A new <strong>soundtrack</strong> is added to both factions, to reflect the moods of The Companions and The Silver Hands. The Companions have a glorious, urban and bard-sh mood, to reflect their proud. The Silver Hands have a darker and wild-sh and seclude soundtrack, reflecting they are isolated in the wilds.</p>
+
+<p>If you join the Silver Hands, new content will be available:</p>
+
+<ul>
+  <li>Acquire a new house in Gallows Rock;</li>
+  <li>Two new followers;</li>
+  <li>Forge and Upgrade Silver Weapons, and learn to forge stronger type of Silver Sword;</li>
+  <li>New unique weapons and armours;</li>
+  <li>5 new radiant quests to allow a limitless game-play content for the faction.</li>
+</ul>
+
+<h2 id="lore">Lore</h2>
+
+<p>This mod tries to be as lore-friendly as possible. Since not much is explicitly said about the Silver Hands the the series, some speculations exercises are made.</p>
+
+<p>I started to write the story for this mod before FudgeMuppet released their video about the Silver Hands. The funny thing is some of his conclusions about the past of the Silver Hands are mine as well.</p>
+
+<p>I highly recommend you to watch his video before playing my mod:</p>
+
+<p><a href="https://www.youtube.com/watch?v=TXf46T8dVck" target="_blank">
+ <img src="https://img.youtube.com/vi/TXf46T8dVck/0.jpg" alt="Skyrim - The Hidden TRUTH About The Silver Hand - An Elder Scrolls Lore Theory" width="360" height="180" border="10" />
+</a></p>
+
+<p>Some assumptions I took about the past of the Silver Hands are:</p>
+
+<ul>
+  <li>
+    <p>They were formed as a dissident group of The Companions after Terrfyg (https://elderscrolls.fandom.com/wiki/Terrfyg) made the pact with the Glenmoril Witches (https://elderscrolls.fandom.com/wiki/Glenmoril_Witches). They are called “dissidents” by Kodlak and Vignar.</p>
+  </li>
+  <li>
+    <p>The Silver Hands are very devoted to the Ysgramor legacy, and they see themselves as the true holders of his legacy in Skyrim.</p>
+  </li>
+  <li>
+    <p>The Silver Hands are a recluse faction, but keep relationships with farmers, villagers and some Jarls.</p>
+  </li>
+  <li>
+    <p>In the start of the game the Silver Hands have the possession of four fragments of Wuulthrad, the same number of fragments The Companions have. They were searching for the fragments since their foundation.</p>
+  </li>
+</ul>]]></content><author><name>Anderson Paschoalon</name></author><category term="Skyrim" /><category term="Creation Kit" /><category term="Papyrus" /><category term="Game Development" /><category term="Mod" /><summary type="html"><![CDATA[This Skyrim mod allows you to join the Silver Hand faction!]]></summary></entry><entry><title type="html">NexusPackager App</title><link href="http://localhost:4000/nexus-packager-app.html" rel="alternate" type="text/html" title="NexusPackager App" /><published>2022-09-24T03:00:00-03:00</published><updated>2022-09-24T03:00:00-03:00</updated><id>http://localhost:4000/nexus-packager-app</id><content type="html" xml:base="http://localhost:4000/nexus-packager-app.html"><![CDATA[<h1 id="nexus-build-app">Nexus Build App</h1>
+
+<p>Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.</p>
+
+<p>I create this app because I wanted a flexible and simple tool to package both my Skyrim and Age of Mythology mods.</p>
+
+<p>This application:</p>
+
+<ul>
+  <li>Package files defined by rules into a ZIP, and preserve its original directory structure;</li>
+  <li>Scriptable rules, write once, so you will never forget any files;</li>
+  <li>Creates an uninstall script.</li>
+</ul>]]></content><author><name>Anderson Paschoalon</name></author><category term="Markdown" /><category term="HTML" /><category term="Bootstrap" /><category term="Python" /><category term="Docx" /><category term="Pdf" /><category term="Txt" /><category term="Md" /><summary type="html"><![CDATA[Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.]]></summary></entry><entry><title type="html">The Lost Continent of Adria – Age of Mithology Mod</title><link href="http://localhost:4000/mods-age-of-mitology.html" rel="alternate" type="text/html" title="The Lost Continent of Adria – Age of Mithology Mod" /><published>2022-09-24T03:00:00-03:00</published><updated>2022-09-24T03:00:00-03:00</updated><id>http://localhost:4000/mods-age-of-mitology</id><content type="html" xml:base="http://localhost:4000/mods-age-of-mitology.html"><![CDATA[<p><em>In the mythical continent of Adria, a fantastic and magical land there is a permanent conflict between all the human and beast races that inhabit that land.</em></p>
+
+<p><em>You will have the mission to lead the Nords, a human race that lives in the snowy mountains and pine forests of the north through a journey to conquer the world.</em></p>
+
+<p><em>You will travel through deserts, forests, mountains, volcanos, and forests, full of secrets, animals, and mythical creatures.</em></p>
+
+<p align="center">
+	<img src="./assets/img/posts/aom//Screenshot_1.jpg" width="600" />
+</p>
+
+<h1 id="about-this-mod">About this Mod</h1>
+
+<h2 id="main-campaign">Main Campaign</h2>
+
+<p align="center">
+	<img src="./assets/img/posts/aom/Adria.jpg" width="600" />
+</p>
+
+<p>This mod brings a new Campaign with RPG-like lore and a collection of new random maps for Age of Mythology.</p>
+
+<p>My idea behind the Campaign is to combine some new concepts:</p>
+
+<ul>
+  <li>
+    <p>Create a new mechanic (more “realistic”) where you can’t create new unity between each quest. You will receive new units after each quest, but you cannot spawn new units on each of them. Every unity is precious, and you have to use them wisely.</p>
+  </li>
+  <li>
+    <p>This is not a “mythological reality”, but an RPG-like fantasy world, such as Dungeons and Dragons, and The Elder Scrolls. You will have a continent to explore, and many races, some humans, some not. But you are going to control armies, not a character.</p>
+  </li>
+  <li>
+    <p>The Campaign is composed of 5 quest, each one happening in a different part of the world.</p>
+  </li>
+</ul>
+
+<p>The Lost Continent of Adria has six major regions, each one of which is inhabited by one different race:</p>
+
+<ul>
+  <li><strong>Nordic Taiga</strong>: the northern region of the continent, the homeland of the Nords and the Dwarves. If full of snowy mountains and pine forests. Their capital is hidden on a hill in the middle of the forest. The wildlife is composed mainly of deer, bears, and wolves.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom/Screenshot_6.jpg" width="600" />
+</p>
+
+<ul>
+  <li><strong>Central Desert</strong>: homeland of the Bedouins, the Central desert is a harsh land with few trees and dry weather.  But the land is rich in minerals, and some oases with palm trees and fish can be found. The Bedouin’s capital is the have the stronger fortifications on the whole continent.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom/Screenshot_2.jpg" width="600" />
+</p>
+
+<ul>
+  <li><strong>South Savannah</strong>: homeland of the Werejackals, is a vast savannah with plenty of natural resources. Their capital is a farm city close to the sea. The wildlife is composed of savannah animals like Giraffes, Gazelles, and Lions, but also by fearsome Nemea Lions.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom/Screenshot_8.jpg" width="600" />
+</p>
+
+<ul>
+  <li><strong>Rock Valey</strong>: The most mysterious and secluded land of the continent. It is a misty land surrounded by the western sea and the fire mountains at the east. Dense fogs fill its pine-dark forest, and the wildlife is mostly composed of mysterious mythical creatures. Its wildlife includes giant scrabs, flying serpents,  walking trees, manticores, chimeras, and dragons.  This is the homeland of the Trolls. Each clan leader of each settlement wons a pet, a faithful beast from the wilds.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom/Screenshot_11.jpg" width="600" />
+</p>
+
+<ul>
+  <li><strong>Oak Forest</strong>: An oak forest surrounded in the west by the Rock Mountains. It is inhabited by the Cyclops, the stronger race of the continent. They have only one main city close to the sea and the Savannah. The wildlife is composed mainly by deer and boars.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom/Screenshot_13.jpg" width="600" />
+</p>
+
+<ul>
+  <li><strong>Palm Isthmus</strong>: A small portion of land in the south, inhabited by the Cretans. They are fewer in number but have the stronger navy army on the continent. In the forest, dryads can be found, and in the sea Krakens, Leviathans, Carcinos, and Wales can be seen.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom/Screenshot_12.jpg" width="600" />
+</p>
+
+<h2 id="random-maps">Random Maps</h2>
+
+<p>This mod includes some new random maps as well, not related to the campaign, but each one with a unique mechanic:</p>
+
+<ul>
+  <li><strong>Arabian Desert</strong>: A large desert with hidden treasures and bandit camps and scarce wood.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom/Screenshot_14.jpg" width="600" />
+</p>
+
+<ul>
+  <li><strong>Elysius Camps</strong>: A miraculous and brilliant land, with plenty of resources available, but you will have to fight for it.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom//Screenshot_20.jpg" width="600" />
+</p>
+
+<ul>
+  <li><strong>Guardians’ Valley</strong>: Each player starts with a Guardian in the Valley of the Kings.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom//Screenshot_21.jpg" width="600" />
+</p>
+
+<ul>
+  <li><strong>Guardians’ Megalopolis</strong>: Each player starts with a Guardian in a Savanna megalopolis.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom//Screenshot_15.jpg" width="600" />
+</p>
+
+<ul>
+  <li><strong>One Settlement</strong>: All players start with one settlement and some small villages. But there are no other settlements available.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom//Screenshot_16.jpg" width="600" />
+</p>
+
+<ul>
+  <li><strong>Ragnarock</strong>: A Battle Royale among the gods in a nordic apocalyptic World.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom//Screenshot_19.jpg" width="600" />
+</p>
+
+<ul>
+  <li><strong>Sahara Desert</strong>: All resources are hard to be found on this map, especially wood.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom//Screenshot_18.jpg" width="600" />
+</p>
+
+<ul>
+  <li><strong>Starting Army</strong>: Each player starts with a huge army.</li>
+</ul>
+<p align="center">
+	<img src="./assets/img/posts/aom//Screenshot_17.jpg" width="600" />
+</p>]]></content><author><name>Anderson Paschoalon</name></author><category term="Age of Mitology" /><category term="Game Development" /><category term="Mod" /><summary type="html"><![CDATA[This mod brings a new Campaign with RPG-like lore and a collection of new random maps for Age of Mythology.]]></summary></entry><entry><title type="html">MdConv</title><link href="http://localhost:4000/mdconv.html" rel="alternate" type="text/html" title="MdConv" /><published>2022-09-24T03:00:00-03:00</published><updated>2022-09-24T03:00:00-03:00</updated><id>http://localhost:4000/mdconv</id><content type="html" xml:base="http://localhost:4000/mdconv.html"><![CDATA[<p>Just a simple command line app to convert Markdown files into different formats.</p>
+<ul>
+  <li>HTML</li>
+  <li>DOCX</li>
+  <li>PDF</li>
+  <li>TXT</li>
+</ul>
+
+<p>If you type <code class="language-plaintext highlighter-rouge">mdconv.exe --help</code> you can read its usage manual:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    NAME
+        MdConv.exe - an app to convert md files into different formats.
+
+    USAGE
+        mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt;
+        mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; --output &lt;output-format&gt;
+        mdconv.exe --help
+        mdconv.exe --version
+        mdconv.exe --license
+
+    OPTIONS
+        -m &lt;md-file&gt;, --md=&lt;md-file&gt;
+            Path to the Markdonw file to be converted into the specified format.
+            Default format is HTML.
+        -t &lt;title&gt;, --title=&lt;html-title&gt;
+            Option required for HTML format. Represents the title of the page.
+        -o &lt;output-file-format&gt;, --output=&lt;output-file-format&gt;
+            Output file format. If it is not specified, or an invalid format is used, HTML is assumed.
+            Valid formats: html, docx, pdf, txt
+        -h, --help
+            Prints this help manual.
+        -l, --license:
+            Prints application license.
+        -v, --version:
+            Prints application version
+</code></pre></div></div>
+
+<h2 id="credits">Credits</h2>
+
+<ul>
+  <li>
+    <p>Application developed by Anderson Paschoalon</p>
+  </li>
+  <li>
+    <p>Python packages used can be found at <a href="requirements.txt">requirements.txt</a></p>
+  </li>
+  <li>
+    <p>App icon downloaded at https://icon-icons.com/pt/icone/markdown-aqui-logo/169967</p>
+  </li>
+</ul>]]></content><author><name>Anderson Paschoalon</name></author><category term="Markdown" /><category term="HTML" /><category term="Bootstrap" /><category term="Python" /><category term="Docx" /><category term="Pdf" /><category term="Txt" /><category term="Md" /><summary type="html"><![CDATA[A command line app to convert Markdown files into different formats, such as Html, Pdf, Txt, and Docx.]]></summary></entry><entry><title type="html">Quest Dialog Manager</title><link href="http://localhost:4000/quest-dialog-manager.html" rel="alternate" type="text/html" title="Quest Dialog Manager" /><published>2022-06-01T03:00:00-03:00</published><updated>2022-06-01T03:00:00-03:00</updated><id>http://localhost:4000/quest-dialog-manager</id><content type="html" xml:base="http://localhost:4000/quest-dialog-manager.html"><![CDATA[<h1 id="quest-dialog-manager">Quest Dialog Manager</h1>
 
 <p>CK QuestDialogManages is a tool to help manage your quest mod:</p>
 <ul>
@@ -9,22 +309,7 @@ to audios, manage file names,and check subtitles;</li>
   <li>Generate beautifull and comprehensive documentation;</li>
   <li>Reusable Comments and anotations for your documentation.
 Regenerate as many times you want with no loss.</li>
-</ul>]]></content><author><name>Anderson Paschoalon</name></author><category term="Skyrim" /><category term="Mod" /><category term="Desktop" /><category term="Python" /><summary type="html"><![CDATA[Computer Program Registration Certificate.]]></summary></entry><entry><title type="html">Md2Html</title><link href="http://localhost:4000/md2Html.html" rel="alternate" type="text/html" title="Md2Html" /><published>2022-05-27T03:00:00-03:00</published><updated>2022-05-27T03:00:00-03:00</updated><id>http://localhost:4000/md2Html</id><content type="html" xml:base="http://localhost:4000/md2Html.html"><![CDATA[<h1 id="md2html">Md2Html</h1>
-
-<p>Just a simple command line app to convert Markdown files to HTML.</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Usage:
-        md2html --md &lt;markdown-file&gt; --title &lt;html-title&gt;
-
-Options:
-        --md|-m &lt;markdown-file&gt;: path to markdown file
-        --title|-t &lt;html-title&gt;: title to the HTML page title
-</code></pre></div></div>
-
-<p>Example:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.\\Md2Html.exe --md SampleMarkdown.md --title "HTML page title"
-</code></pre></div></div>]]></content><author><name>Anderson Paschoalon</name></author><category term="Markdown" /><category term="HTML" /><category term="Bootstrap" /><category term="Python" /><summary type="html"><![CDATA[Md2Html]]></summary></entry><entry><title type="html">Swing Traffic Generator</title><link href="http://localhost:4000/swing.html" rel="alternate" type="text/html" title="Swing Traffic Generator" /><published>2022-05-27T03:00:00-03:00</published><updated>2022-05-27T03:00:00-03:00</updated><id>http://localhost:4000/swing</id><content type="html" xml:base="http://localhost:4000/swing.html"><![CDATA[<h1 id="swingxficgenerator-v032">Swingxficgenerator (v0.3.2)</h1>
+</ul>]]></content><author><name>Anderson Paschoalon</name></author><category term="Skyrim" /><category term="Mod" /><category term="Desktop" /><category term="Python" /><summary type="html"><![CDATA[Computer Program Registration Certificate.]]></summary></entry><entry><title type="html">Swing Traffic Generator</title><link href="http://localhost:4000/swing.html" rel="alternate" type="text/html" title="Swing Traffic Generator" /><published>2022-05-27T03:00:00-03:00</published><updated>2022-05-27T03:00:00-03:00</updated><id>http://localhost:4000/swing</id><content type="html" xml:base="http://localhost:4000/swing.html"><![CDATA[<h1 id="swingxficgenerator-v032">Swingxficgenerator (v0.3.2)</h1>
 
 <p>This is a re-upload for the Swing Traffic Generator. Its official homepage is located <a href="https://cseweb.ucsd.edu/~kvishwanath/Swing/"><strong>HERE</strong></a>.</p>
 
@@ -96,24 +381,8 @@ Options:
   <li>
     <p>Transform the installation folder into a git repository, and gitignore all the game files – do file versioning of only your mod files.</p>
   </li>
-</ul>]]></content><author><name>Anderson Paschoalon</name></author><category term="Skyrim" /><category term="Mod" /><category term="Desktop" /><category term="CSharp" /><summary type="html"><![CDATA[Mod organizer for Git Versioning]]></summary></entry><entry><title type="html">Mod Pack for Age of Mitology</title><link href="http://localhost:4000/mods-age-of-mitology.html" rel="alternate" type="text/html" title="Mod Pack for Age of Mitology" /><published>2021-08-27T03:00:00-03:00</published><updated>2021-08-27T03:00:00-03:00</updated><id>http://localhost:4000/mods-age-of-mitology</id><content type="html" xml:base="http://localhost:4000/mods-age-of-mitology.html"><![CDATA[<h1 id="mod-pack-for-age-of-mitology">Mod Pack for Age of Mitology</h1>
-
-<p>Some small mods I developed for Age Of Mitology. Right now I have seven random maps, and one Campaing with five scenarios (in development).</p>
-
-<h3 id="random-maps">Random Maps</h3>
-
-<ul>
-  <li><strong>Arabian Desert</strong>: A large desert with hidden treasures and bandit camps and scarse wood.</li>
-  <li><strong>Elysius Camps</strong>: A miraculous and brilliant land, with plenty of resources available, but you will have to fight for it.</li>
-  <li><strong>Guardians A</strong>: Each player starts with a Guardian in the Valley of the Kings.</li>
-  <li><strong>Guardians B</strong>: Each player starts with a Guardian in a Savanna megalopolis.</li>
-  <li><strong>One Settlement</strong>: All players start with one settlement and some small villages. But there are no other settlements available.</li>
-  <li><strong>Ragnarock</strong>: A Battle Royale among the gods in a nordic apocalyptic World.</li>
-  <li><strong>Sahara Desert</strong>: All resources are hard to be found in this map, especially wood.</li>
-</ul>]]></content><author><name>Anderson Paschoalon</name></author><category term="Age of Mitology" /><category term="Game Development" /><category term="Mod" /><summary type="html"><![CDATA[Pack of small mods for Age of Mitology]]></summary></entry><entry><title type="html">Tabletop RPG Soundtrack</title><link href="http://localhost:4000/tabletop.html" rel="alternate" type="text/html" title="Tabletop RPG Soundtrack" /><published>2021-08-01T03:00:00-03:00</published><updated>2021-08-01T03:00:00-03:00</updated><id>http://localhost:4000/tabletop</id><content type="html" xml:base="http://localhost:4000/tabletop.html"><![CDATA[<h1 id="tabletop-rpg-soundtrack">Tabletop RPG Soundtrack</h1>]]></content><author><name>Anderson Paschoalon</name></author><category term="RPG" /><category term="Tabletop" /><category term="Soundtrack" /><summary type="html"><![CDATA[Tabletop RPG Soundtrack]]></summary></entry><entry><title type="html">SIMITAR - SniffIng ModellIng and TrAffic geneRation</title><link href="http://localhost:4000/simitar.html" rel="alternate" type="text/html" title="SIMITAR - SniffIng ModellIng and TrAffic geneRation" /><published>2019-08-27T03:00:00-03:00</published><updated>2019-08-27T03:00:00-03:00</updated><id>http://localhost:4000/simitar</id><content type="html" xml:base="http://localhost:4000/simitar.html"><![CDATA[<h1 id="simitar-sniffing-modelling-and-traffic-generation"><a href="https://github.com/AndersonPaschoalon/Simitar">SIMITAR: SniffIng ModellIng and TrAffic geneRation</a></h1>
-
-<p align="center">
-	<img src="./assets/img/posts/simitar/simitar-large.jpg" width="200" title="This is a Scimitar, not a Simitar :P" />
+</ul>]]></content><author><name>Anderson Paschoalon</name></author><category term="Skyrim" /><category term="Mod" /><category term="Desktop" /><category term="CSharp" /><summary type="html"><![CDATA[Mod organizer for Git Versioning]]></summary></entry><entry><title type="html">Tabletop RPG Soundtrack</title><link href="http://localhost:4000/tabletop.html" rel="alternate" type="text/html" title="Tabletop RPG Soundtrack" /><published>2021-08-01T03:00:00-03:00</published><updated>2021-08-01T03:00:00-03:00</updated><id>http://localhost:4000/tabletop</id><content type="html" xml:base="http://localhost:4000/tabletop.html"><![CDATA[<h1 id="tabletop-rpg-soundtrack">Tabletop RPG Soundtrack</h1>]]></content><author><name>Anderson Paschoalon</name></author><category term="RPG" /><category term="Tabletop" /><category term="Soundtrack" /><summary type="html"><![CDATA[Tabletop RPG Soundtrack]]></summary></entry><entry><title type="html">SIMITAR - SniffIng ModellIng and TrAffic geneRation</title><link href="http://localhost:4000/simitar.html" rel="alternate" type="text/html" title="SIMITAR - SniffIng ModellIng and TrAffic geneRation" /><published>2019-08-27T03:00:00-03:00</published><updated>2019-08-27T03:00:00-03:00</updated><id>http://localhost:4000/simitar</id><content type="html" xml:base="http://localhost:4000/simitar.html"><![CDATA[<p align="center">
+	<img src="./assets/img/posts/simitar/simitar-large.jpg" width="300" title="This is a Scimitar, not a Simitar :P" />
 </p>
 
 <h2 id="1-introdution">1. Introdution</h2>
@@ -344,9 +613,7 @@ mininet&gt; xterm h8
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># xterm h1</span>
 <span class="nb">source </span>data/config/simitar-workspace-config.sh
  ./bin/simitar-gen <span class="nt">--tool</span> iperf <span class="nt">--mode</span> client <span class="nt">--ether</span> h1-eth0 <span class="nt">--xml</span> ./data/xml/skype.sec.xml  <span class="nt">--dst-list-ip</span> ./data/csv/ip-addrs-list1.csv
-</code></pre></div></div>]]></content><author><name>Anderson Paschoalon</name></author><category term="Simitar" /><category term="Traffic Generation" /><category term="Network Traffic Modelling" /><summary type="html"><![CDATA[SIMITAR - SniffIng ModellIng and TrAffic geneRation]]></summary></entry><entry><title type="html">SIMITAR - synthetic and realistic network traffic generation</title><link href="http://localhost:4000/simitar-thesis.html" rel="alternate" type="text/html" title="SIMITAR - synthetic and realistic network traffic generation" /><published>2019-03-19T16:32:20-03:00</published><updated>2019-03-19T16:32:20-03:00</updated><id>http://localhost:4000/simitar-thesis</id><content type="html" xml:base="http://localhost:4000/simitar-thesis.html"><![CDATA[<h1 id="simitar-synthetic-and-realistic-network-traffic-generation">SIMITAR: synthetic and realistic network traffic generation</h1>
-
-<p><strong>Abstract</strong>:</p>
+</code></pre></div></div>]]></content><author><name>Anderson Paschoalon</name></author><category term="Simitar" /><category term="Traffic Generation" /><category term="Network Traffic Modelling" /><summary type="html"><![CDATA[SIMITAR - SniffIng ModellIng and TrAffic geneRation]]></summary></entry><entry><title type="html">SIMITAR - synthetic and realistic network traffic generation</title><link href="http://localhost:4000/simitar-thesis.html" rel="alternate" type="text/html" title="SIMITAR - synthetic and realistic network traffic generation" /><published>2019-03-19T16:32:20-03:00</published><updated>2019-03-19T16:32:20-03:00</updated><id>http://localhost:4000/simitar-thesis</id><content type="html" xml:base="http://localhost:4000/simitar-thesis.html"><![CDATA[<p><strong>Abstract</strong>:</p>
 
 <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most of the open-source realistic traffic generator tools have the modeling layer coupled to the traffic generator, making a challenge update it to newer libraries and becoming them often outdated. Often most of the tools that support realistic traffic generation offer a broad set of options to be configured but are not auto-configurable. So the production of actual realistic traffic is a challenging project by itself. In this work, we are going to discuss in-depth this subject. As a final result for our research, we highlight two main contributions: a review on available solutions and network traffic modeling, and the propose of our traffic generator, called SIMITAR: SnIfing, ModellIng and TrAffic geneRation. This technology has a separated modeling framework from the traffic generator, being flow-oriented and auto-configurable. It creates and uses Compact Trace Descriptor files as inputs - XML files that describe traffic features for our traffic model. Currently, we may replicate with accuracy flow characteristics of all tested traffic, and the scaling features of some as well. We have given a particular focus on inter-packet times modeling, where we proposed a methodology based on information criteria for automating the process modeling and selection of the best model. We also proposed a cross-validation method to measure the methodology quality</p>
 
@@ -410,34 +677,4 @@ realístico. 2019. 1 recurso online (159 p.) Dissertação (mestrado) -
 Universidade Estadual de Campinas, Faculdade de Engenharia Elétrica e de 
 Computação, Campinas, SP. Disponível em: 
 https://hdl.handle.net/20.500.12733/1636558. Acesso em: 13 jul. 2022. 
-</code></pre></div></div>]]></content><author><name>Anderson Paschoalon</name></author><category term="Sniffing" /><category term="Modelling" /><category term="Traffic Generator" /><category term="Flow" /><category term="Libtins" /><category term="D-ITG" /><category term="Iperf" /><summary type="html"><![CDATA[todo.]]></summary></entry><entry><title type="html">Automated Selection of Inter-Packet Time Models Through Information Criteria</title><link href="http://localhost:4000/aic-bic.html" rel="alternate" type="text/html" title="Automated Selection of Inter-Packet Time Models Through Information Criteria" /><published>2019-03-15T03:00:00-03:00</published><updated>2019-03-15T03:00:00-03:00</updated><id>http://localhost:4000/aic-bic</id><content type="html" xml:base="http://localhost:4000/aic-bic.html"><![CDATA[<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1>
-
-<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p>
-
-<p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>
-
-<p><strong>Page(s)</strong>: 56 - 59</p>
-
-<p><strong>Date of Publication</strong>: 15 March 2019</p>
-
-<p><strong>Electronic ISSN</strong>: 2576-3156</p>
-
-<p><strong>INSPEC Accession Number</strong>: 18708377</p>
-
-<p><strong>DOI</strong>: 10.1109/LNET.2019.2905364</p>
-
-<p><strong>Publisher</strong>: IEEE</p>
-
-<p><strong>BibTeX</strong>:</p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@ARTICLE{
-	8667676,  
-	author={Paschoalon, Anderson dos Santos and Rothenberg, Christian Esteve},  
-	journal={IEEE Networking Letters},   
-	title={Automated Selection of Inter-Packet Time Models Through Information Criteria},   
-	year={2019},  
-	volume={1},  
-	number={2},  
-	pages={56-59},  
-	doi={10.1109/LNET.2019.2905364}
-}
-</code></pre></div></div>]]></content><author><name>Anderson Paschoalon</name></author><category term="Stochastic processes" /><category term="Cost function" /><category term="Measurement" /><category term="Computational modeling" /><category term="Fractals" /><category term="Correlation" /><category term="Data models" /><category term="BIC" /><category term="AIC" /><category term="stochastic function" /><category term="inter-packet times" /><category term="Hurst exponent" /><summary type="html"><![CDATA[IEEE Networking Letters, Volume 1 Issue 2.]]></summary></entry></feed>
+</code></pre></div></div>]]></content><author><name>Anderson Paschoalon</name></author><category term="Sniffing" /><category term="Modelling" /><category term="Traffic Generator" /><category term="Flow" /><category term="Libtins" /><category term="D-ITG" /><category term="Iperf" /><summary type="html"><![CDATA[todo.]]></summary></entry></feed>

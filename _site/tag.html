@@ -34,8 +34,8 @@
     "logo": {
         "@type": "ImageObject",
         "encodingFormat": "image/png",
-        "contentUrl": "http://localhost:4000/assets/img/branding/MVM-symbol-black.png",
-        "url": "http://localhost:4000/assets/img/branding/MVM-symbol-black.png"},
+        "contentUrl": "http://localhost:4000/assets/img/icon/SEO-icon.png",
+        "url": "http://localhost:4000/assets/img/icon/SEO-icon.png"},
     "name" : "Anderson Paschoalon"}
 }
 </script>
@@ -50,7 +50,7 @@
 <meta property="article:published_time" content="" />
 <meta property="article:modified_time" content="" />
 <meta property="article:tag" content="" />
-<meta property="fb:admins" content="ar.maybach" />
+<meta property="fb:admins" content="" />
 <!-- Schema.org markup for Google -->
 <meta itemprop="name" content="Tag">
 <meta itemprop="description" content="">
@@ -124,10 +124,10 @@
 
 
 
-<link rel="icon" href="./assets/img/favicon/favicon.ico" type="image/x-icon">
-<link rel="apple-touch-icon" href="./assets/img/favicon/favicon.ico">
-<link rel="apple-touch-icon" sizes="72x72" href="./assets/img/favicon/favicon.ico">
-<link rel="apple-touch-icon" sizes="114x114" href="./assets/img/favicon/favicon.ico">
+<link rel="icon" href="./assets/img/icon/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="./assets/img/icon/favicon.ico">
+<link rel="apple-touch-icon" sizes="72x72" href="./assets/img/icon/favicon.ico">
+<link rel="apple-touch-icon" sizes="114x114" href="./assets/img/icon/favicon.ico">
 	
   <!-- ICONS https://fontawesome.com/icons 
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
@@ -292,14 +292,15 @@
         <div class="card-body">
           <h3 class="card-title">Anderson Paschoalon</h3>
           <hr>
-          <p class="card-text"> C/C++/C# desktop and embedded-system developer, master and self-made researcher, machine learning enthusiast, and game modder.</p>
+          <p class="card-text"> C/C++/C# desktop and embedded-systems developer, master and self-made researcher, machine learning enthusiast, and game modder.</p>
         </div>
       </div>
 
       <!--
-      
-      
-      <div class="logo"><a href="./"><img class="logo" id="logo" src="./assets/img/branding/MVM-logo-full.svg" alt="Anderson Paschoalon"></a></div>
+      tags removed. Replace # by { to rowback
+      #% capture logo_url %}./#% endcapture %}
+      #% assign logo_url = logo_url | replace: "//", "/" %}
+      <div class="logo"><a href="./"><img class="logo" id="logo" src="" alt="Anderson Paschoalon"></a></div>
       -->
       <div class="search-icon-container">
         <span class="search-icon"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
@@ -349,11 +350,10 @@
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="cpqd3036---ethermonitor---v10">CPQD3036 - ETHERMONITOR - V.1.0</h1>
-
-<p>This is the register of computer program provided by INPI (<em>Instituto Nacional da Propriedade Industrial</em> – National Institute of Industrial Property) <a href="/projects/proj-ethermonitor.html">Ethermonitor</a>, wich I developed at CPQD when I was an intern.</p>
+						<p>This is the register of computer program provided by INPI (<em>Instituto Nacional da Propriedade Industrial</em> – National Institute of Industrial Property) <a href="/proj-ethermonitor.html">Ethermonitor</a>, wich I developed at CPQD when I was an intern.</p>
 
 <p><br /></p>
+
 <a class="read-more" href="./pub-ethermonitor.html"> read more</a>
 					</div>
 				</div>
@@ -385,7 +385,7 @@
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="cpqd3036-ethermonitor">CPQD3036 EtherMonitor</h1> <p> <b>EtherMonitor</b> is an application developed in C and implemented for an LTE radio base station, called eNodeB developed in the <a target="_blank" href="https://www.cpqd.com.br/releases/cpqd-apresenta-tecnologia-lte4g-na-faixa-de-700-mhz/">CPQD Foundation's LTE/4G project</a>. </p> <p> <b>eNodeB</b> is the radio base station responsible for data transmission using LTE technology, used by internet providers to offer 4G services. Physically, the <b>eNodeB</b> has several ethernet network cables responsible for connecting it to the cloud. </p> <p align="center"> <img src="./assets/img/posts/ether/etherMonitor.png" title="Ethermonitor operation diagram." /> </p> <p> In the implementation developed by CPQD, at any given time, only one of them will be operational, and the other backup...<a class="read-more" href="./proj-ethermonitor.html"> read more</a>
+						<p> <b>EtherMonitor</b> is an application developed in C and implemented for an LTE radio base station, called eNodeB developed in the <a target="_blank" href="https://www.cpqd.com.br/releases/cpqd-apresenta-tecnologia-lte4g-na-faixa-de-700-mhz/">CPQD Foundation's LTE/4G project</a>. </p> <p> <b>eNodeB</b> is the radio base station responsible for data transmission using LTE technology, used by internet providers to offer 4G services. Physically, the <b>eNodeB</b> has several ethernet network cables responsible for connecting it to the cloud. </p> <p align="center"> <img src="./assets/img/posts/ether/etherMonitor.png" title="Ethermonitor operation diagram." /> </p> <p> In the implementation developed by CPQD, at any given time, only one of them will be operational, and the other backup cables. If any...<a class="read-more" href="./proj-ethermonitor.html"> read more</a>
 					</div>
 				</div>
 			
@@ -426,7 +426,7 @@
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>:...<a class="read-more" href="./aic-bic.html"> read more</a>
+						<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>...<a class="read-more" href="./aic-bic.html"> read more</a>
 					</div>
 				</div>
 			
@@ -457,7 +457,7 @@
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="using-bic-and-aic-for-ethernet-traffic-model-selection-is-it-worth">Using BIC and AIC for Ethernet traffic model selection. Is it worth?</h1> <p><strong>Abstract</strong>: In this work, we aim to evaluate how good are the information criteria AIC and BIC inferring which is the best stochastic process to describe Ethernet inter-packet times. Also, we check if there is a practical difference between using AIC or BIC. We use a set of stochastic distributions to represent inter-packet of a traffic trace and calculate AIC and BIC. To test the quality of BIC and AIC guesses, we define a cost function based on the comparison of significant stochastic properties for internet traffic...<a class="read-more" href="./aic-bic-first.html"> read more</a>
+						<p><strong>Abstract</strong>: In this work, we aim to evaluate how good are the information criteria AIC and BIC inferring which is the best stochastic process to describe Ethernet inter-packet times. Also, we check if there is a practical difference between using AIC or BIC. We use a set of stochastic distributions to represent inter-packet of a traffic trace and calculate AIC and BIC. To test the quality of BIC and AIC guesses, we define a cost function based on the comparison of significant stochastic properties for internet traffic modeling, such as correlation, fractal-level and mean. Then, we compare both results. In...<a class="read-more" href="./aic-bic-first.html"> read more</a>
 					</div>
 				</div>
 			
@@ -488,7 +488,7 @@
     
     <span class="page_meta-readtime">
       
-        1 minute read
+        less than 1 minute read
       
     </span>
   
@@ -496,7 +496,7 @@
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: New emerging technologies have a larger unpredictability, compared to legacy equipment. They require a larger set of meaningful tests on many different scenarios. But, in the open source world is hard to find a single tool able to provide realism, speed, easy usage and flexibility at the same time. Most of the tools are monolithic and devoted to specific purposes. This work presents a flexible and extensible framework which aims to decouple synthetic traffic modelling from its traffic generator engine. Through a new abstraction layer, it would become possible...<a class="read-more" href="./traff-gen.html"> read more</a>
+						<p><strong>Abstract</strong>: New emerging technologies have a larger unpredictability, compared to legacy equipment. They require a larger set of meaningful tests on many different scenarios. But, in the open source world is hard to find a single tool able to provide realism, speed, easy usage and flexibility at the same time. Most of the tools are monolithic and devoted to specific purposes. This work presents a flexible and extensible framework which aims to decouple synthetic traffic modelling from its traffic generator engine. Through a new abstraction layer, it would become possible to use modern and throughput optimized tools to create realistic...<a class="read-more" href="./traff-gen.html"> read more</a>
 					</div>
 				</div>
 			
@@ -554,7 +554,7 @@
 			
 
 				<div class="post">
-					<a class="post-list-title" href="./mods-age-of-mitology.html">Mod Pack for Age of Mitology</a>
+					<a class="post-list-title" href="./mods-age-of-mitology.html">The Lost Continent of Adria -- Age of Mithology Mod</a>
 					
 
   <span class = "post-card-meta">
@@ -566,7 +566,7 @@
     
       
       <span class="page_meta-date">
-        <time datetime="2021-08-27T03:00:00-03:00">August 27, 2021</time>
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
       </span>
     
     
@@ -578,7 +578,7 @@
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="mod-pack-for-age-of-mitology">Mod Pack for Age of Mitology</h1> <p>Some small mods I developed for Age Of Mitology. Right now I have seven random maps, and one Campaing with five scenarios (in development).</p> <h3 id="random-maps">Random Maps</h3> <ul> <li><strong>Arabian Desert</strong>: A large desert with hidden treasures and bandit camps and scarse wood.</li> <li><strong>Elysius Camps</strong>: A miraculous and brilliant land, with plenty of resources available, but you will have to fight for it.</li> <li><strong>Guardians A</strong>: Each player starts with a Guardian in the Valley of the Kings.</li> <li><strong>Guardians B</strong>: Each player starts with a Guardian in a Savanna megalopolis.</li> <li><strong>One Settlement</strong>: All players start...<a class="read-more" href="./mods-age-of-mitology.html"> read more</a>
+						<p><em>In the mythical continent of Adria, a fantastic and magical land there is a permanent conflict between all the human and beast races that inhabit that land.</em></p> <p><em>You will have the mission to lead the Nords, a human race that lives in the snowy mountains and pine forests of the north through a journey to conquer the world.</em></p> <p><em>You will travel through deserts, forests, mountains, volcanos, and forests, full of secrets, animals, and mythical creatures.</em></p> <p align="center"> <img src="./assets/img/posts/aom//Screenshot_1.jpg" width="600" /> </p> <h1 id="about-this-mod">About this Mod</h1> <h2 id="main-campaign">Main Campaign</h2> <p align="center"> <img src="./assets/img/posts/aom/Adria.jpg" width="600" /> </p> <p>This mod brings a...<a class="read-more" href="./mods-age-of-mitology.html"> read more</a>
 					</div>
 				</div>
 			
@@ -619,7 +619,7 @@
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>:...<a class="read-more" href="./aic-bic.html"> read more</a>
+						<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>...<a class="read-more" href="./aic-bic.html"> read more</a>
 					</div>
 				</div>
 			
@@ -650,7 +650,7 @@
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="using-bic-and-aic-for-ethernet-traffic-model-selection-is-it-worth">Using BIC and AIC for Ethernet traffic model selection. Is it worth?</h1> <p><strong>Abstract</strong>: In this work, we aim to evaluate how good are the information criteria AIC and BIC inferring which is the best stochastic process to describe Ethernet inter-packet times. Also, we check if there is a practical difference between using AIC or BIC. We use a set of stochastic distributions to represent inter-packet of a traffic trace and calculate AIC and BIC. To test the quality of BIC and AIC guesses, we define a cost function based on the comparison of significant stochastic properties for internet traffic...<a class="read-more" href="./aic-bic-first.html"> read more</a>
+						<p><strong>Abstract</strong>: In this work, we aim to evaluate how good are the information criteria AIC and BIC inferring which is the best stochastic process to describe Ethernet inter-packet times. Also, we check if there is a practical difference between using AIC or BIC. We use a set of stochastic distributions to represent inter-packet of a traffic trace and calculate AIC and BIC. To test the quality of BIC and AIC guesses, we define a cost function based on the comparison of significant stochastic properties for internet traffic modeling, such as correlation, fractal-level and mean. Then, we compare both results. In...<a class="read-more" href="./aic-bic-first.html"> read more</a>
 					</div>
 				</div>
 			
@@ -681,7 +681,7 @@
     
     <span class="page_meta-readtime">
       
-        1 minute read
+        less than 1 minute read
       
     </span>
   
@@ -689,7 +689,7 @@
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: New emerging technologies have a larger unpredictability, compared to legacy equipment. They require a larger set of meaningful tests on many different scenarios. But, in the open source world is hard to find a single tool able to provide realism, speed, easy usage and flexibility at the same time. Most of the tools are monolithic and devoted to specific purposes. This work presents a flexible and extensible framework which aims to decouple synthetic traffic modelling from its traffic generator engine. Through a new abstraction layer, it would become possible...<a class="read-more" href="./traff-gen.html"> read more</a>
+						<p><strong>Abstract</strong>: New emerging technologies have a larger unpredictability, compared to legacy equipment. They require a larger set of meaningful tests on many different scenarios. But, in the open source world is hard to find a single tool able to provide realism, speed, easy usage and flexibility at the same time. Most of the tools are monolithic and devoted to specific purposes. This work presents a flexible and extensible framework which aims to decouple synthetic traffic modelling from its traffic generator engine. Through a new abstraction layer, it would become possible to use modern and throughput optimized tools to create realistic...<a class="read-more" href="./traff-gen.html"> read more</a>
 					</div>
 				</div>
 			
@@ -747,7 +747,7 @@
 			
 
 				<div class="post">
-					<a class="post-list-title" href="./md2Html.html">Md2Html</a>
+					<a class="post-list-title" href="./nexus-packager-app.html">NexusPackager App</a>
 					
 
   <span class = "post-card-meta">
@@ -759,7 +759,7 @@
     
       
       <span class="page_meta-date">
-        <time datetime="2022-05-27T03:00:00-03:00">May 27, 2022</time>
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
       </span>
     
     
@@ -771,23 +771,52 @@
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="md2html">Md2Html</h1>
+						<h1 id="nexus-build-app">Nexus Build App</h1>
 
-<p>Just a simple command line app to convert Markdown files to HTML.</p>
+<p>Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Usage:
-        md2html --md &lt;markdown-file&gt; --title &lt;html-title&gt;
+<p>I create this app because I wanted a flexible and simple tool to package both my Skyrim and Age of Mythology mods.</p>
 
-Options:
-        --md|-m &lt;markdown-file&gt;: path to markdown file
-        --title|-t &lt;html-title&gt;: title to the HTML page title
-</code></pre></div></div>
+<p>This application:</p>
 
-<p>Example:</p>
+<ul>
+  <li>Package files defined by rules into a ZIP, and preserve its original directory structure;</li>
+  <li>Scriptable rules, write once, so you will never forget any files;</li>
+  <li>Creates an uninstall script.</li>
+</ul>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.\\Md2Html.exe --md SampleMarkdown.md --title "HTML page title"
-</code></pre></div></div>
-<a class="read-more" href="./md2Html.html"> read more</a>
+<a class="read-more" href="./nexus-packager-app.html"> read more</a>
+					</div>
+				</div>
+			
+			
+
+				<div class="post">
+					<a class="post-list-title" href="./mdconv.html">MdConv</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<p>Just a simple command line app to convert Markdown files into different formats.</p> <ul> <li>HTML</li> <li>DOCX</li> <li>PDF</li> <li>TXT</li> </ul> <p>If you type <code class="language-plaintext highlighter-rouge">mdconv.exe --help</code> you can read its usage manual:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> NAME MdConv.exe - an app to convert md files into different formats. USAGE mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; --output &lt;output-format&gt; mdconv.exe --help mdconv.exe --version mdconv.exe --license OPTIONS -m &lt;md-file&gt;, --md=&lt;md-file&gt; Path to the Markdonw file to be converted into the specified format. Default format is HTML. -t &lt;title&gt;, --title=&lt;html-title&gt; Option required for HTML format. Represents the title of...<a class="read-more" href="./mdconv.html"> read more</a>
 					</div>
 				</div>
 			
@@ -828,9 +857,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="mininetwifi-contribuition">MininetWifi Contribuition</h1>
-
-<p>This is a contrubution I made in 2016 for the testing and validation related with a <a href="https://github.com/ramonfontes/reproducible-research/tree/master/mininet-wifi">MininetWifi</a> publication.</p>
+						<p>This is a contrubution I made in 2016 for the testing and validation related with a <a href="https://github.com/ramonfontes/reproducible-research/tree/master/mininet-wifi">MininetWifi</a> publication.</p>
 
 <p>It is a simulation of File tranference implemented using the <a href="https://www.nsnam.org">NS-3</a> Framework. The source code can be found <a href="https://github.com/ramonfontes/reproducible-research/blob/20510254176710d5632a5c66b731bb0bd39dccc2/mininet-wifi/The-Computer-Journal-2017/fileTransferring.cc">here</a>.</p>
 
@@ -968,11 +995,10 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="cpqd3036---ethermonitor---v10">CPQD3036 - ETHERMONITOR - V.1.0</h1>
-
-<p>This is the register of computer program provided by INPI (<em>Instituto Nacional da Propriedade Industrial</em> – National Institute of Industrial Property) <a href="/projects/proj-ethermonitor.html">Ethermonitor</a>, wich I developed at CPQD when I was an intern.</p>
+						<p>This is the register of computer program provided by INPI (<em>Instituto Nacional da Propriedade Industrial</em> – National Institute of Industrial Property) <a href="/proj-ethermonitor.html">Ethermonitor</a>, wich I developed at CPQD when I was an intern.</p>
 
 <p><br /></p>
+
 <a class="read-more" href="./pub-ethermonitor.html"> read more</a>
 					</div>
 				</div>
@@ -1004,7 +1030,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="cpqd3036-ethermonitor">CPQD3036 EtherMonitor</h1> <p> <b>EtherMonitor</b> is an application developed in C and implemented for an LTE radio base station, called eNodeB developed in the <a target="_blank" href="https://www.cpqd.com.br/releases/cpqd-apresenta-tecnologia-lte4g-na-faixa-de-700-mhz/">CPQD Foundation's LTE/4G project</a>. </p> <p> <b>eNodeB</b> is the radio base station responsible for data transmission using LTE technology, used by internet providers to offer 4G services. Physically, the <b>eNodeB</b> has several ethernet network cables responsible for connecting it to the cloud. </p> <p align="center"> <img src="./assets/img/posts/ether/etherMonitor.png" title="Ethermonitor operation diagram." /> </p> <p> In the implementation developed by CPQD, at any given time, only one of them will be operational, and the other backup...<a class="read-more" href="./proj-ethermonitor.html"> read more</a>
+						<p> <b>EtherMonitor</b> is an application developed in C and implemented for an LTE radio base station, called eNodeB developed in the <a target="_blank" href="https://www.cpqd.com.br/releases/cpqd-apresenta-tecnologia-lte4g-na-faixa-de-700-mhz/">CPQD Foundation's LTE/4G project</a>. </p> <p> <b>eNodeB</b> is the radio base station responsible for data transmission using LTE technology, used by internet providers to offer 4G services. Physically, the <b>eNodeB</b> has several ethernet network cables responsible for connecting it to the cloud. </p> <p align="center"> <img src="./assets/img/posts/ether/etherMonitor.png" title="Ethermonitor operation diagram." /> </p> <p> In the implementation developed by CPQD, at any given time, only one of them will be operational, and the other backup cables. If any...<a class="read-more" href="./proj-ethermonitor.html"> read more</a>
 					</div>
 				</div>
 			
@@ -1140,7 +1166,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>:...<a class="read-more" href="./aic-bic.html"> read more</a>
+						<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>...<a class="read-more" href="./aic-bic.html"> read more</a>
 					</div>
 				</div>
 			
@@ -1181,9 +1207,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="mininetwifi-contribuition">MininetWifi Contribuition</h1>
-
-<p>This is a contrubution I made in 2016 for the testing and validation related with a <a href="https://github.com/ramonfontes/reproducible-research/tree/master/mininet-wifi">MininetWifi</a> publication.</p>
+						<p>This is a contrubution I made in 2016 for the testing and validation related with a <a href="https://github.com/ramonfontes/reproducible-research/tree/master/mininet-wifi">MininetWifi</a> publication.</p>
 
 <p>It is a simulation of File tranference implemented using the <a href="https://www.nsnam.org">NS-3</a> Framework. The source code can be found <a href="https://github.com/ramonfontes/reproducible-research/blob/20510254176710d5632a5c66b731bb0bd39dccc2/mininet-wifi/The-Computer-Journal-2017/fileTransferring.cc">here</a>.</p>
 
@@ -1239,7 +1263,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>:...<a class="read-more" href="./aic-bic.html"> read more</a>
+						<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>...<a class="read-more" href="./aic-bic.html"> read more</a>
 					</div>
 				</div>
 			
@@ -1280,7 +1304,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>:...<a class="read-more" href="./aic-bic.html"> read more</a>
+						<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>...<a class="read-more" href="./aic-bic.html"> read more</a>
 					</div>
 				</div>
 			
@@ -1297,7 +1321,7 @@ Options:
 			
 
 				<div class="post">
-					<a class="post-list-title" href="./dsilhand.html">Dawn of the Silver Hands</a>
+					<a class="post-list-title" href="./dsilhand.html">Dawn of the Silver Hands -- Join the Silver Hands!</a>
 					
 
   <span class = "post-card-meta">
@@ -1309,7 +1333,7 @@ Options:
     
       
       <span class="page_meta-date">
-        <time datetime="2022-07-01T03:00:00-03:00">July 1, 2022</time>
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
       </span>
     
     
@@ -1321,8 +1345,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="dsilhand">DSilHand</h1>
-<a class="read-more" href="./dsilhand.html"> read more</a>
+						<p align="center"> <img src="./assets/img/posts/dsilhand/DSilhandLogo.jpg" width="600" /> </p> <p><em>For centuries the Daedric Wolves lived among the sons of Skyrim in secret.</em></p> <p><em>But no one wanted to believe.</em> <em>Or had the strength to fight.</em></p> <p><em>Now it is up to YOU to choose which side will prevail.</em></p> <p><em>The Beast Blood… Or the Silver Hands!</em></p> <h2 id="overview">Overview</h2> <p>This mod allow you to join the Silver Hand faction!</p> <p>It is up to you to decide! You can still follow the vanilla path joining The Companions, but this mod allow you to see an alternate timeline where the Dragonborn joins the Silver Hand instead!</p> <p>I am...<a class="read-more" href="./dsilhand.html"> read more</a>
 					</div>
 				</div>
 			
@@ -1404,7 +1427,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="simitar-synthetic-and-realistic-network-traffic-generation">SIMITAR: synthetic and realistic network traffic generation</h1> <p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most...<a class="read-more" href="./simitar-thesis.html"> read more</a>
+						<p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most of the open-source realistic traffic generator tools have...<a class="read-more" href="./simitar-thesis.html"> read more</a>
 					</div>
 				</div>
 			
@@ -1445,7 +1468,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>:...<a class="read-more" href="./aic-bic.html"> read more</a>
+						<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>...<a class="read-more" href="./aic-bic.html"> read more</a>
 					</div>
 				</div>
 			
@@ -1551,6 +1574,92 @@ Regenerate as many times you want with no loss.</li>
 	</div>
 
 	
+	<div id="Docx" class="hidden tag-master">
+		<h1>Docx</h1>
+		<div class="archive">
+			<div class="post-list">
+		    
+			
+
+				<div class="post">
+					<a class="post-list-title" href="./nexus-packager-app.html">NexusPackager App</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<h1 id="nexus-build-app">Nexus Build App</h1>
+
+<p>Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.</p>
+
+<p>I create this app because I wanted a flexible and simple tool to package both my Skyrim and Age of Mythology mods.</p>
+
+<p>This application:</p>
+
+<ul>
+  <li>Package files defined by rules into a ZIP, and preserve its original directory structure;</li>
+  <li>Scriptable rules, write once, so you will never forget any files;</li>
+  <li>Creates an uninstall script.</li>
+</ul>
+
+<a class="read-more" href="./nexus-packager-app.html"> read more</a>
+					</div>
+				</div>
+			
+			
+
+				<div class="post">
+					<a class="post-list-title" href="./mdconv.html">MdConv</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<p>Just a simple command line app to convert Markdown files into different formats.</p> <ul> <li>HTML</li> <li>DOCX</li> <li>PDF</li> <li>TXT</li> </ul> <p>If you type <code class="language-plaintext highlighter-rouge">mdconv.exe --help</code> you can read its usage manual:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> NAME MdConv.exe - an app to convert md files into different formats. USAGE mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; --output &lt;output-format&gt; mdconv.exe --help mdconv.exe --version mdconv.exe --license OPTIONS -m &lt;md-file&gt;, --md=&lt;md-file&gt; Path to the Markdonw file to be converted into the specified format. Default format is HTML. -t &lt;title&gt;, --title=&lt;html-title&gt; Option required for HTML format. Represents the title of...<a class="read-more" href="./mdconv.html"> read more</a>
+					</div>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+
+	
 	<div id="Embedded Linux" class="hidden tag-master">
 		<h1>Embedded Linux</h1>
 		<div class="archive">
@@ -1583,11 +1692,10 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="cpqd3036---ethermonitor---v10">CPQD3036 - ETHERMONITOR - V.1.0</h1>
-
-<p>This is the register of computer program provided by INPI (<em>Instituto Nacional da Propriedade Industrial</em> – National Institute of Industrial Property) <a href="/projects/proj-ethermonitor.html">Ethermonitor</a>, wich I developed at CPQD when I was an intern.</p>
+						<p>This is the register of computer program provided by INPI (<em>Instituto Nacional da Propriedade Industrial</em> – National Institute of Industrial Property) <a href="/proj-ethermonitor.html">Ethermonitor</a>, wich I developed at CPQD when I was an intern.</p>
 
 <p><br /></p>
+
 <a class="read-more" href="./pub-ethermonitor.html"> read more</a>
 					</div>
 				</div>
@@ -1619,7 +1727,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="cpqd3036-ethermonitor">CPQD3036 EtherMonitor</h1> <p> <b>EtherMonitor</b> is an application developed in C and implemented for an LTE radio base station, called eNodeB developed in the <a target="_blank" href="https://www.cpqd.com.br/releases/cpqd-apresenta-tecnologia-lte4g-na-faixa-de-700-mhz/">CPQD Foundation's LTE/4G project</a>. </p> <p> <b>eNodeB</b> is the radio base station responsible for data transmission using LTE technology, used by internet providers to offer 4G services. Physically, the <b>eNodeB</b> has several ethernet network cables responsible for connecting it to the cloud. </p> <p align="center"> <img src="./assets/img/posts/ether/etherMonitor.png" title="Ethermonitor operation diagram." /> </p> <p> In the implementation developed by CPQD, at any given time, only one of them will be operational, and the other backup...<a class="read-more" href="./proj-ethermonitor.html"> read more</a>
+						<p> <b>EtherMonitor</b> is an application developed in C and implemented for an LTE radio base station, called eNodeB developed in the <a target="_blank" href="https://www.cpqd.com.br/releases/cpqd-apresenta-tecnologia-lte4g-na-faixa-de-700-mhz/">CPQD Foundation's LTE/4G project</a>. </p> <p> <b>eNodeB</b> is the radio base station responsible for data transmission using LTE technology, used by internet providers to offer 4G services. Physically, the <b>eNodeB</b> has several ethernet network cables responsible for connecting it to the cloud. </p> <p align="center"> <img src="./assets/img/posts/ether/etherMonitor.png" title="Ethermonitor operation diagram." /> </p> <p> In the implementation developed by CPQD, at any given time, only one of them will be operational, and the other backup cables. If any...<a class="read-more" href="./proj-ethermonitor.html"> read more</a>
 					</div>
 				</div>
 			
@@ -1660,7 +1768,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="simitar-synthetic-and-realistic-network-traffic-generation">SIMITAR: synthetic and realistic network traffic generation</h1> <p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most...<a class="read-more" href="./simitar-thesis.html"> read more</a>
+						<p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most of the open-source realistic traffic generator tools have...<a class="read-more" href="./simitar-thesis.html"> read more</a>
 					</div>
 				</div>
 			
@@ -1701,7 +1809,7 @@ Regenerate as many times you want with no loss.</li>
     
     <span class="page_meta-readtime">
       
-        1 minute read
+        less than 1 minute read
       
     </span>
   
@@ -1709,7 +1817,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: New emerging technologies have a larger unpredictability, compared to legacy equipment. They require a larger set of meaningful tests on many different scenarios. But, in the open source world is hard to find a single tool able to provide realism, speed, easy usage and flexibility at the same time. Most of the tools are monolithic and devoted to specific purposes. This work presents a flexible and extensible framework which aims to decouple synthetic traffic modelling from its traffic generator engine. Through a new abstraction layer, it would become possible...<a class="read-more" href="./traff-gen.html"> read more</a>
+						<p><strong>Abstract</strong>: New emerging technologies have a larger unpredictability, compared to legacy equipment. They require a larger set of meaningful tests on many different scenarios. But, in the open source world is hard to find a single tool able to provide realism, speed, easy usage and flexibility at the same time. Most of the tools are monolithic and devoted to specific purposes. This work presents a flexible and extensible framework which aims to decouple synthetic traffic modelling from its traffic generator engine. Through a new abstraction layer, it would become possible to use modern and throughput optimized tools to create realistic...<a class="read-more" href="./traff-gen.html"> read more</a>
 					</div>
 				</div>
 			
@@ -1750,7 +1858,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>:...<a class="read-more" href="./aic-bic.html"> read more</a>
+						<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>...<a class="read-more" href="./aic-bic.html"> read more</a>
 					</div>
 				</div>
 			
@@ -1767,7 +1875,7 @@ Regenerate as many times you want with no loss.</li>
 			
 
 				<div class="post">
-					<a class="post-list-title" href="./dsilhand.html">Dawn of the Silver Hands</a>
+					<a class="post-list-title" href="./mods-age-of-mitology.html">The Lost Continent of Adria -- Age of Mithology Mod</a>
 					
 
   <span class = "post-card-meta">
@@ -1779,7 +1887,7 @@ Regenerate as many times you want with no loss.</li>
     
       
       <span class="page_meta-date">
-        <time datetime="2022-07-01T03:00:00-03:00">July 1, 2022</time>
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
       </span>
     
     
@@ -1791,15 +1899,14 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="dsilhand">DSilHand</h1>
-<a class="read-more" href="./dsilhand.html"> read more</a>
+						<p><em>In the mythical continent of Adria, a fantastic and magical land there is a permanent conflict between all the human and beast races that inhabit that land.</em></p> <p><em>You will have the mission to lead the Nords, a human race that lives in the snowy mountains and pine forests of the north through a journey to conquer the world.</em></p> <p><em>You will travel through deserts, forests, mountains, volcanos, and forests, full of secrets, animals, and mythical creatures.</em></p> <p align="center"> <img src="./assets/img/posts/aom//Screenshot_1.jpg" width="600" /> </p> <h1 id="about-this-mod">About this Mod</h1> <h2 id="main-campaign">Main Campaign</h2> <p align="center"> <img src="./assets/img/posts/aom/Adria.jpg" width="600" /> </p> <p>This mod brings a...<a class="read-more" href="./mods-age-of-mitology.html"> read more</a>
 					</div>
 				</div>
 			
 			
 
 				<div class="post">
-					<a class="post-list-title" href="./mods-age-of-mitology.html">Mod Pack for Age of Mitology</a>
+					<a class="post-list-title" href="./dsilhand.html">Dawn of the Silver Hands -- Join the Silver Hands!</a>
 					
 
   <span class = "post-card-meta">
@@ -1811,7 +1918,7 @@ Regenerate as many times you want with no loss.</li>
     
       
       <span class="page_meta-date">
-        <time datetime="2021-08-27T03:00:00-03:00">August 27, 2021</time>
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
       </span>
     
     
@@ -1823,7 +1930,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="mod-pack-for-age-of-mitology">Mod Pack for Age of Mitology</h1> <p>Some small mods I developed for Age Of Mitology. Right now I have seven random maps, and one Campaing with five scenarios (in development).</p> <h3 id="random-maps">Random Maps</h3> <ul> <li><strong>Arabian Desert</strong>: A large desert with hidden treasures and bandit camps and scarse wood.</li> <li><strong>Elysius Camps</strong>: A miraculous and brilliant land, with plenty of resources available, but you will have to fight for it.</li> <li><strong>Guardians A</strong>: Each player starts with a Guardian in the Valley of the Kings.</li> <li><strong>Guardians B</strong>: Each player starts with a Guardian in a Savanna megalopolis.</li> <li><strong>One Settlement</strong>: All players start...<a class="read-more" href="./mods-age-of-mitology.html"> read more</a>
+						<p align="center"> <img src="./assets/img/posts/dsilhand/DSilhandLogo.jpg" width="600" /> </p> <p><em>For centuries the Daedric Wolves lived among the sons of Skyrim in secret.</em></p> <p><em>But no one wanted to believe.</em> <em>Or had the strength to fight.</em></p> <p><em>Now it is up to YOU to choose which side will prevail.</em></p> <p><em>The Beast Blood… Or the Silver Hands!</em></p> <h2 id="overview">Overview</h2> <p>This mod allow you to join the Silver Hand faction!</p> <p>It is up to you to decide! You can still follow the vanilla path joining The Companions, but this mod allow you to see an alternate timeline where the Dragonborn joins the Silver Hand instead!</p> <p>I am...<a class="read-more" href="./dsilhand.html"> read more</a>
 					</div>
 				</div>
 			
@@ -1840,7 +1947,7 @@ Regenerate as many times you want with no loss.</li>
 			
 
 				<div class="post">
-					<a class="post-list-title" href="./md2Html.html">Md2Html</a>
+					<a class="post-list-title" href="./nexus-packager-app.html">NexusPackager App</a>
 					
 
   <span class = "post-card-meta">
@@ -1852,7 +1959,7 @@ Regenerate as many times you want with no loss.</li>
     
       
       <span class="page_meta-date">
-        <time datetime="2022-05-27T03:00:00-03:00">May 27, 2022</time>
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
       </span>
     
     
@@ -1864,23 +1971,52 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="md2html">Md2Html</h1>
+						<h1 id="nexus-build-app">Nexus Build App</h1>
 
-<p>Just a simple command line app to convert Markdown files to HTML.</p>
+<p>Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Usage:
-        md2html --md &lt;markdown-file&gt; --title &lt;html-title&gt;
+<p>I create this app because I wanted a flexible and simple tool to package both my Skyrim and Age of Mythology mods.</p>
 
-Options:
-        --md|-m &lt;markdown-file&gt;: path to markdown file
-        --title|-t &lt;html-title&gt;: title to the HTML page title
-</code></pre></div></div>
+<p>This application:</p>
 
-<p>Example:</p>
+<ul>
+  <li>Package files defined by rules into a ZIP, and preserve its original directory structure;</li>
+  <li>Scriptable rules, write once, so you will never forget any files;</li>
+  <li>Creates an uninstall script.</li>
+</ul>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.\\Md2Html.exe --md SampleMarkdown.md --title "HTML page title"
-</code></pre></div></div>
-<a class="read-more" href="./md2Html.html"> read more</a>
+<a class="read-more" href="./nexus-packager-app.html"> read more</a>
+					</div>
+				</div>
+			
+			
+
+				<div class="post">
+					<a class="post-list-title" href="./mdconv.html">MdConv</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<p>Just a simple command line app to convert Markdown files into different formats.</p> <ul> <li>HTML</li> <li>DOCX</li> <li>PDF</li> <li>TXT</li> </ul> <p>If you type <code class="language-plaintext highlighter-rouge">mdconv.exe --help</code> you can read its usage manual:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> NAME MdConv.exe - an app to convert md files into different formats. USAGE mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; --output &lt;output-format&gt; mdconv.exe --help mdconv.exe --version mdconv.exe --license OPTIONS -m &lt;md-file&gt;, --md=&lt;md-file&gt; Path to the Markdonw file to be converted into the specified format. Default format is HTML. -t &lt;title&gt;, --title=&lt;html-title&gt; Option required for HTML format. Represents the title of...<a class="read-more" href="./mdconv.html"> read more</a>
 					</div>
 				</div>
 			
@@ -2003,7 +2139,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>:...<a class="read-more" href="./aic-bic.html"> read more</a>
+						<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>...<a class="read-more" href="./aic-bic.html"> read more</a>
 					</div>
 				</div>
 			
@@ -2034,7 +2170,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="using-bic-and-aic-for-ethernet-traffic-model-selection-is-it-worth">Using BIC and AIC for Ethernet traffic model selection. Is it worth?</h1> <p><strong>Abstract</strong>: In this work, we aim to evaluate how good are the information criteria AIC and BIC inferring which is the best stochastic process to describe Ethernet inter-packet times. Also, we check if there is a practical difference between using AIC or BIC. We use a set of stochastic distributions to represent inter-packet of a traffic trace and calculate AIC and BIC. To test the quality of BIC and AIC guesses, we define a cost function based on the comparison of significant stochastic properties for internet traffic...<a class="read-more" href="./aic-bic-first.html"> read more</a>
+						<p><strong>Abstract</strong>: In this work, we aim to evaluate how good are the information criteria AIC and BIC inferring which is the best stochastic process to describe Ethernet inter-packet times. Also, we check if there is a practical difference between using AIC or BIC. We use a set of stochastic distributions to represent inter-packet of a traffic trace and calculate AIC and BIC. To test the quality of BIC and AIC guesses, we define a cost function based on the comparison of significant stochastic properties for internet traffic modeling, such as correlation, fractal-level and mean. Then, we compare both results. In...<a class="read-more" href="./aic-bic-first.html"> read more</a>
 					</div>
 				</div>
 			
@@ -2075,7 +2211,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="simitar-synthetic-and-realistic-network-traffic-generation">SIMITAR: synthetic and realistic network traffic generation</h1> <p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most...<a class="read-more" href="./simitar-thesis.html"> read more</a>
+						<p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most of the open-source realistic traffic generator tools have...<a class="read-more" href="./simitar-thesis.html"> read more</a>
 					</div>
 				</div>
 			
@@ -2116,11 +2252,10 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="cpqd3036---ethermonitor---v10">CPQD3036 - ETHERMONITOR - V.1.0</h1>
-
-<p>This is the register of computer program provided by INPI (<em>Instituto Nacional da Propriedade Industrial</em> – National Institute of Industrial Property) <a href="/projects/proj-ethermonitor.html">Ethermonitor</a>, wich I developed at CPQD when I was an intern.</p>
+						<p>This is the register of computer program provided by INPI (<em>Instituto Nacional da Propriedade Industrial</em> – National Institute of Industrial Property) <a href="/proj-ethermonitor.html">Ethermonitor</a>, wich I developed at CPQD when I was an intern.</p>
 
 <p><br /></p>
+
 <a class="read-more" href="./pub-ethermonitor.html"> read more</a>
 					</div>
 				</div>
@@ -2152,7 +2287,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="cpqd3036-ethermonitor">CPQD3036 EtherMonitor</h1> <p> <b>EtherMonitor</b> is an application developed in C and implemented for an LTE radio base station, called eNodeB developed in the <a target="_blank" href="https://www.cpqd.com.br/releases/cpqd-apresenta-tecnologia-lte4g-na-faixa-de-700-mhz/">CPQD Foundation's LTE/4G project</a>. </p> <p> <b>eNodeB</b> is the radio base station responsible for data transmission using LTE technology, used by internet providers to offer 4G services. Physically, the <b>eNodeB</b> has several ethernet network cables responsible for connecting it to the cloud. </p> <p align="center"> <img src="./assets/img/posts/ether/etherMonitor.png" title="Ethermonitor operation diagram." /> </p> <p> In the implementation developed by CPQD, at any given time, only one of them will be operational, and the other backup...<a class="read-more" href="./proj-ethermonitor.html"> read more</a>
+						<p> <b>EtherMonitor</b> is an application developed in C and implemented for an LTE radio base station, called eNodeB developed in the <a target="_blank" href="https://www.cpqd.com.br/releases/cpqd-apresenta-tecnologia-lte4g-na-faixa-de-700-mhz/">CPQD Foundation's LTE/4G project</a>. </p> <p> <b>eNodeB</b> is the radio base station responsible for data transmission using LTE technology, used by internet providers to offer 4G services. Physically, the <b>eNodeB</b> has several ethernet network cables responsible for connecting it to the cloud. </p> <p align="center"> <img src="./assets/img/posts/ether/etherMonitor.png" title="Ethermonitor operation diagram." /> </p> <p> In the implementation developed by CPQD, at any given time, only one of them will be operational, and the other backup cables. If any...<a class="read-more" href="./proj-ethermonitor.html"> read more</a>
 					</div>
 				</div>
 			
@@ -2193,7 +2328,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="simitar-synthetic-and-realistic-network-traffic-generation">SIMITAR: synthetic and realistic network traffic generation</h1> <p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most...<a class="read-more" href="./simitar-thesis.html"> read more</a>
+						<p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most of the open-source realistic traffic generator tools have...<a class="read-more" href="./simitar-thesis.html"> read more</a>
 					</div>
 				</div>
 			
@@ -2210,7 +2345,7 @@ Options:
 			
 
 				<div class="post">
-					<a class="post-list-title" href="./md2Html.html">Md2Html</a>
+					<a class="post-list-title" href="./nexus-packager-app.html">NexusPackager App</a>
 					
 
   <span class = "post-card-meta">
@@ -2222,7 +2357,7 @@ Options:
     
       
       <span class="page_meta-date">
-        <time datetime="2022-05-27T03:00:00-03:00">May 27, 2022</time>
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
       </span>
     
     
@@ -2234,23 +2369,138 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="md2html">Md2Html</h1>
+						<h1 id="nexus-build-app">Nexus Build App</h1>
 
-<p>Just a simple command line app to convert Markdown files to HTML.</p>
+<p>Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Usage:
-        md2html --md &lt;markdown-file&gt; --title &lt;html-title&gt;
+<p>I create this app because I wanted a flexible and simple tool to package both my Skyrim and Age of Mythology mods.</p>
 
-Options:
-        --md|-m &lt;markdown-file&gt;: path to markdown file
-        --title|-t &lt;html-title&gt;: title to the HTML page title
-</code></pre></div></div>
+<p>This application:</p>
 
-<p>Example:</p>
+<ul>
+  <li>Package files defined by rules into a ZIP, and preserve its original directory structure;</li>
+  <li>Scriptable rules, write once, so you will never forget any files;</li>
+  <li>Creates an uninstall script.</li>
+</ul>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.\\Md2Html.exe --md SampleMarkdown.md --title "HTML page title"
-</code></pre></div></div>
-<a class="read-more" href="./md2Html.html"> read more</a>
+<a class="read-more" href="./nexus-packager-app.html"> read more</a>
+					</div>
+				</div>
+			
+			
+
+				<div class="post">
+					<a class="post-list-title" href="./mdconv.html">MdConv</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<p>Just a simple command line app to convert Markdown files into different formats.</p> <ul> <li>HTML</li> <li>DOCX</li> <li>PDF</li> <li>TXT</li> </ul> <p>If you type <code class="language-plaintext highlighter-rouge">mdconv.exe --help</code> you can read its usage manual:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> NAME MdConv.exe - an app to convert md files into different formats. USAGE mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; --output &lt;output-format&gt; mdconv.exe --help mdconv.exe --version mdconv.exe --license OPTIONS -m &lt;md-file&gt;, --md=&lt;md-file&gt; Path to the Markdonw file to be converted into the specified format. Default format is HTML. -t &lt;title&gt;, --title=&lt;html-title&gt; Option required for HTML format. Represents the title of...<a class="read-more" href="./mdconv.html"> read more</a>
+					</div>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+
+	
+	<div id="Md" class="hidden tag-master">
+		<h1>Md</h1>
+		<div class="archive">
+			<div class="post-list">
+		    
+			
+
+				<div class="post">
+					<a class="post-list-title" href="./nexus-packager-app.html">NexusPackager App</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<h1 id="nexus-build-app">Nexus Build App</h1>
+
+<p>Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.</p>
+
+<p>I create this app because I wanted a flexible and simple tool to package both my Skyrim and Age of Mythology mods.</p>
+
+<p>This application:</p>
+
+<ul>
+  <li>Package files defined by rules into a ZIP, and preserve its original directory structure;</li>
+  <li>Scriptable rules, write once, so you will never forget any files;</li>
+  <li>Creates an uninstall script.</li>
+</ul>
+
+<a class="read-more" href="./nexus-packager-app.html"> read more</a>
+					</div>
+				</div>
+			
+			
+
+				<div class="post">
+					<a class="post-list-title" href="./mdconv.html">MdConv</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<p>Just a simple command line app to convert Markdown files into different formats.</p> <ul> <li>HTML</li> <li>DOCX</li> <li>PDF</li> <li>TXT</li> </ul> <p>If you type <code class="language-plaintext highlighter-rouge">mdconv.exe --help</code> you can read its usage manual:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> NAME MdConv.exe - an app to convert md files into different formats. USAGE mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; --output &lt;output-format&gt; mdconv.exe --help mdconv.exe --version mdconv.exe --license OPTIONS -m &lt;md-file&gt;, --md=&lt;md-file&gt; Path to the Markdonw file to be converted into the specified format. Default format is HTML. -t &lt;title&gt;, --title=&lt;html-title&gt; Option required for HTML format. Represents the title of...<a class="read-more" href="./mdconv.html"> read more</a>
 					</div>
 				</div>
 			
@@ -2291,7 +2541,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>:...<a class="read-more" href="./aic-bic.html"> read more</a>
+						<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>...<a class="read-more" href="./aic-bic.html"> read more</a>
 					</div>
 				</div>
 			
@@ -2349,7 +2599,7 @@ Options:
 			
 
 				<div class="post">
-					<a class="post-list-title" href="./dsilhand.html">Dawn of the Silver Hands</a>
+					<a class="post-list-title" href="./mods-age-of-mitology.html">The Lost Continent of Adria -- Age of Mithology Mod</a>
 					
 
   <span class = "post-card-meta">
@@ -2361,7 +2611,7 @@ Options:
     
       
       <span class="page_meta-date">
-        <time datetime="2022-07-01T03:00:00-03:00">July 1, 2022</time>
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
       </span>
     
     
@@ -2373,8 +2623,38 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="dsilhand">DSilHand</h1>
-<a class="read-more" href="./dsilhand.html"> read more</a>
+						<p><em>In the mythical continent of Adria, a fantastic and magical land there is a permanent conflict between all the human and beast races that inhabit that land.</em></p> <p><em>You will have the mission to lead the Nords, a human race that lives in the snowy mountains and pine forests of the north through a journey to conquer the world.</em></p> <p><em>You will travel through deserts, forests, mountains, volcanos, and forests, full of secrets, animals, and mythical creatures.</em></p> <p align="center"> <img src="./assets/img/posts/aom//Screenshot_1.jpg" width="600" /> </p> <h1 id="about-this-mod">About this Mod</h1> <h2 id="main-campaign">Main Campaign</h2> <p align="center"> <img src="./assets/img/posts/aom/Adria.jpg" width="600" /> </p> <p>This mod brings a...<a class="read-more" href="./mods-age-of-mitology.html"> read more</a>
+					</div>
+				</div>
+			
+			
+
+				<div class="post">
+					<a class="post-list-title" href="./dsilhand.html">Dawn of the Silver Hands -- Join the Silver Hands!</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<p align="center"> <img src="./assets/img/posts/dsilhand/DSilhandLogo.jpg" width="600" /> </p> <p><em>For centuries the Daedric Wolves lived among the sons of Skyrim in secret.</em></p> <p><em>But no one wanted to believe.</em> <em>Or had the strength to fight.</em></p> <p><em>Now it is up to YOU to choose which side will prevail.</em></p> <p><em>The Beast Blood… Or the Silver Hands!</em></p> <h2 id="overview">Overview</h2> <p>This mod allow you to join the Silver Hand faction!</p> <p>It is up to you to decide! You can still follow the vanilla path joining The Companions, but this mod allow you to see an alternate timeline where the Dragonborn joins the Silver Hand instead!</p> <p>I am...<a class="read-more" href="./dsilhand.html"> read more</a>
 					</div>
 				</div>
 			
@@ -2421,50 +2701,6 @@ Regenerate as many times you want with no loss.</li>
 					</div>
 				</div>
 			
-			
-
-				<div class="post">
-					<a class="post-list-title" href="./moforgit.html">Spear</a>
-					
-
-  <span class = "post-card-meta">
-  
-  
-    <span class="meta-pre"></span>
-  
-  
-    
-      
-      <span class="page_meta-date">
-        <time datetime="2022-01-25T03:00:00-03:00">January 25, 2022</time>
-      </span>
-    
-    
-      
-    
-  
-  
-  
-  </span>
-
-					<div class="post-excerpt">
-						<h1 id="spear-mod-organizer-for-git-versioning">Spear: Mod Organizer for Git Versioning</h1>
-
-<p>MoForGit is a tool that allows you create a Git repository using a Mod Organizer Tools.</p>
-
-<ul>
-  <li>
-    <p>Allows you to manage different installations of Steam Game in the same Hard Disk;</p>
-  </li>
-  <li>
-    <p>Transform the installation folder into a git repository, and gitignore all the game files – do file versioning of only your mod files.</p>
-  </li>
-</ul>
-
-<a class="read-more" href="./moforgit.html"> read more</a>
-					</div>
-				</div>
-			
 			</div>
 		</div>
 	</div>
@@ -2502,7 +2738,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="simitar-synthetic-and-realistic-network-traffic-generation">SIMITAR: synthetic and realistic network traffic generation</h1> <p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most...<a class="read-more" href="./simitar-thesis.html"> read more</a>
+						<p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most of the open-source realistic traffic generator tools have...<a class="read-more" href="./simitar-thesis.html"> read more</a>
 					</div>
 				</div>
 			
@@ -2615,7 +2851,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="simitar-sniffing-modelling-and-traffic-generation"><a href="https://github.com/AndersonPaschoalon/Simitar">SIMITAR: SniffIng ModellIng and TrAffic geneRation</a></h1> <p align="center"> <img src="./assets/img/posts/simitar/simitar-large.jpg" width="200" title="This is a Scimitar, not a Simitar :P" /> </p> <h2 id="1-introdution">1. Introdution</h2> <p>SIMITAR stands for SIMITAR: SnIffing, ModellIng and TrAffic geneRation. SIMITAR is a tool for creating synthetic and realist network traffic. It uses actual netowork traffic (live captures or pcap files) for creating a flow-oriented traffic model. This model is used for creating network traffic, and is provided as parameter for the traffic generator. It is self-configurated because you dont have to care about adjusting stochastic parameters such as exponenetial rates, protocol, ports, or traffic...<a class="read-more" href="./simitar.html"> read more</a>
+						<p align="center"> <img src="./assets/img/posts/simitar/simitar-large.jpg" width="300" title="This is a Scimitar, not a Simitar :P" /> </p> <h2 id="1-introdution">1. Introdution</h2> <p>SIMITAR stands for SIMITAR: SnIffing, ModellIng and TrAffic geneRation. SIMITAR is a tool for creating synthetic and realist network traffic. It uses actual netowork traffic (live captures or pcap files) for creating a flow-oriented traffic model. This model is used for creating network traffic, and is provided as parameter for the traffic generator. It is self-configurated because you dont have to care about adjusting stochastic parameters such as exponenetial rates, protocol, ports, or traffic rates as input parameters. It is all contained...<a class="read-more" href="./simitar.html"> read more</a>
 					</div>
 				</div>
 			
@@ -2646,7 +2882,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="using-bic-and-aic-for-ethernet-traffic-model-selection-is-it-worth">Using BIC and AIC for Ethernet traffic model selection. Is it worth?</h1> <p><strong>Abstract</strong>: In this work, we aim to evaluate how good are the information criteria AIC and BIC inferring which is the best stochastic process to describe Ethernet inter-packet times. Also, we check if there is a practical difference between using AIC or BIC. We use a set of stochastic distributions to represent inter-packet of a traffic trace and calculate AIC and BIC. To test the quality of BIC and AIC guesses, we define a cost function based on the comparison of significant stochastic properties for internet traffic...<a class="read-more" href="./aic-bic-first.html"> read more</a>
+						<p><strong>Abstract</strong>: In this work, we aim to evaluate how good are the information criteria AIC and BIC inferring which is the best stochastic process to describe Ethernet inter-packet times. Also, we check if there is a practical difference between using AIC or BIC. We use a set of stochastic distributions to represent inter-packet of a traffic trace and calculate AIC and BIC. To test the quality of BIC and AIC guesses, we define a cost function based on the comparison of significant stochastic properties for internet traffic modeling, such as correlation, fractal-level and mean. Then, we compare both results. In...<a class="read-more" href="./aic-bic-first.html"> read more</a>
 					</div>
 				</div>
 			
@@ -2687,7 +2923,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="cpqd3036-ethermonitor">CPQD3036 EtherMonitor</h1> <p> <b>EtherMonitor</b> is an application developed in C and implemented for an LTE radio base station, called eNodeB developed in the <a target="_blank" href="https://www.cpqd.com.br/releases/cpqd-apresenta-tecnologia-lte4g-na-faixa-de-700-mhz/">CPQD Foundation's LTE/4G project</a>. </p> <p> <b>eNodeB</b> is the radio base station responsible for data transmission using LTE technology, used by internet providers to offer 4G services. Physically, the <b>eNodeB</b> has several ethernet network cables responsible for connecting it to the cloud. </p> <p align="center"> <img src="./assets/img/posts/ether/etherMonitor.png" title="Ethermonitor operation diagram." /> </p> <p> In the implementation developed by CPQD, at any given time, only one of them will be operational, and the other backup...<a class="read-more" href="./proj-ethermonitor.html"> read more</a>
+						<p> <b>EtherMonitor</b> is an application developed in C and implemented for an LTE radio base station, called eNodeB developed in the <a target="_blank" href="https://www.cpqd.com.br/releases/cpqd-apresenta-tecnologia-lte4g-na-faixa-de-700-mhz/">CPQD Foundation's LTE/4G project</a>. </p> <p> <b>eNodeB</b> is the radio base station responsible for data transmission using LTE technology, used by internet providers to offer 4G services. Physically, the <b>eNodeB</b> has several ethernet network cables responsible for connecting it to the cloud. </p> <p align="center"> <img src="./assets/img/posts/ether/etherMonitor.png" title="Ethermonitor operation diagram." /> </p> <p> In the implementation developed by CPQD, at any given time, only one of them will be operational, and the other backup cables. If any...<a class="read-more" href="./proj-ethermonitor.html"> read more</a>
 					</div>
 				</div>
 			
@@ -2810,9 +3046,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="mininetwifi-contribuition">MininetWifi Contribuition</h1>
-
-<p>This is a contrubution I made in 2016 for the testing and validation related with a <a href="https://github.com/ramonfontes/reproducible-research/tree/master/mininet-wifi">MininetWifi</a> publication.</p>
+						<p>This is a contrubution I made in 2016 for the testing and validation related with a <a href="https://github.com/ramonfontes/reproducible-research/tree/master/mininet-wifi">MininetWifi</a> publication.</p>
 
 <p>It is a simulation of File tranference implemented using the <a href="https://www.nsnam.org">NS-3</a> Framework. The source code can be found <a href="https://github.com/ramonfontes/reproducible-research/blob/20510254176710d5632a5c66b731bb0bd39dccc2/mininet-wifi/The-Computer-Journal-2017/fileTransferring.cc">here</a>.</p>
 
@@ -2926,7 +3160,7 @@ Regenerate as many times you want with no loss.</li>
 			
 
 				<div class="post">
-					<a class="post-list-title" href="./dsilhand.html">Dawn of the Silver Hands</a>
+					<a class="post-list-title" href="./dsilhand.html">Dawn of the Silver Hands -- Join the Silver Hands!</a>
 					
 
   <span class = "post-card-meta">
@@ -2938,7 +3172,7 @@ Regenerate as many times you want with no loss.</li>
     
       
       <span class="page_meta-date">
-        <time datetime="2022-07-01T03:00:00-03:00">July 1, 2022</time>
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
       </span>
     
     
@@ -2950,8 +3184,93 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="dsilhand">DSilHand</h1>
-<a class="read-more" href="./dsilhand.html"> read more</a>
+						<p align="center"> <img src="./assets/img/posts/dsilhand/DSilhandLogo.jpg" width="600" /> </p> <p><em>For centuries the Daedric Wolves lived among the sons of Skyrim in secret.</em></p> <p><em>But no one wanted to believe.</em> <em>Or had the strength to fight.</em></p> <p><em>Now it is up to YOU to choose which side will prevail.</em></p> <p><em>The Beast Blood… Or the Silver Hands!</em></p> <h2 id="overview">Overview</h2> <p>This mod allow you to join the Silver Hand faction!</p> <p>It is up to you to decide! You can still follow the vanilla path joining The Companions, but this mod allow you to see an alternate timeline where the Dragonborn joins the Silver Hand instead!</p> <p>I am...<a class="read-more" href="./dsilhand.html"> read more</a>
+					</div>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+
+	
+	<div id="Pdf" class="hidden tag-master">
+		<h1>Pdf</h1>
+		<div class="archive">
+			<div class="post-list">
+		    
+			
+
+				<div class="post">
+					<a class="post-list-title" href="./nexus-packager-app.html">NexusPackager App</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<h1 id="nexus-build-app">Nexus Build App</h1>
+
+<p>Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.</p>
+
+<p>I create this app because I wanted a flexible and simple tool to package both my Skyrim and Age of Mythology mods.</p>
+
+<p>This application:</p>
+
+<ul>
+  <li>Package files defined by rules into a ZIP, and preserve its original directory structure;</li>
+  <li>Scriptable rules, write once, so you will never forget any files;</li>
+  <li>Creates an uninstall script.</li>
+</ul>
+
+<a class="read-more" href="./nexus-packager-app.html"> read more</a>
+					</div>
+				</div>
+			
+			
+
+				<div class="post">
+					<a class="post-list-title" href="./mdconv.html">MdConv</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<p>Just a simple command line app to convert Markdown files into different formats.</p> <ul> <li>HTML</li> <li>DOCX</li> <li>PDF</li> <li>TXT</li> </ul> <p>If you type <code class="language-plaintext highlighter-rouge">mdconv.exe --help</code> you can read its usage manual:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> NAME MdConv.exe - an app to convert md files into different formats. USAGE mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; --output &lt;output-format&gt; mdconv.exe --help mdconv.exe --version mdconv.exe --license OPTIONS -m &lt;md-file&gt;, --md=&lt;md-file&gt; Path to the Markdonw file to be converted into the specified format. Default format is HTML. -t &lt;title&gt;, --title=&lt;html-title&gt; Option required for HTML format. Represents the title of...<a class="read-more" href="./mdconv.html"> read more</a>
 					</div>
 				</div>
 			
@@ -3009,6 +3328,82 @@ Regenerate as many times you want with no loss.</li>
 			
 
 				<div class="post">
+					<a class="post-list-title" href="./nexus-packager-app.html">NexusPackager App</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<h1 id="nexus-build-app">Nexus Build App</h1>
+
+<p>Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.</p>
+
+<p>I create this app because I wanted a flexible and simple tool to package both my Skyrim and Age of Mythology mods.</p>
+
+<p>This application:</p>
+
+<ul>
+  <li>Package files defined by rules into a ZIP, and preserve its original directory structure;</li>
+  <li>Scriptable rules, write once, so you will never forget any files;</li>
+  <li>Creates an uninstall script.</li>
+</ul>
+
+<a class="read-more" href="./nexus-packager-app.html"> read more</a>
+					</div>
+				</div>
+			
+			
+
+				<div class="post">
+					<a class="post-list-title" href="./mdconv.html">MdConv</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<p>Just a simple command line app to convert Markdown files into different formats.</p> <ul> <li>HTML</li> <li>DOCX</li> <li>PDF</li> <li>TXT</li> </ul> <p>If you type <code class="language-plaintext highlighter-rouge">mdconv.exe --help</code> you can read its usage manual:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> NAME MdConv.exe - an app to convert md files into different formats. USAGE mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; --output &lt;output-format&gt; mdconv.exe --help mdconv.exe --version mdconv.exe --license OPTIONS -m &lt;md-file&gt;, --md=&lt;md-file&gt; Path to the Markdonw file to be converted into the specified format. Default format is HTML. -t &lt;title&gt;, --title=&lt;html-title&gt; Option required for HTML format. Represents the title of...<a class="read-more" href="./mdconv.html"> read more</a>
+					</div>
+				</div>
+			
+			
+
+				<div class="post">
 					<a class="post-list-title" href="./quest-dialog-manager.html">Quest Dialog Manager</a>
 					
 
@@ -3046,53 +3441,6 @@ to audios, manage file names,and check subtitles;</li>
 Regenerate as many times you want with no loss.</li>
 </ul>
 <a class="read-more" href="./quest-dialog-manager.html"> read more</a>
-					</div>
-				</div>
-			
-			
-
-				<div class="post">
-					<a class="post-list-title" href="./md2Html.html">Md2Html</a>
-					
-
-  <span class = "post-card-meta">
-  
-  
-    <span class="meta-pre"></span>
-  
-  
-    
-      
-      <span class="page_meta-date">
-        <time datetime="2022-05-27T03:00:00-03:00">May 27, 2022</time>
-      </span>
-    
-    
-      
-    
-  
-  
-  
-  </span>
-
-					<div class="post-excerpt">
-						<h1 id="md2html">Md2Html</h1>
-
-<p>Just a simple command line app to convert Markdown files to HTML.</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Usage:
-        md2html --md &lt;markdown-file&gt; --title &lt;html-title&gt;
-
-Options:
-        --md|-m &lt;markdown-file&gt;: path to markdown file
-        --title|-t &lt;html-title&gt;: title to the HTML page title
-</code></pre></div></div>
-
-<p>Example:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.\\Md2Html.exe --md SampleMarkdown.md --title "HTML page title"
-</code></pre></div></div>
-<a class="read-more" href="./md2Html.html"> read more</a>
 					</div>
 				</div>
 			
@@ -3216,9 +3564,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="mininetwifi-contribuition">MininetWifi Contribuition</h1>
-
-<p>This is a contrubution I made in 2016 for the testing and validation related with a <a href="https://github.com/ramonfontes/reproducible-research/tree/master/mininet-wifi">MininetWifi</a> publication.</p>
+						<p>This is a contrubution I made in 2016 for the testing and validation related with a <a href="https://github.com/ramonfontes/reproducible-research/tree/master/mininet-wifi">MininetWifi</a> publication.</p>
 
 <p>It is a simulation of File tranference implemented using the <a href="https://www.nsnam.org">NS-3</a> Framework. The source code can be found <a href="https://github.com/ramonfontes/reproducible-research/blob/20510254176710d5632a5c66b731bb0bd39dccc2/mininet-wifi/The-Computer-Journal-2017/fileTransferring.cc">here</a>.</p>
 
@@ -3336,7 +3682,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="simitar-sniffing-modelling-and-traffic-generation"><a href="https://github.com/AndersonPaschoalon/Simitar">SIMITAR: SniffIng ModellIng and TrAffic geneRation</a></h1> <p align="center"> <img src="./assets/img/posts/simitar/simitar-large.jpg" width="200" title="This is a Scimitar, not a Simitar :P" /> </p> <h2 id="1-introdution">1. Introdution</h2> <p>SIMITAR stands for SIMITAR: SnIffing, ModellIng and TrAffic geneRation. SIMITAR is a tool for creating synthetic and realist network traffic. It uses actual netowork traffic (live captures or pcap files) for creating a flow-oriented traffic model. This model is used for creating network traffic, and is provided as parameter for the traffic generator. It is self-configurated because you dont have to care about adjusting stochastic parameters such as exponenetial rates, protocol, ports, or traffic...<a class="read-more" href="./simitar.html"> read more</a>
+						<p align="center"> <img src="./assets/img/posts/simitar/simitar-large.jpg" width="300" title="This is a Scimitar, not a Simitar :P" /> </p> <h2 id="1-introdution">1. Introdution</h2> <p>SIMITAR stands for SIMITAR: SnIffing, ModellIng and TrAffic geneRation. SIMITAR is a tool for creating synthetic and realist network traffic. It uses actual netowork traffic (live captures or pcap files) for creating a flow-oriented traffic model. This model is used for creating network traffic, and is provided as parameter for the traffic generator. It is self-configurated because you dont have to care about adjusting stochastic parameters such as exponenetial rates, protocol, ports, or traffic rates as input parameters. It is all contained...<a class="read-more" href="./simitar.html"> read more</a>
 					</div>
 				</div>
 			
@@ -3353,7 +3699,7 @@ Options:
 			
 
 				<div class="post">
-					<a class="post-list-title" href="./dsilhand.html">Dawn of the Silver Hands</a>
+					<a class="post-list-title" href="./dsilhand.html">Dawn of the Silver Hands -- Join the Silver Hands!</a>
 					
 
   <span class = "post-card-meta">
@@ -3365,7 +3711,7 @@ Options:
     
       
       <span class="page_meta-date">
-        <time datetime="2022-07-01T03:00:00-03:00">July 1, 2022</time>
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
       </span>
     
     
@@ -3377,8 +3723,7 @@ Options:
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="dsilhand">DSilHand</h1>
-<a class="read-more" href="./dsilhand.html"> read more</a>
+						<p align="center"> <img src="./assets/img/posts/dsilhand/DSilhandLogo.jpg" width="600" /> </p> <p><em>For centuries the Daedric Wolves lived among the sons of Skyrim in secret.</em></p> <p><em>But no one wanted to believe.</em> <em>Or had the strength to fight.</em></p> <p><em>Now it is up to YOU to choose which side will prevail.</em></p> <p><em>The Beast Blood… Or the Silver Hands!</em></p> <h2 id="overview">Overview</h2> <p>This mod allow you to join the Silver Hand faction!</p> <p>It is up to you to decide! You can still follow the vanilla path joining The Companions, but this mod allow you to see an alternate timeline where the Dragonborn joins the Silver Hand instead!</p> <p>I am...<a class="read-more" href="./dsilhand.html"> read more</a>
 					</div>
 				</div>
 			
@@ -3547,7 +3892,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="simitar-synthetic-and-realistic-network-traffic-generation">SIMITAR: synthetic and realistic network traffic generation</h1> <p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most...<a class="read-more" href="./simitar-thesis.html"> read more</a>
+						<p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most of the open-source realistic traffic generator tools have...<a class="read-more" href="./simitar-thesis.html"> read more</a>
 					</div>
 				</div>
 			
@@ -3630,7 +3975,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>:...<a class="read-more" href="./aic-bic.html"> read more</a>
+						<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>...<a class="read-more" href="./aic-bic.html"> read more</a>
 					</div>
 				</div>
 			
@@ -3754,7 +4099,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="simitar-sniffing-modelling-and-traffic-generation"><a href="https://github.com/AndersonPaschoalon/Simitar">SIMITAR: SniffIng ModellIng and TrAffic geneRation</a></h1> <p align="center"> <img src="./assets/img/posts/simitar/simitar-large.jpg" width="200" title="This is a Scimitar, not a Simitar :P" /> </p> <h2 id="1-introdution">1. Introdution</h2> <p>SIMITAR stands for SIMITAR: SnIffing, ModellIng and TrAffic geneRation. SIMITAR is a tool for creating synthetic and realist network traffic. It uses actual netowork traffic (live captures or pcap files) for creating a flow-oriented traffic model. This model is used for creating network traffic, and is provided as parameter for the traffic generator. It is self-configurated because you dont have to care about adjusting stochastic parameters such as exponenetial rates, protocol, ports, or traffic...<a class="read-more" href="./simitar.html"> read more</a>
+						<p align="center"> <img src="./assets/img/posts/simitar/simitar-large.jpg" width="300" title="This is a Scimitar, not a Simitar :P" /> </p> <h2 id="1-introdution">1. Introdution</h2> <p>SIMITAR stands for SIMITAR: SnIffing, ModellIng and TrAffic geneRation. SIMITAR is a tool for creating synthetic and realist network traffic. It uses actual netowork traffic (live captures or pcap files) for creating a flow-oriented traffic model. This model is used for creating network traffic, and is provided as parameter for the traffic generator. It is self-configurated because you dont have to care about adjusting stochastic parameters such as exponenetial rates, protocol, ports, or traffic rates as input parameters. It is all contained...<a class="read-more" href="./simitar.html"> read more</a>
 					</div>
 				</div>
 			
@@ -3785,7 +4130,7 @@ Regenerate as many times you want with no loss.</li>
     
     <span class="page_meta-readtime">
       
-        1 minute read
+        less than 1 minute read
       
     </span>
   
@@ -3793,7 +4138,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: New emerging technologies have a larger unpredictability, compared to legacy equipment. They require a larger set of meaningful tests on many different scenarios. But, in the open source world is hard to find a single tool able to provide realism, speed, easy usage and flexibility at the same time. Most of the tools are monolithic and devoted to specific purposes. This work presents a flexible and extensible framework which aims to decouple synthetic traffic modelling from its traffic generator engine. Through a new abstraction layer, it would become possible...<a class="read-more" href="./traff-gen.html"> read more</a>
+						<p><strong>Abstract</strong>: New emerging technologies have a larger unpredictability, compared to legacy equipment. They require a larger set of meaningful tests on many different scenarios. But, in the open source world is hard to find a single tool able to provide realism, speed, easy usage and flexibility at the same time. Most of the tools are monolithic and devoted to specific purposes. This work presents a flexible and extensible framework which aims to decouple synthetic traffic modelling from its traffic generator engine. Through a new abstraction layer, it would become possible to use modern and throughput optimized tools to create realistic...<a class="read-more" href="./traff-gen.html"> read more</a>
 					</div>
 				</div>
 			
@@ -3865,7 +4210,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="simitar-synthetic-and-realistic-network-traffic-generation">SIMITAR: synthetic and realistic network traffic generation</h1> <p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most...<a class="read-more" href="./simitar-thesis.html"> read more</a>
+						<p><strong>Abstract</strong>:</p> <p>Real network traffic has a different impact over network nodes if compared to constant traffic generated by tools like Iperf, even when they have the same average throughput. Busty traffic may cause buffers overflows while constant traffic does not, and can decrease the measurement accuracy. The number of flows may have an impact on flow-oriented nodes, such as SDN switches and controllers. In a scenario where software-defined networks will play an essential role in the future internet, a more in-depth validation of new technologies considering these aspects is crucial. Also, most of the open-source realistic traffic generator tools have...<a class="read-more" href="./simitar-thesis.html"> read more</a>
 					</div>
 				</div>
 			
@@ -3937,7 +4282,7 @@ Regenerate as many times you want with no loss.</li>
     
     <span class="page_meta-readtime">
       
-        1 minute read
+        less than 1 minute read
       
     </span>
   
@@ -3945,7 +4290,93 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: New emerging technologies have a larger unpredictability, compared to legacy equipment. They require a larger set of meaningful tests on many different scenarios. But, in the open source world is hard to find a single tool able to provide realism, speed, easy usage and flexibility at the same time. Most of the tools are monolithic and devoted to specific purposes. This work presents a flexible and extensible framework which aims to decouple synthetic traffic modelling from its traffic generator engine. Through a new abstraction layer, it would become possible...<a class="read-more" href="./traff-gen.html"> read more</a>
+						<p><strong>Abstract</strong>: New emerging technologies have a larger unpredictability, compared to legacy equipment. They require a larger set of meaningful tests on many different scenarios. But, in the open source world is hard to find a single tool able to provide realism, speed, easy usage and flexibility at the same time. Most of the tools are monolithic and devoted to specific purposes. This work presents a flexible and extensible framework which aims to decouple synthetic traffic modelling from its traffic generator engine. Through a new abstraction layer, it would become possible to use modern and throughput optimized tools to create realistic...<a class="read-more" href="./traff-gen.html"> read more</a>
+					</div>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+
+	
+	<div id="Txt" class="hidden tag-master">
+		<h1>Txt</h1>
+		<div class="archive">
+			<div class="post-list">
+		    
+			
+
+				<div class="post">
+					<a class="post-list-title" href="./nexus-packager-app.html">NexusPackager App</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<h1 id="nexus-build-app">Nexus Build App</h1>
+
+<p>Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.</p>
+
+<p>I create this app because I wanted a flexible and simple tool to package both my Skyrim and Age of Mythology mods.</p>
+
+<p>This application:</p>
+
+<ul>
+  <li>Package files defined by rules into a ZIP, and preserve its original directory structure;</li>
+  <li>Scriptable rules, write once, so you will never forget any files;</li>
+  <li>Creates an uninstall script.</li>
+</ul>
+
+<a class="read-more" href="./nexus-packager-app.html"> read more</a>
+					</div>
+				</div>
+			
+			
+
+				<div class="post">
+					<a class="post-list-title" href="./mdconv.html">MdConv</a>
+					
+
+  <span class = "post-card-meta">
+  
+  
+    <span class="meta-pre"></span>
+  
+  
+    
+      
+      <span class="page_meta-date">
+        <time datetime="2022-09-24T03:00:00-03:00">September 24, 2022</time>
+      </span>
+    
+    
+      
+    
+  
+  
+  
+  </span>
+
+					<div class="post-excerpt">
+						<p>Just a simple command line app to convert Markdown files into different formats.</p> <ul> <li>HTML</li> <li>DOCX</li> <li>PDF</li> <li>TXT</li> </ul> <p>If you type <code class="language-plaintext highlighter-rouge">mdconv.exe --help</code> you can read its usage manual:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> NAME MdConv.exe - an app to convert md files into different formats. USAGE mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; --output &lt;output-format&gt; mdconv.exe --help mdconv.exe --version mdconv.exe --license OPTIONS -m &lt;md-file&gt;, --md=&lt;md-file&gt; Path to the Markdonw file to be converted into the specified format. Default format is HTML. -t &lt;title&gt;, --title=&lt;html-title&gt; Option required for HTML format. Represents the title of...<a class="read-more" href="./mdconv.html"> read more</a>
 					</div>
 				</div>
 			
@@ -4068,7 +4499,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="using-bic-and-aic-for-ethernet-traffic-model-selection-is-it-worth">Using BIC and AIC for Ethernet traffic model selection. Is it worth?</h1> <p><strong>Abstract</strong>: In this work, we aim to evaluate how good are the information criteria AIC and BIC inferring which is the best stochastic process to describe Ethernet inter-packet times. Also, we check if there is a practical difference between using AIC or BIC. We use a set of stochastic distributions to represent inter-packet of a traffic trace and calculate AIC and BIC. To test the quality of BIC and AIC guesses, we define a cost function based on the comparison of significant stochastic properties for internet traffic...<a class="read-more" href="./aic-bic-first.html"> read more</a>
+						<p><strong>Abstract</strong>: In this work, we aim to evaluate how good are the information criteria AIC and BIC inferring which is the best stochastic process to describe Ethernet inter-packet times. Also, we check if there is a practical difference between using AIC or BIC. We use a set of stochastic distributions to represent inter-packet of a traffic trace and calculate AIC and BIC. To test the quality of BIC and AIC guesses, we define a cost function based on the comparison of significant stochastic properties for internet traffic modeling, such as correlation, fractal-level and mean. Then, we compare both results. In...<a class="read-more" href="./aic-bic-first.html"> read more</a>
 					</div>
 				</div>
 			
@@ -4109,7 +4540,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>:...<a class="read-more" href="./aic-bic.html"> read more</a>
+						<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>...<a class="read-more" href="./aic-bic.html"> read more</a>
 					</div>
 				</div>
 			
@@ -4232,11 +4663,10 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="cpqd3036---ethermonitor---v10">CPQD3036 - ETHERMONITOR - V.1.0</h1>
-
-<p>This is the register of computer program provided by INPI (<em>Instituto Nacional da Propriedade Industrial</em> – National Institute of Industrial Property) <a href="/projects/proj-ethermonitor.html">Ethermonitor</a>, wich I developed at CPQD when I was an intern.</p>
+						<p>This is the register of computer program provided by INPI (<em>Instituto Nacional da Propriedade Industrial</em> – National Institute of Industrial Property) <a href="/proj-ethermonitor.html">Ethermonitor</a>, wich I developed at CPQD when I was an intern.</p>
 
 <p><br /></p>
+
 <a class="read-more" href="./pub-ethermonitor.html"> read more</a>
 					</div>
 				</div>
@@ -4278,7 +4708,7 @@ Regenerate as many times you want with no loss.</li>
   </span>
 
 					<div class="post-excerpt">
-						<h1 id="automated-selection-of-inter-packet-time-models-through-information-criteria">Automated Selection of Inter-Packet Time Models Through Information Criteria</h1> <p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>:...<a class="read-more" href="./aic-bic.html"> read more</a>
+						<p><strong>Abstract</strong>: A well-known problem of network traffic representation over time is that there is no “one-fits-all” model. The selection of the “best” model is traditionally made in a time-consuming and ad-hoc manner by human experts. In this letter, we evaluate the feasibility of using Bayesian information criterion (BIC) and Akaike information criterion (AIC) as tools for automated selection of the best-fit stochastic process for inter-packet times. We propose and validate a methodology based on information criteria, resulting in an automated and accurate approach for such traffic modelling tasks.</p> <p><strong>Published in</strong>: IEEE Networking Letters ( Volume: 1, Issue: 2, June 2019)</p>...<a class="read-more" href="./aic-bic.html"> read more</a>
 					</div>
 				</div>
 			
@@ -4374,7 +4804,7 @@ Regenerate as many times you want with no loss.</li>
                 <li><a href="./tag.html?tag=Big+Data" class="tag">Big Data <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=Bootstrap" class="tag">Bootstrap <span>(1)</span></a></li>
+                <li><a href="./tag.html?tag=Bootstrap" class="tag">Bootstrap <span>(2)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=C%2B%2B" class="tag">C++ <span>(1)</span></a></li>
@@ -4422,6 +4852,9 @@ Regenerate as many times you want with no loss.</li>
                 <li><a href="./tag.html?tag=Desktop" class="tag">Desktop <span>(2)</span></a></li>
             
                 
+                <li><a href="./tag.html?tag=Docx" class="tag">Docx <span>(2)</span></a></li>
+            
+                
                 <li><a href="./tag.html?tag=Embedded+Linux" class="tag">Embedded Linux <span>(2)</span></a></li>
             
                 
@@ -4437,7 +4870,7 @@ Regenerate as many times you want with no loss.</li>
                 <li><a href="./tag.html?tag=Game+Development" class="tag">Game Development <span>(2)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=HTML" class="tag">HTML <span>(1)</span></a></li>
+                <li><a href="./tag.html?tag=HTML" class="tag">HTML <span>(2)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=Hadoop" class="tag">Hadoop <span>(1)</span></a></li>
@@ -4458,7 +4891,10 @@ Regenerate as many times you want with no loss.</li>
                 <li><a href="./tag.html?tag=Libtins" class="tag">Libtins <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=Markdown" class="tag">Markdown <span>(1)</span></a></li>
+                <li><a href="./tag.html?tag=Markdown" class="tag">Markdown <span>(2)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Md" class="tag">Md <span>(2)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=Measurement" class="tag">Measurement <span>(1)</span></a></li>
@@ -4500,10 +4936,13 @@ Regenerate as many times you want with no loss.</li>
                 <li><a href="./tag.html?tag=Papyrus" class="tag">Papyrus <span>(1)</span></a></li>
             
                 
+                <li><a href="./tag.html?tag=Pdf" class="tag">Pdf <span>(2)</span></a></li>
+            
+                
                 <li><a href="./tag.html?tag=Public+Key" class="tag">Public Key <span>(1)</span></a></li>
             
                 
-                <li><a href="./tag.html?tag=Python" class="tag">Python <span>(2)</span></a></li>
+                <li><a href="./tag.html?tag=Python" class="tag">Python <span>(3)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=RISC" class="tag">RISC <span>(1)</span></a></li>
@@ -4546,6 +4985,9 @@ Regenerate as many times you want with no loss.</li>
             
                 
                 <li><a href="./tag.html?tag=Traffic+Modelling" class="tag">Traffic Modelling <span>(2)</span></a></li>
+            
+                
+                <li><a href="./tag.html?tag=Txt" class="tag">Txt <span>(2)</span></a></li>
             
                 
                 <li><a href="./tag.html?tag=Wavelet" class="tag">Wavelet <span>(1)</span></a></li>
@@ -4610,7 +5052,7 @@ Regenerate as many times you want with no loss.</li>
         </div>
 
         <div class="copyright">
-          <p>2022 &copy; Anderson Paschoalon</p>
+          <p>Sep, 2022 &copy; Anderson Paschoalon (beta-v1.1.0) </p>
         </div>
 
         <div class="footer-nav">
@@ -4666,10 +5108,13 @@ Regenerate as many times you want with no loss.</li>
 
 <!-- JS -->
 
-
-
-
-
+<!--
+Logo removed. To rowback, replace # by {, so the tags will be enclosed
+#% capture logo_url %}./ #% endcapture %}
+#% assign logo_url = logo_url | replace: "//", "/" %}
+#% capture logo_url_dark %}./ #% endcapture %}
+#% assign logo_url_dark = logo_url_dark | replace: "//", "/" %}
+-->
 
 
 
@@ -4677,7 +5122,9 @@ Regenerate as many times you want with no loss.</li>
 (function() {
     var sw = document.getElementById('theme-switch');
     var html = document.getElementsByTagName('html')[0];
-    var logo = document.getElementById('logo');
+    // logo removed
+    console.log('logo removed');
+    //var logo = document.getElementById('logo');
     var nightModeOption = ('auto' || 'auto').toLowerCase();
     var storage = nightModeOption === 'manual'
         ? localStorage
@@ -4704,9 +5151,13 @@ Regenerate as many times you want with no loss.</li>
     saveThemeData(themeData);
     html.dataset.theme = nightShift ? 'dark' : 'light';
     if (nightShift) {
-        logo.setAttribute("src", "./assets/img/branding/MVM-logo-full-dark.svg");
+      // logo removed
+      console.log('logo removed');
+      // logo.setAttribute("src", "");
     } else {
-        logo.setAttribute("src", "./assets/img/branding/MVM-logo-full.svg");
+      // logo removed
+      console.log('logo removed');
+      // logo.setAttribute("src", "");
     }
     setTimeout(function() {
         sw.checked = nightShift ? true : false;
@@ -4801,12 +5252,12 @@ Regenerate as many times you want with no loss.</li>
 
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R8SZS2YBZK"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-R8SZS2YBZK');
+  gtag('config', '');
 </script>
   </body>
 </html>

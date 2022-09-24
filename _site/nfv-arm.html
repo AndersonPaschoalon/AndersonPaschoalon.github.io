@@ -34,8 +34,8 @@
     "logo": {
         "@type": "ImageObject",
         "encodingFormat": "image/png",
-        "contentUrl": "http://localhost:4000/assets/img/branding/MVM-symbol-black.png",
-        "url": "http://localhost:4000/assets/img/branding/MVM-symbol-black.png"},
+        "contentUrl": "http://localhost:4000/assets/img/icon/SEO-icon.png",
+        "url": "http://localhost:4000/assets/img/icon/SEO-icon.png"},
     "name" : "Anderson Paschoalon"}
 }
 </script>
@@ -50,7 +50,7 @@
 <meta property="article:published_time" content="2014-09-01 03:00:00 -0300" />
 <meta property="article:modified_time" content="2014-09-01 03:00:00 -0300" />
 <meta property="article:tag" content="NFV, SDN, Hipervisor, ARM, RISC" />
-<meta property="fb:admins" content="ar.maybach" />
+<meta property="fb:admins" content="" />
 <!-- Schema.org markup for Google -->
 <meta itemprop="name" content="(Portuguese) Review involving the feasibility of using NFV in conjunction with SDN on new generation ARM servers">
 <meta itemprop="description" content="">
@@ -124,10 +124,10 @@
 
 
 
-<link rel="icon" href="./assets/img/favicon/favicon.ico" type="image/x-icon">
-<link rel="apple-touch-icon" href="./assets/img/favicon/favicon.ico">
-<link rel="apple-touch-icon" sizes="72x72" href="./assets/img/favicon/favicon.ico">
-<link rel="apple-touch-icon" sizes="114x114" href="./assets/img/favicon/favicon.ico">
+<link rel="icon" href="./assets/img/icon/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="./assets/img/icon/favicon.ico">
+<link rel="apple-touch-icon" sizes="72x72" href="./assets/img/icon/favicon.ico">
+<link rel="apple-touch-icon" sizes="114x114" href="./assets/img/icon/favicon.ico">
 	
 	<link rel="stylesheet" href="./assets/css/highlighter/syntax-base16.monokai.dark.css">
 	
@@ -329,14 +329,15 @@
         <div class="card-body">
           <h3 class="card-title">Anderson Paschoalon</h3>
           <hr>
-          <p class="card-text"> C/C++/C# desktop and embedded-system developer, master and self-made researcher, machine learning enthusiast, and game modder.</p>
+          <p class="card-text"> C/C++/C# desktop and embedded-systems developer, master and self-made researcher, machine learning enthusiast, and game modder.</p>
         </div>
       </div>
 
       <!--
-      
-      
-      <div class="logo"><a href="./"><img class="logo" id="logo" src="./assets/img/branding/MVM-logo-full.svg" alt="Anderson Paschoalon"></a></div>
+      tags removed. Replace # by { to rowback
+      #% capture logo_url %}./#% endcapture %}
+      #% assign logo_url = logo_url | replace: "//", "/" %}
+      <div class="logo"><a href="./"><img class="logo" id="logo" src="" alt="Anderson Paschoalon"></a></div>
       -->
       <div class="search-icon-container">
         <span class="search-icon"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
@@ -421,12 +422,6 @@
 </aside>
 
         
-        <h1 id="revisão-envolvendo-a-viabilidade-da-utilização-de-nfv-em-conjunto-com-sdn-sobre-servidores-arm-de-nova-geração">Revisão envolvendo a viabilidade da utilização de NFV em conjunto com SDN sobre servidores ARM de nova geração</h1>
-
-<p><strong>Abstract</strong>: This work reviews the feasibility of using NFV (Network Function Virtualization) and SDN (Software Defined Networks) technologies together on an ARM hardware platform. A theoretical introduction is made on the subject, a brief exposition of the architecture of NFV and SDN technologies, as well as a study of motivations, requirements and challenges, with a main focus on NFV. SDN here is mainly seen as a possibility that the use of these technologies together can more easily lead to the fulfillment of requirements. An analysis is made of some results involving virtualized network functions and networks defined by software, which show important conclusions, such as the dimension of the added overheads, and points where the technologies can be optimized. The feasibility of using ARM processors as NFV servers is also discussed, when analyzing several recent results involving computational and energy performance compared to other x86 architectures. The analysis of performance results of virtualization on this platform was also performed. Finally, a line of ARMv8 processors launched in 2014 is briefly presented, which has great potential with new network technologies.</p>
-
-<p><strong>Resumo</strong>: Neste trabalho é feita uma revisão a respeito da viabilidade da utilização em conjunto das tecnologias NFV (Network Function Virtualization) e SDN(Software Defined Networks), sobre uma plataforma de hardware ARM. É feita uma introdução teórica sobre o assunto, uma exposição breve de como é a arquitetura das tecnologias NFV e SDN, bem como estudo das motivações, requisitos e desafios, com foco principal em NFV. SDN aqui é visto principalmente como uma possibilidade de que a utilização dessas tecnologias em conjunto, pode levar mais facilmente levar ao cumprimento de requisitos. É feita a análise de alguns resultados envolvendo funções de rede virtualizadas e redes definidas por softwares, que mostram conclusões importantes, como a dimensão dos overheads acrescentados, e pontos onde as tecnologias podem ser otimizadas. É também discutida a viabilidade da utilização de processadores ARM como servidores NFV, ao se analisarem diversos resultados recentes envolvendo desempenho computacional e energético dos mesmos comparados com outras arquiteturas x86. Foi também feita a análise de resultados de desempenho da virtualização sobre esta plataforma. Por fim é brevemente apresentado uma linha de processadores da arquitetura ARMv8 lançados em 2014, que tem grande potencial com novas tecnologias de rede.</p>
-
 
         
         
@@ -452,6 +447,17 @@
 
         
         
+        
+
+        <h1 id="revisão-envolvendo-a-viabilidade-da-utilização-de-nfv-em-conjunto-com-sdn-sobre-servidores-arm-de-nova-geração">Revisão envolvendo a viabilidade da utilização de NFV em conjunto com SDN sobre servidores ARM de nova geração</h1>
+
+<p><strong>Abstract</strong>: This work reviews the feasibility of using NFV (Network Function Virtualization) and SDN (Software Defined Networks) technologies together on an ARM hardware platform. A theoretical introduction is made on the subject, a brief exposition of the architecture of NFV and SDN technologies, as well as a study of motivations, requirements and challenges, with a main focus on NFV. SDN here is mainly seen as a possibility that the use of these technologies together can more easily lead to the fulfillment of requirements. An analysis is made of some results involving virtualized network functions and networks defined by software, which show important conclusions, such as the dimension of the added overheads, and points where the technologies can be optimized. The feasibility of using ARM processors as NFV servers is also discussed, when analyzing several recent results involving computational and energy performance compared to other x86 architectures. The analysis of performance results of virtualization on this platform was also performed. Finally, a line of ARMv8 processors launched in 2014 is briefly presented, which has great potential with new network technologies.</p>
+
+<p><strong>Resumo</strong>: Neste trabalho é feita uma revisão a respeito da viabilidade da utilização em conjunto das tecnologias NFV (Network Function Virtualization) e SDN(Software Defined Networks), sobre uma plataforma de hardware ARM. É feita uma introdução teórica sobre o assunto, uma exposição breve de como é a arquitetura das tecnologias NFV e SDN, bem como estudo das motivações, requisitos e desafios, com foco principal em NFV. SDN aqui é visto principalmente como uma possibilidade de que a utilização dessas tecnologias em conjunto, pode levar mais facilmente levar ao cumprimento de requisitos. É feita a análise de alguns resultados envolvendo funções de rede virtualizadas e redes definidas por softwares, que mostram conclusões importantes, como a dimensão dos overheads acrescentados, e pontos onde as tecnologias podem ser otimizadas. É também discutida a viabilidade da utilização de processadores ARM como servidores NFV, ao se analisarem diversos resultados recentes envolvendo desempenho computacional e energético dos mesmos comparados com outras arquiteturas x86. Foi também feita a análise de resultados de desempenho da virtualização sobre esta plataforma. Por fim é brevemente apresentado uma linha de processadores da arquitetura ARMv8 lançados em 2014, que tem grande potencial com novas tecnologias de rede.</p>
+
+
+
+
         <aside class="sidebar inline" id="post-end">
     
 
@@ -524,7 +530,7 @@
         </div>
 
         <div class="copyright">
-          <p>2022 &copy; Anderson Paschoalon</p>
+          <p>Sep, 2022 &copy; Anderson Paschoalon (beta-v1.1.0) </p>
         </div>
 
         <div class="footer-nav">
@@ -580,10 +586,13 @@
 
 <!-- JS -->
 
-
-
-
-
+<!--
+Logo removed. To rowback, replace # by {, so the tags will be enclosed
+#% capture logo_url %}./ #% endcapture %}
+#% assign logo_url = logo_url | replace: "//", "/" %}
+#% capture logo_url_dark %}./ #% endcapture %}
+#% assign logo_url_dark = logo_url_dark | replace: "//", "/" %}
+-->
 
 
 
@@ -591,7 +600,9 @@
 (function() {
     var sw = document.getElementById('theme-switch');
     var html = document.getElementsByTagName('html')[0];
-    var logo = document.getElementById('logo');
+    // logo removed
+    console.log('logo removed');
+    //var logo = document.getElementById('logo');
     var nightModeOption = ('auto' || 'auto').toLowerCase();
     var storage = nightModeOption === 'manual'
         ? localStorage
@@ -618,9 +629,13 @@
     saveThemeData(themeData);
     html.dataset.theme = nightShift ? 'dark' : 'light';
     if (nightShift) {
-        logo.setAttribute("src", "./assets/img/branding/MVM-logo-full-dark.svg");
+      // logo removed
+      console.log('logo removed');
+      // logo.setAttribute("src", "");
     } else {
-        logo.setAttribute("src", "./assets/img/branding/MVM-logo-full.svg");
+      // logo removed
+      console.log('logo removed');
+      // logo.setAttribute("src", "");
     }
     setTimeout(function() {
         sw.checked = nightShift ? true : false;
@@ -782,12 +797,12 @@
 
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R8SZS2YBZK"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-R8SZS2YBZK');
+  gtag('config', '');
 </script>
   </body>
 </html>

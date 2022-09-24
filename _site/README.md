@@ -9,3 +9,9 @@ I modified the original one to fit a good structure to display my projects, publ
 * Original Adam blog template by Artem Sheludko: [https://github.com/artemsheludko/adam-blog](https://github.com/artemsheludko/adam-blog)
 
 * Adam Blog 2.0 by Armando Maynez [https://github.com/the-mvm/the-mvm.github.io](https://github.com/the-mvm/the-mvm.github.io)
+
+## Working Branch
+
+```
+update/update_and_fixes_on_v1.0.0.0
+```

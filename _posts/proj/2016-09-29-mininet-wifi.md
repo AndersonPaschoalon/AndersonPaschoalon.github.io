@@ -24,7 +24,6 @@ has_release: true
 proj-group: open-source # research, open-source, game, tool 
 ---
 
-#  MininetWifi Contribuition
 
 This is a contrubution I made in 2016 for the testing and validation related with a [MininetWifi](https://github.com/ramonfontes/reproducible-research/tree/master/mininet-wifi) publication. 
 

@@ -34,8 +34,8 @@
     "logo": {
         "@type": "ImageObject",
         "encodingFormat": "image/png",
-        "contentUrl": "http://localhost:4000/assets/img/branding/MVM-symbol-black.png",
-        "url": "http://localhost:4000/assets/img/branding/MVM-symbol-black.png"},
+        "contentUrl": "http://localhost:4000/assets/img/icon/SEO-icon.png",
+        "url": "http://localhost:4000/assets/img/icon/SEO-icon.png"},
     "name" : "Anderson Paschoalon"}
 }
 </script>
@@ -50,7 +50,7 @@
 <meta property="article:published_time" content="2022-01-25 03:00:00 -0300" />
 <meta property="article:modified_time" content="2022-01-25 03:00:00 -0300" />
 <meta property="article:tag" content="Skyrim, Mod, Desktop, CSharp" />
-<meta property="fb:admins" content="ar.maybach" />
+<meta property="fb:admins" content="" />
 <!-- Schema.org markup for Google -->
 <meta itemprop="name" content="Spear">
 <meta itemprop="description" content="Mod organizer for Git Versioning">
@@ -124,10 +124,10 @@
 
 
 
-<link rel="icon" href="./assets/img/favicon/favicon.ico" type="image/x-icon">
-<link rel="apple-touch-icon" href="./assets/img/favicon/favicon.ico">
-<link rel="apple-touch-icon" sizes="72x72" href="./assets/img/favicon/favicon.ico">
-<link rel="apple-touch-icon" sizes="114x114" href="./assets/img/favicon/favicon.ico">
+<link rel="icon" href="./assets/img/icon/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="./assets/img/icon/favicon.ico">
+<link rel="apple-touch-icon" sizes="72x72" href="./assets/img/icon/favicon.ico">
+<link rel="apple-touch-icon" sizes="114x114" href="./assets/img/icon/favicon.ico">
 	
 	<link rel="stylesheet" href="./assets/css/highlighter/syntax-base16.monokai.dark.css">
 	
@@ -329,14 +329,15 @@
         <div class="card-body">
           <h3 class="card-title">Anderson Paschoalon</h3>
           <hr>
-          <p class="card-text"> C/C++/C# desktop and embedded-system developer, master and self-made researcher, machine learning enthusiast, and game modder.</p>
+          <p class="card-text"> C/C++/C# desktop and embedded-systems developer, master and self-made researcher, machine learning enthusiast, and game modder.</p>
         </div>
       </div>
 
       <!--
-      
-      
-      <div class="logo"><a href="./"><img class="logo" id="logo" src="./assets/img/branding/MVM-logo-full.svg" alt="Anderson Paschoalon"></a></div>
+      tags removed. Replace # by { to rowback
+      #% capture logo_url %}./#% endcapture %}
+      #% assign logo_url = logo_url | replace: "//", "/" %}
+      <div class="logo"><a href="./"><img class="logo" id="logo" src="" alt="Anderson Paschoalon"></a></div>
       -->
       <div class="search-icon-container">
         <span class="search-icon"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
@@ -419,6 +420,21 @@
 </aside>
 
         
+
+        
+        
+        
+<div class="center-container">
+  <div class="github-button">
+    <span class="button-icon" aria-hidden="true">
+      <svg aria-hidden="true" focusable="false" role="img" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2.2467A10.00042,10.00042,0,0,0,8.83752,21.73419c.5.08752.6875-.21247.6875-.475,0-.23749-.01251-1.025-.01251-1.86249C7,19.85919,6.35,18.78423,6.15,18.22173A3.636,3.636,0,0,0,5.125,16.8092c-.35-.1875-.85-.65-.01251-.66248A2.00117,2.00117,0,0,1,6.65,17.17169a2.13742,2.13742,0,0,0,2.91248.825A2.10376,2.10376,0,0,1,10.2,16.65923c-2.225-.25-4.55-1.11254-4.55-4.9375a3.89187,3.89187,0,0,1,1.025-2.6875,3.59373,3.59373,0,0,1,.1-2.65s.83747-.26251,2.75,1.025a9.42747,9.42747,0,0,1,5,0c1.91248-1.3,2.75-1.025,2.75-1.025a3.59323,3.59323,0,0,1,.1,2.65,3.869,3.869,0,0,1,1.025,2.6875c0,3.83747-2.33752,4.6875-4.5625,4.9375a2.36814,2.36814,0,0,1,.675,1.85c0,1.33752-.01251,2.41248-.01251,2.75,0,.26251.1875.575.6875.475A10.0053,10.0053,0,0,0,12,2.2467Z"/></svg></span>
+    <a class="button-text" href="https://github.com/AndersonPaschoalon/SkyrimSteamProfileManager" target="_blank" aria-label="Open on GitHub"><b> | GitHub Repository</b></a>
+  </div>
+</div>
+
+        
+        
+
         <h1 id="spear-mod-organizer-for-git-versioning">Spear: Mod Organizer for Git Versioning</h1>
 
 <p>MoForGit is a tool that allows you create a Git repository using a Mod Organizer Tools.</p>
@@ -433,18 +449,8 @@
 </ul>
 
 
-        
-        
-        
-<div class="center-container">
-  <div class="github-button">
-    <span class="button-icon" aria-hidden="true">
-      <svg aria-hidden="true" focusable="false" role="img" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2.2467A10.00042,10.00042,0,0,0,8.83752,21.73419c.5.08752.6875-.21247.6875-.475,0-.23749-.01251-1.025-.01251-1.86249C7,19.85919,6.35,18.78423,6.15,18.22173A3.636,3.636,0,0,0,5.125,16.8092c-.35-.1875-.85-.65-.01251-.66248A2.00117,2.00117,0,0,1,6.65,17.17169a2.13742,2.13742,0,0,0,2.91248.825A2.10376,2.10376,0,0,1,10.2,16.65923c-2.225-.25-4.55-1.11254-4.55-4.9375a3.89187,3.89187,0,0,1,1.025-2.6875,3.59373,3.59373,0,0,1,.1-2.65s.83747-.26251,2.75,1.025a9.42747,9.42747,0,0,1,5,0c1.91248-1.3,2.75-1.025,2.75-1.025a3.59323,3.59323,0,0,1,.1,2.65,3.869,3.869,0,0,1,1.025,2.6875c0,3.83747-2.33752,4.6875-4.5625,4.9375a2.36814,2.36814,0,0,1,.675,1.85c0,1.33752-.01251,2.41248-.01251,2.75,0,.26251.1875.575.6875.475A10.0053,10.0053,0,0,0,12,2.2467Z"/></svg></span>
-    <a class="button-text" href="https://github.com/AndersonPaschoalon/SkyrimSteamProfileManager" target="_blank" aria-label="Open on GitHub"><b> | GitHub Repository</b></a>
-  </div>
-</div>
 
-        
+
         <aside class="sidebar inline" id="post-end">
     
 
@@ -515,7 +521,7 @@
         </div>
 
         <div class="copyright">
-          <p>2022 &copy; Anderson Paschoalon</p>
+          <p>Sep, 2022 &copy; Anderson Paschoalon (beta-v1.1.0) </p>
         </div>
 
         <div class="footer-nav">
@@ -571,10 +577,13 @@
 
 <!-- JS -->
 
-
-
-
-
+<!--
+Logo removed. To rowback, replace # by {, so the tags will be enclosed
+#% capture logo_url %}./ #% endcapture %}
+#% assign logo_url = logo_url | replace: "//", "/" %}
+#% capture logo_url_dark %}./ #% endcapture %}
+#% assign logo_url_dark = logo_url_dark | replace: "//", "/" %}
+-->
 
 
 
@@ -582,7 +591,9 @@
 (function() {
     var sw = document.getElementById('theme-switch');
     var html = document.getElementsByTagName('html')[0];
-    var logo = document.getElementById('logo');
+    // logo removed
+    console.log('logo removed');
+    //var logo = document.getElementById('logo');
     var nightModeOption = ('auto' || 'auto').toLowerCase();
     var storage = nightModeOption === 'manual'
         ? localStorage
@@ -609,9 +620,13 @@
     saveThemeData(themeData);
     html.dataset.theme = nightShift ? 'dark' : 'light';
     if (nightShift) {
-        logo.setAttribute("src", "./assets/img/branding/MVM-logo-full-dark.svg");
+      // logo removed
+      console.log('logo removed');
+      // logo.setAttribute("src", "");
     } else {
-        logo.setAttribute("src", "./assets/img/branding/MVM-logo-full.svg");
+      // logo removed
+      console.log('logo removed');
+      // logo.setAttribute("src", "");
     }
     setTimeout(function() {
         sw.checked = nightShift ? true : false;
@@ -760,12 +775,12 @@
 
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R8SZS2YBZK"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-R8SZS2YBZK');
+  gtag('config', '');
 </script>
   </body>
 </html>

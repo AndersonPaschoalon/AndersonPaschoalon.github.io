@@ -34,8 +34,8 @@
     "logo": {
         "@type": "ImageObject",
         "encodingFormat": "image/png",
-        "contentUrl": "http://localhost:4000/assets/img/branding/MVM-symbol-black.png",
-        "url": "http://localhost:4000/assets/img/branding/MVM-symbol-black.png"},
+        "contentUrl": "http://localhost:4000/assets/img/icon/SEO-icon.png",
+        "url": "http://localhost:4000/assets/img/icon/SEO-icon.png"},
     "name" : "Anderson Paschoalon"}
 }
 </script>
@@ -50,7 +50,7 @@
 <meta property="article:published_time" content="2022-06-01 03:00:00 -0300" />
 <meta property="article:modified_time" content="2022-06-01 03:00:00 -0300" />
 <meta property="article:tag" content="Skyrim, Mod, Desktop, Python" />
-<meta property="fb:admins" content="ar.maybach" />
+<meta property="fb:admins" content="" />
 <!-- Schema.org markup for Google -->
 <meta itemprop="name" content="Quest Dialog Manager">
 <meta itemprop="description" content="Computer Program Registration Certificate.">
@@ -124,10 +124,10 @@
 
 
 
-<link rel="icon" href="./assets/img/favicon/favicon.ico" type="image/x-icon">
-<link rel="apple-touch-icon" href="./assets/img/favicon/favicon.ico">
-<link rel="apple-touch-icon" sizes="72x72" href="./assets/img/favicon/favicon.ico">
-<link rel="apple-touch-icon" sizes="114x114" href="./assets/img/favicon/favicon.ico">
+<link rel="icon" href="./assets/img/icon/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="./assets/img/icon/favicon.ico">
+<link rel="apple-touch-icon" sizes="72x72" href="./assets/img/icon/favicon.ico">
+<link rel="apple-touch-icon" sizes="114x114" href="./assets/img/icon/favicon.ico">
 	
 	<link rel="stylesheet" href="./assets/css/highlighter/syntax-base16.monokai.dark.css">
 	
@@ -329,14 +329,15 @@
         <div class="card-body">
           <h3 class="card-title">Anderson Paschoalon</h3>
           <hr>
-          <p class="card-text"> C/C++/C# desktop and embedded-system developer, master and self-made researcher, machine learning enthusiast, and game modder.</p>
+          <p class="card-text"> C/C++/C# desktop and embedded-systems developer, master and self-made researcher, machine learning enthusiast, and game modder.</p>
         </div>
       </div>
 
       <!--
-      
-      
-      <div class="logo"><a href="./"><img class="logo" id="logo" src="./assets/img/branding/MVM-logo-full.svg" alt="Anderson Paschoalon"></a></div>
+      tags removed. Replace # by { to rowback
+      #% capture logo_url %}./#% endcapture %}
+      #% assign logo_url = logo_url | replace: "//", "/" %}
+      <div class="logo"><a href="./"><img class="logo" id="logo" src="" alt="Anderson Paschoalon"></a></div>
       -->
       <div class="search-icon-container">
         <span class="search-icon"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
@@ -419,18 +420,6 @@
 </aside>
 
         
-        <h1 id="quest-dialog-manager">Quest Dialog Manager</h1>
-
-<p>CK QuestDialogManages is a tool to help manage your quest mod:</p>
-<ul>
-  <li>Allows the conversion and generation of many audio
-files formats (wav, xwm, fuz)</li>
-  <li>Allow you easily manage the audios from you mod: listen
-to audios, manage file names,and check subtitles;</li>
-  <li>Generate beautifull and comprehensive documentation;</li>
-  <li>Reusable Comments and anotations for your documentation.
-Regenerate as many times you want with no loss.</li>
-</ul>
 
         
         
@@ -444,6 +433,23 @@ Regenerate as many times you want with no loss.</li>
 </div>
 
         
+        
+
+        <h1 id="quest-dialog-manager">Quest Dialog Manager</h1>
+
+<p>CK QuestDialogManages is a tool to help manage your quest mod:</p>
+<ul>
+  <li>Allows the conversion and generation of many audio
+files formats (wav, xwm, fuz)</li>
+  <li>Allow you easily manage the audios from you mod: listen
+to audios, manage file names,and check subtitles;</li>
+  <li>Generate beautifull and comprehensive documentation;</li>
+  <li>Reusable Comments and anotations for your documentation.
+Regenerate as many times you want with no loss.</li>
+</ul>
+
+
+
         <aside class="sidebar inline" id="post-end">
     
 
@@ -514,7 +520,7 @@ Regenerate as many times you want with no loss.</li>
         </div>
 
         <div class="copyright">
-          <p>2022 &copy; Anderson Paschoalon</p>
+          <p>Sep, 2022 &copy; Anderson Paschoalon (beta-v1.1.0) </p>
         </div>
 
         <div class="footer-nav">
@@ -570,10 +576,13 @@ Regenerate as many times you want with no loss.</li>
 
 <!-- JS -->
 
-
-
-
-
+<!--
+Logo removed. To rowback, replace # by {, so the tags will be enclosed
+#% capture logo_url %}./ #% endcapture %}
+#% assign logo_url = logo_url | replace: "//", "/" %}
+#% capture logo_url_dark %}./ #% endcapture %}
+#% assign logo_url_dark = logo_url_dark | replace: "//", "/" %}
+-->
 
 
 
@@ -581,7 +590,9 @@ Regenerate as many times you want with no loss.</li>
 (function() {
     var sw = document.getElementById('theme-switch');
     var html = document.getElementsByTagName('html')[0];
-    var logo = document.getElementById('logo');
+    // logo removed
+    console.log('logo removed');
+    //var logo = document.getElementById('logo');
     var nightModeOption = ('auto' || 'auto').toLowerCase();
     var storage = nightModeOption === 'manual'
         ? localStorage
@@ -608,9 +619,13 @@ Regenerate as many times you want with no loss.</li>
     saveThemeData(themeData);
     html.dataset.theme = nightShift ? 'dark' : 'light';
     if (nightShift) {
-        logo.setAttribute("src", "./assets/img/branding/MVM-logo-full-dark.svg");
+      // logo removed
+      console.log('logo removed');
+      // logo.setAttribute("src", "");
     } else {
-        logo.setAttribute("src", "./assets/img/branding/MVM-logo-full.svg");
+      // logo removed
+      console.log('logo removed');
+      // logo.setAttribute("src", "");
     }
     setTimeout(function() {
         sw.checked = nightShift ? true : false;
@@ -759,12 +774,12 @@ Regenerate as many times you want with no loss.</li>
 
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R8SZS2YBZK"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-R8SZS2YBZK');
+  gtag('config', '');
 </script>
   </body>
 </html>

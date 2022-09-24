@@ -25,7 +25,6 @@ proj-group:
 
 ---
 
-# Using BIC and AIC for Ethernet traffic model selection. Is it worth?
 
 **Abstract**: In this work, we aim to evaluate how good are the information criteria AIC and BIC inferring which
 is the best stochastic process to describe Ethernet inter-packet times. Also, we check if there is a practical difference
