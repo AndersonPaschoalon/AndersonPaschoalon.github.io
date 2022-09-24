@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-23T09:43:03-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Anderson Paschoalon</title><subtitle>A front-end for my academic formation, projects, and some more stuff.</subtitle><author><name>Anderson Paschoalon</name></author><entry><title type="html">Dawn of the Silver Hands – Join the Silver Hands!</title><link href="http://localhost:4000/dsilhand.html" rel="alternate" type="text/html" title="Dawn of the Silver Hands – Join the Silver Hands!" /><published>2022-07-01T03:00:00-03:00</published><updated>2022-07-01T03:00:00-03:00</updated><id>http://localhost:4000/dsilhand</id><content type="html" xml:base="http://localhost:4000/dsilhand.html"><![CDATA[<p align="center">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-24T16:00:14-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Anderson Paschoalon</title><subtitle>A front-end for my academic formation, projects, and some more stuff.</subtitle><author><name>Anderson Paschoalon</name></author><entry><title type="html">Dawn of the Silver Hands – Join the Silver Hands!</title><link href="http://localhost:4000/dsilhand.html" rel="alternate" type="text/html" title="Dawn of the Silver Hands – Join the Silver Hands!" /><published>2022-07-01T03:00:00-03:00</published><updated>2022-07-01T03:00:00-03:00</updated><id>http://localhost:4000/dsilhand</id><content type="html" xml:base="http://localhost:4000/dsilhand.html"><![CDATA[<p align="center">
 	<img src="./assets/img/posts/dsilhand/DSilhandLogo.jpg" width="600" />
 </p>
 
@@ -173,7 +173,19 @@ Regenerate as many times you want with no loss.</li>
   pages={56-59},
   doi={10.1109/LNET.2019.2905364}}</p>
   </blockquote>
-</blockquote>]]></content><author><name>Anderson Paschoalon</name></author><category term="Swing" /><category term="Traffic Generator" /><category term="Traffic Modelling" /><category term="Wavelet" /><summary type="html"><![CDATA[Swing - Realistic and Responsive Network Traffic Generation]]></summary></entry><entry><title type="html">NexusPackager App</title><link href="http://localhost:4000/nexus-packager-app.html" rel="alternate" type="text/html" title="NexusPackager App" /><published>2022-05-27T03:00:00-03:00</published><updated>2022-05-27T03:00:00-03:00</updated><id>http://localhost:4000/nexus-packager-app</id><content type="html" xml:base="http://localhost:4000/nexus-packager-app.html"><![CDATA[<p>Just a simple command line app to convert Markdown files into different formats.</p>
+</blockquote>]]></content><author><name>Anderson Paschoalon</name></author><category term="Swing" /><category term="Traffic Generator" /><category term="Traffic Modelling" /><category term="Wavelet" /><summary type="html"><![CDATA[Swing - Realistic and Responsive Network Traffic Generation]]></summary></entry><entry><title type="html">NexusPackager App</title><link href="http://localhost:4000/nexus-packager-app.html" rel="alternate" type="text/html" title="NexusPackager App" /><published>2022-05-27T03:00:00-03:00</published><updated>2022-05-27T03:00:00-03:00</updated><id>http://localhost:4000/nexus-packager-app</id><content type="html" xml:base="http://localhost:4000/nexus-packager-app.html"><![CDATA[<h1 id="nexus-build-app">Nexus Build App</h1>
+
+<p>Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.</p>
+
+<p>I create this app because I wanted a flexible and simple tool to package both my Skyrim and Age of Mythology mods.</p>
+
+<p>This application:</p>
+
+<ul>
+  <li>Package files defined by rules into a ZIP, and preserve its original directory structure;</li>
+  <li>Scriptable rules, write once, so you will never forget any files;</li>
+  <li>Creates an uninstall script.</li>
+</ul>]]></content><author><name>Anderson Paschoalon</name></author><category term="Markdown" /><category term="HTML" /><category term="Bootstrap" /><category term="Python" /><category term="Docx" /><category term="Pdf" /><category term="Txt" /><category term="Md" /><summary type="html"><![CDATA[Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.]]></summary></entry><entry><title type="html">MdConv</title><link href="http://localhost:4000/mdconv.html" rel="alternate" type="text/html" title="MdConv" /><published>2022-05-27T03:00:00-03:00</published><updated>2022-05-27T03:00:00-03:00</updated><id>http://localhost:4000/mdconv</id><content type="html" xml:base="http://localhost:4000/mdconv.html"><![CDATA[<p>Just a simple command line app to convert Markdown files into different formats.</p>
 <ul>
   <li>HTML</li>
   <li>DOCX</li>
@@ -209,59 +221,6 @@ Regenerate as many times you want with no loss.</li>
         -v, --version:
             Prints application version
 </code></pre></div></div>
-
-<p>In the script <code class="language-plaintext highlighter-rouge">tests\run-tests.py</code> there is a python scripts some examples. of usage can be found.</p>
-
-<h2 id="credits">Credits</h2>
-
-<ul>
-  <li>
-    <p>Application developed by Anderson Paschoalon</p>
-  </li>
-  <li>
-    <p>Python packages used can be found at <a href="requirements.txt">requirements.txt</a></p>
-  </li>
-  <li>
-    <p>App icon downloaded at https://icon-icons.com/pt/icone/markdown-aqui-logo/169967</p>
-  </li>
-</ul>]]></content><author><name>Anderson Paschoalon</name></author><category term="Markdown" /><category term="HTML" /><category term="Bootstrap" /><category term="Python" /><category term="Docx" /><category term="Pdf" /><category term="Txt" /><category term="Md" /><summary type="html"><![CDATA[todo]]></summary></entry><entry><title type="html">MdConv</title><link href="http://localhost:4000/mdconv.html" rel="alternate" type="text/html" title="MdConv" /><published>2022-05-27T03:00:00-03:00</published><updated>2022-05-27T03:00:00-03:00</updated><id>http://localhost:4000/mdconv</id><content type="html" xml:base="http://localhost:4000/mdconv.html"><![CDATA[<p>Just a simple command line app to convert Markdown files into different formats.</p>
-<ul>
-  <li>HTML</li>
-  <li>DOCX</li>
-  <li>PDF</li>
-  <li>TXT</li>
-</ul>
-
-<p>If you type <code class="language-plaintext highlighter-rouge">mdconv.exe --help</code> you can read its usage manual:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    NAME
-        MdConv.exe - an app to convert md files into different formats.
-
-    USAGE
-        mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt;
-        mdconv.exe --md &lt;markdown-file&gt; --title &lt;html-title&gt; --output &lt;output-format&gt;
-        mdconv.exe --help
-        mdconv.exe --version
-        mdconv.exe --license
-
-    OPTIONS
-        -m &lt;md-file&gt;, --md=&lt;md-file&gt;
-            Path to the Markdonw file to be converted into the specified format.
-            Default format is HTML.
-        -t &lt;title&gt;, --title=&lt;html-title&gt;
-            Option required for HTML format. Represents the title of the page.
-        -o &lt;output-file-format&gt;, --output=&lt;output-file-format&gt;
-            Output file format. If it is not specified, or an invalid format is used, HTML is assumed.
-            Valid formats: html, docx, pdf, txt
-        -h, --help
-            Prints this help manual.
-        -l, --license:
-            Prints application license.
-        -v, --version:
-            Prints application version
-</code></pre></div></div>
-
-<p>In the script <code class="language-plaintext highlighter-rouge">tests\run-tests.py</code> there is a python scripts some examples. of usage can be found.</p>
 
 <h2 id="credits">Credits</h2>
 

@@ -4,12 +4,12 @@ read_time: false
 show_date: true
 title:  NexusPackager App
 date:   2022-05-27 0:00:00 -0600
-description: todo
-img: posts/md/markdown_here_vlarge2.png
+description: Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.
+img: posts/nxpkg/logofulllarge.png
 tags: [Markdown, HTML, Bootstrap, Python, Docx, Pdf, Txt, Md]
 author: Anderson Paschoalon
 # Links
-github: https://github.com/AndersonPaschoalon/MdConv
+github: https://github.com/AndersonPaschoalon/NexusPackagerApp
 publication: 
 pdf: 
 external:
@@ -24,50 +24,19 @@ has_release: true
 proj-group: tool # research, open-source, game, tool 
 ---
 
+# Nexus Build App
 
-Just a simple command line app to convert Markdown files into different formats.
-* HTML
-* DOCX
-* PDF
-* TXT
+Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.
 
-If you type `mdconv.exe --help` you can read its usage manual:
+I create this app because I wanted a flexible and simple tool to package both my Skyrim and Age of Mythology mods.
 
-```
-    NAME
-        MdConv.exe - an app to convert md files into different formats.
+This application:
 
-    USAGE
-        mdconv.exe --md <markdown-file> --title <html-title>
-        mdconv.exe --md <markdown-file> --title <html-title> --output <output-format>
-        mdconv.exe --help
-        mdconv.exe --version
-        mdconv.exe --license
-
-    OPTIONS
-        -m <md-file>, --md=<md-file>
-            Path to the Markdonw file to be converted into the specified format.
-            Default format is HTML.
-        -t <title>, --title=<html-title>
-            Option required for HTML format. Represents the title of the page.
-        -o <output-file-format>, --output=<output-file-format>
-            Output file format. If it is not specified, or an invalid format is used, HTML is assumed.
-            Valid formats: html, docx, pdf, txt
-        -h, --help
-            Prints this help manual.
-        -l, --license:
-            Prints application license.
-        -v, --version:
-            Prints application version
-```
-
-In the script `tests\run-tests.py` there is a python scripts some examples. of usage can be found.
+* Package files defined by rules into a ZIP, and preserve its original directory structure;
+* Scriptable rules, write once, so you will never forget any files;
+* Creates an uninstall script. 
 
 
-## Credits
 
-* Application developed by Anderson Paschoalon
 
-* Python packages used can be found at [requirements.txt](requirements.txt)
 
-* App icon downloaded at https://icon-icons.com/pt/icone/markdown-aqui-logo/169967

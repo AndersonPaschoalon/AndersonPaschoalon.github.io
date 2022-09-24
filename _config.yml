@@ -27,7 +27,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # HEADER INFORMATION
 ###############################################################################
 header-title: Anderson Paschoalon
-header-description: C/C++/C# desktop and embedded-system developer, master and self-made researcher, machine learning enthusiast, and game modder.
+header-description: C/C++/C# desktop and embedded-systems developer, master and self-made researcher, machine learning enthusiast, and game modder.
 
 ###############################################################################
 # Assets Paths

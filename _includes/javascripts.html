@@ -3,10 +3,13 @@
 
 <!-- JS -->
 
-{% capture logo_url %}{{ relativebase }}{{ site.logo  }}{% endcapture %}
-{% assign logo_url = logo_url | replace: "//", "/" %}
-{% capture logo_url_dark %}{{ relativebase }}{{ site.logo-dark  }}{% endcapture %}
-{% assign logo_url_dark = logo_url_dark | replace: "//", "/" %}
+<!--
+Logo removed. To rowback, replace # by {, so the tags will be enclosed
+#% capture logo_url %}{{ relativebase }}{{ site.logo  }} #% endcapture %}
+#% assign logo_url = logo_url | replace: "//", "/" %}
+#% capture logo_url_dark %}{{ relativebase }}{{ site.logo-dark  }} #% endcapture %}
+#% assign logo_url_dark = logo_url_dark | replace: "//", "/" %}
+-->
 {% assign name = 'night_mode' %}
 {% assign night_mode = site.night_mode %}
 
@@ -14,7 +17,9 @@
 (function() {
     var sw = document.getElementById('theme-switch');
     var html = document.getElementsByTagName('html')[0];
-    var logo = document.getElementById('logo');
+    // logo removed
+    console.log('logo removed');
+    //var logo = document.getElementById('logo');
     var nightModeOption = ('{{ night_mode }}' || 'auto').toLowerCase();
     var storage = nightModeOption === 'manual'
         ? localStorage
@@ -41,9 +46,13 @@
     saveThemeData(themeData);
     html.dataset.theme = nightShift ? 'dark' : 'light';
     if (nightShift) {
-        logo.setAttribute("src", "{{ logo_url_dark }}");
+      // logo removed
+      console.log('logo removed');
+      // logo.setAttribute("src", "{{ logo_url_dark }}");
     } else {
-        logo.setAttribute("src", "{{ logo_url }}");
+      // logo removed
+      console.log('logo removed');
+      // logo.setAttribute("src", "{{ logo_url }}");
     }
     setTimeout(function() {
         sw.checked = nightShift ? true : false;

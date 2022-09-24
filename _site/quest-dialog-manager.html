@@ -575,10 +575,13 @@ Regenerate as many times you want with no loss.</li>
 
 <!-- JS -->
 
-
-
-
-
+<!--
+Logo removed. To rowback, replace # by {, so the tags will be enclosed
+#% capture logo_url %}.//assets/img/branding/MVM-logo-full.svg #% endcapture %}
+#% assign logo_url = logo_url | replace: "//", "/" %}
+#% capture logo_url_dark %}.//assets/img/branding/MVM-logo-full-dark.svg #% endcapture %}
+#% assign logo_url_dark = logo_url_dark | replace: "//", "/" %}
+-->
 
 
 
@@ -586,7 +589,9 @@ Regenerate as many times you want with no loss.</li>
 (function() {
     var sw = document.getElementById('theme-switch');
     var html = document.getElementsByTagName('html')[0];
-    var logo = document.getElementById('logo');
+    // logo removed
+    console.log('logo removed');
+    //var logo = document.getElementById('logo');
     var nightModeOption = ('auto' || 'auto').toLowerCase();
     var storage = nightModeOption === 'manual'
         ? localStorage
@@ -613,9 +618,13 @@ Regenerate as many times you want with no loss.</li>
     saveThemeData(themeData);
     html.dataset.theme = nightShift ? 'dark' : 'light';
     if (nightShift) {
-        logo.setAttribute("src", "./assets/img/branding/MVM-logo-full-dark.svg");
+      // logo removed
+      console.log('logo removed');
+      // logo.setAttribute("src", "");
     } else {
-        logo.setAttribute("src", "./assets/img/branding/MVM-logo-full.svg");
+      // logo removed
+      console.log('logo removed');
+      // logo.setAttribute("src", "");
     }
     setTimeout(function() {
         sw.checked = nightShift ? true : false;
