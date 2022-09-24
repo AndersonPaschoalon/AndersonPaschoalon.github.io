@@ -73,7 +73,6 @@ wp-content/plugins/hello.php
 *.DS_Store
 .AppleDouble
 .LSOverride
-Icon
 ._*
 .DocumentRevisions-V100
 .fseventsd
