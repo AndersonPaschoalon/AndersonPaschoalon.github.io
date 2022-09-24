@@ -6,9 +6,12 @@ description: 'A front-end for my academic formation, projects, and some more stu
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://andersonpaschoalon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/MVM-logo-full.svg"
-logo-icon: "/assets/img/branding/MVM-symbol.svg"
-logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
+# logo removed
+# logo: "/assets/img/branding/MVM-logo-full.svg"
+# logo removed
+# logo-icon: "/assets/img/branding/MVM-symbol.svg"
+# logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
+logo-icon-SEO: "/assets/img/icon/SEO-icon.png" # must be a non SVG file
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
 # (19:00 - 07:00), "manual" is for manual toggle, and
@@ -20,8 +23,10 @@ logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG f
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 night_mode: "auto"
-logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
+# logo dark removed
+# logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
+version: "beta-v1.1.0"
 
 ###############################################################################
 # HEADER INFORMATION
@@ -32,14 +37,13 @@ header-description: C/C++/C# desktop and embedded-systems developer, master and 
 ###############################################################################
 # Assets Paths
 ###############################################################################
-path-icon:  /assets/img/icons/
+path-icon:  /assets/img/icon/
 path-photos: /assets/img/photos/
 path-posts: /assets/img/posts/
 path-pages: /assets/img/pages/
 path-globals: /assets/img/globals/
 path-pdf: /assets/pdf/
 
-# ??
 # Author settings
 author: Anderson Paschoalon # add your name
 

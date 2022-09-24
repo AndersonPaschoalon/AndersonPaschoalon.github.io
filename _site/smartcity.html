@@ -34,8 +34,8 @@
     "logo": {
         "@type": "ImageObject",
         "encodingFormat": "image/png",
-        "contentUrl": "http://localhost:4000/assets/img/branding/MVM-symbol-black.png",
-        "url": "http://localhost:4000/assets/img/branding/MVM-symbol-black.png"},
+        "contentUrl": "http://localhost:4000/assets/img/icon/SEO-icon.png",
+        "url": "http://localhost:4000/assets/img/icon/SEO-icon.png"},
     "name" : "Anderson Paschoalon"}
 }
 </script>
@@ -124,10 +124,10 @@
 
 
 
-<link rel="icon" href="./assets/img/favicon/favicon.ico" type="image/x-icon">
-<link rel="apple-touch-icon" href="./assets/img/favicon/favicon.ico">
-<link rel="apple-touch-icon" sizes="72x72" href="./assets/img/favicon/favicon.ico">
-<link rel="apple-touch-icon" sizes="114x114" href="./assets/img/favicon/favicon.ico">
+<link rel="icon" href="./assets/img/icon/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="./assets/img/icon/favicon.ico">
+<link rel="apple-touch-icon" sizes="72x72" href="./assets/img/icon/favicon.ico">
+<link rel="apple-touch-icon" sizes="114x114" href="./assets/img/icon/favicon.ico">
 	
 	<link rel="stylesheet" href="./assets/css/highlighter/syntax-base16.monokai.dark.css">
 	
@@ -329,14 +329,15 @@
         <div class="card-body">
           <h3 class="card-title">Anderson Paschoalon</h3>
           <hr>
-          <p class="card-text"> C/C++/C# desktop and embedded-system developer, master and self-made researcher, machine learning enthusiast, and game modder.</p>
+          <p class="card-text"> C/C++/C# desktop and embedded-systems developer, master and self-made researcher, machine learning enthusiast, and game modder.</p>
         </div>
       </div>
 
       <!--
-      
-      
-      <div class="logo"><a href="./"><img class="logo" id="logo" src="./assets/img/branding/MVM-logo-full.svg" alt="Anderson Paschoalon"></a></div>
+      tags removed. Replace # by { to rowback
+      #% capture logo_url %}./#% endcapture %}
+      #% assign logo_url = logo_url | replace: "//", "/" %}
+      <div class="logo"><a href="./"><img class="logo" id="logo" src="" alt="Anderson Paschoalon"></a></div>
       -->
       <div class="search-icon-container">
         <span class="search-icon"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
@@ -542,7 +543,7 @@
         </div>
 
         <div class="copyright">
-          <p>2022 &copy; Anderson Paschoalon</p>
+          <p>Sep, 2022 &copy; Anderson Paschoalon (beta-v1.1.0) </p>
         </div>
 
         <div class="footer-nav">
@@ -600,9 +601,9 @@
 
 <!--
 Logo removed. To rowback, replace # by {, so the tags will be enclosed
-#% capture logo_url %}.//assets/img/branding/MVM-logo-full.svg #% endcapture %}
+#% capture logo_url %}./ #% endcapture %}
 #% assign logo_url = logo_url | replace: "//", "/" %}
-#% capture logo_url_dark %}.//assets/img/branding/MVM-logo-full-dark.svg #% endcapture %}
+#% capture logo_url_dark %}./ #% endcapture %}
 #% assign logo_url_dark = logo_url_dark | replace: "//", "/" %}
 -->
 

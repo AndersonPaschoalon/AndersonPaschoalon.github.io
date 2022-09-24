@@ -1,0 +1,3 @@
+Backup from folder:
+
+\assets\img\branding
