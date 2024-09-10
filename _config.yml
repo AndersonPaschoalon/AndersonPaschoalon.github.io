@@ -28,13 +28,13 @@ night_mode: "auto"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 # alpha (not stable), beta (stable, has known small bugs), none (no known bugs)
 # Major update (technology/website structure) | Update (post, small changes) | Hotfix 
-version: "beta-v1.1.2"
+version: "beta-v1.2"
 
 ###############################################################################
 # HEADER INFORMATION
 ###############################################################################
 header-title: Anderson Paschoalon
-header-description: C/C++/C# desktop and embedded-systems developer, master and self-made researcher, machine learning enthusiast, and game modder.
+header-description: Experienced software developer specializing in C/C++, embedded systems, and desktop applications. Master's degree holder and researcher with a focus on network technologies. Enthusiast Deep Learning and Game Modding.
 
 ###############################################################################
 # Assets Paths
