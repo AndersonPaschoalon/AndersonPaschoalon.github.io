@@ -6,7 +6,7 @@ title: (Portuguese) Smart Cities & Big Data - Big Data Technologies as Enablers 
 date:   2015-10-01 00:00:00 -0600
 description: 
 img: posts/blog/smart-city.gif
-tags: [Big Data, Smart Cities, machine learning, data mining, NoSQL, Hadoop, middleware, Civitas]
+tags: [big data, smart cities, machine learning, data mining]
 author: Anderson Paschoalon
 # Links
 github: 

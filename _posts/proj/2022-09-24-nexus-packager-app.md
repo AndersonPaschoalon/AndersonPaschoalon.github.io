@@ -6,7 +6,7 @@ title:  NexusPackager App
 date:   2022-09-24 0:00:00 -0600
 description: Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.
 img: posts/nxpkg/logofulllarge.png
-tags: [Markdown, HTML, Bootstrap, Python, Docx, Pdf, Txt, Md]
+tags: [python, nexus, mod]
 author: Anderson Paschoalon
 # Links
 github: https://github.com/AndersonPaschoalon/NexusPackagerApp
