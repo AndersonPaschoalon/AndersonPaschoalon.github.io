@@ -3,7 +3,7 @@
     {
       "title"       : "NexusPackager App",
       "category"    : "",
-      "tags"        : "Markdown, HTML, Bootstrap, Python, Docx, Pdf, Txt, Md",
+      "tags"        : "python, nexus, mod",
       "url"         : "./nexus-packager-app.html",
       "date"        : "2022-09-24 03:00:00 -0300",
       "description" : "Nexus Packager App is a command-line tool for automating the packaging process of Nexus mods.",
@@ -13,7 +13,7 @@
     {
       "title"       : "The Lost Continent of Adria -- Age of Mithology Mod",
       "category"    : "",
-      "tags"        : "Age of Mitology, Game Development, Mod",
+      "tags"        : "age of mitology, game development, mod, nexus",
       "url"         : "./mods-age-of-mitology.html",
       "date"        : "2022-09-24 03:00:00 -0300",
       "description" : "This mod brings a new Campaign with RPG-like lore and a collection of new random maps for Age of Mythology.",
@@ -23,7 +23,7 @@
     {
       "title"       : "MdConv",
       "category"    : "",
-      "tags"        : "Markdown, HTML, Bootstrap, Python, Docx, Pdf, Txt, Md",
+      "tags"        : "markdown, html, python, docx, pdf",
       "url"         : "./mdconv.html",
       "date"        : "2022-09-24 03:00:00 -0300",
       "description" : "A command line app to convert Markdown files into different formats, such as Html, Pdf, Txt, and Docx.",
@@ -33,7 +33,7 @@
     {
       "title"       : "Dawn of the Silver Hands -- Join the Silver Hands!",
       "category"    : "",
-      "tags"        : "Skyrim, Creation Kit, Papyrus, Game Development, Mod",
+      "tags"        : "skyrim, papyrus, game development, mod, nexus",
       "url"         : "./dsilhand.html",
       "date"        : "2022-09-24 03:00:00 -0300",
       "description" : "This Skyrim mod allows you to join the Silver Hand faction!",
@@ -43,7 +43,7 @@
     {
       "title"       : "Quest Dialog Manager",
       "category"    : "",
-      "tags"        : "Skyrim, Mod, Desktop, Python",
+      "tags"        : "skyrim, mod, desktop, python",
       "url"         : "./quest-dialog-manager.html",
       "date"        : "2022-06-01 03:00:00 -0300",
       "description" : "Computer Program Registration Certificate.",
@@ -53,7 +53,7 @@
     {
       "title"       : "Swing Traffic Generator",
       "category"    : "",
-      "tags"        : "Swing, Traffic Generator, Traffic Modelling, Wavelet",
+      "tags"        : "swing, traffic generation, traffic modelling, wavelet",
       "url"         : "./swing.html",
       "date"        : "2022-05-27 03:00:00 -0300",
       "description" : "Swing - Realistic and Responsive Network Traffic Generation",
@@ -63,7 +63,7 @@
     {
       "title"       : "Spear",
       "category"    : "",
-      "tags"        : "Skyrim, Mod, Desktop, CSharp",
+      "tags"        : "skyrim, mod, desktop, csharp",
       "url"         : "./moforgit.html",
       "date"        : "2022-01-25 03:00:00 -0300",
       "description" : "Mod organizer for Git Versioning",
@@ -73,7 +73,7 @@
     {
       "title"       : "Tabletop RPG Soundtrack",
       "category"    : "",
-      "tags"        : "RPG, Tabletop, Soundtrack",
+      "tags"        : "",
       "url"         : "./tabletop.html",
       "date"        : "2021-08-01 03:00:00 -0300",
       "description" : "Tabletop RPG Soundtrack",
@@ -83,7 +83,7 @@
     {
       "title"       : "SIMITAR - SniffIng ModellIng and TrAffic geneRation",
       "category"    : "",
-      "tags"        : "Simitar, Traffic Generation, Network Traffic Modelling",
+      "tags"        : "simitar, traffic generation, traffic modelling",
       "url"         : "./simitar.html",
       "date"        : "2019-08-27 03:00:00 -0300",
       "description" : "SIMITAR - SniffIng ModellIng and TrAffic geneRation",
@@ -93,7 +93,7 @@
     {
       "title"       : "SIMITAR - synthetic and realistic network traffic generation",
       "category"    : "",
-      "tags"        : "Sniffing, Modelling, Traffic Generator, Flow, Libtins, D-ITG, Iperf",
+      "tags"        : "sniffing, traffic modelling, traffic generation, libtins, d-itg, iperf, fractal",
       "url"         : "./simitar-thesis.html",
       "date"        : "2019-03-19 16:32:20 -0300",
       "description" : "todo.",
@@ -103,7 +103,7 @@
     {
       "title"       : "Automated Selection of Inter-Packet Time Models Through Information Criteria",
       "category"    : "",
-      "tags"        : "Stochastic processes, Cost function, Measurement, Computational modeling, Fractals, Correlation, Data models, BIC, AIC, stochastic function, inter-packet times, Hurst exponent",
+      "tags"        : "stochastic processes, bic, aic, hurst exponent, traffic modelling, fractal",
       "url"         : "./aic-bic.html",
       "date"        : "2019-03-15 03:00:00 -0300",
       "description" : "IEEE Networking Letters, Volume 1 Issue 2.",
@@ -113,7 +113,7 @@
     {
       "title"       : "Using BIC and AIC for Ethernet traffic model selection. Is it worth?",
       "category"    : "",
-      "tags"        : "BIC, AIC, Network Traffic Modelling, Hurst exponent, heavy-tailed distribution",
+      "tags"        : "bic, aic, traffic modelling, hurst exponent",
       "url"         : "./aic-bic-first.html",
       "date"        : "2017-10-26 16:32:20 -0300",
       "description" : "We aim to evaluate how good are the information criteria AIC and BIC inferring which is the best stochastic process to describe Ethernet inter-packet times.",
@@ -123,7 +123,7 @@
     {
       "title"       : "Towards a Flexible and Extensible Framework for Realistic Traffic Generation on Emerging Networking Scenarios",
       "category"    : "",
-      "tags"        : "BIC, AIC, Traffic Generation, Traffic Modelling, Fractal",
+      "tags"        : "bic, aic, traffic generation, traffic modelling",
       "url"         : "./traff-gen.html",
       "date"        : "2016-09-29 16:32:20 -0300",
       "description" : "Model proposal for a flexible traffic generator.",
@@ -133,7 +133,7 @@
     {
       "title"       : "MininetWifi Contribuition",
       "category"    : "",
-      "tags"        : "SDN, Open Source, Contribution, C++",
+      "tags"        : "sdn, open source, ns3",
       "url"         : "./mininet-wifi.html",
       "date"        : "2016-09-29 03:00:00 -0300",
       "description" : "MininetWifi",
@@ -143,7 +143,7 @@
     {
       "title"       : "(Portuguese) Smart Cities &amp; Big Data - Big Data Technologies as Enablers of the Cities of the Future - A top-down approach",
       "category"    : "",
-      "tags"        : "Big Data, Smart Cities, machine learning, data mining, NoSQL, Hadoop, middleware, Civitas",
+      "tags"        : "big data, smart cities, machine learning, data mining",
       "url"         : "./smartcity.html",
       "date"        : "2015-10-01 03:00:00 -0300",
       "description" : "",
@@ -153,7 +153,7 @@
     {
       "title"       : "(Portuguese) SDN and NFV and SDN Technologies as an NFV Enabler",
       "category"    : "",
-      "tags"        : "SDN, NFV, Middleboxes, CAPEX, OPEX, OpenFlow, OpenDayLight",
+      "tags"        : "sdn, nfv, middleboxes, capex, opex, openflow, opendaylight",
       "url"         : "./sdn-nfv.html",
       "date"        : "2015-06-01 03:00:00 -0300",
       "description" : "",
@@ -163,7 +163,7 @@
     {
       "title"       : "(Portuguese) Introduction to CL-AKA Protocols",
       "category"    : "",
-      "tags"        : "CL-AKA, Public Key, Criptography without certificates",
+      "tags"        : "cl-aka, public key, criptography without certificates",
       "url"         : "./claka.html",
       "date"        : "2015-05-01 03:00:00 -0300",
       "description" : "CL-AKA criptography protocols",
@@ -173,7 +173,7 @@
     {
       "title"       : "(Portuguese) Review involving the feasibility of using NFV in conjunction with SDN on new generation ARM servers",
       "category"    : "",
-      "tags"        : "NFV, SDN, Hipervisor, ARM, RISC",
+      "tags"        : "nfv, sdn, hipervisor, arm, risc",
       "url"         : "./nfv-arm.html",
       "date"        : "2014-09-01 03:00:00 -0300",
       "description" : "",
@@ -183,7 +183,7 @@
     {
       "title"       : "CPQD3036 - ETHERMONITOR - V.1.0",
       "category"    : "",
-      "tags"        : "patent, Embedded Linux, LTE, 4G, CPQD",
+      "tags"        : "embedded linux, networks, lte, 4g",
       "url"         : "./pub-ethermonitor.html",
       "date"        : "2014-08-27 03:00:00 -0300",
       "description" : "Computer Program Registration Certificate.",
@@ -193,7 +193,7 @@
     {
       "title"       : "CPQD3036 EtherMonitor",
       "category"    : "",
-      "tags"        : "Embedded Linux, Networks, LTE, 4G, CPQD",
+      "tags"        : "embedded linux, networks, lte, 4g",
       "url"         : "./proj-ethermonitor.html",
       "date"        : "2014-08-27 03:00:00 -0300",
       "description" : "Embedded software for eternet interfaces management.",

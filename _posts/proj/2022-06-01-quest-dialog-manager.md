@@ -6,7 +6,7 @@ title:  Quest Dialog Manager
 date:   2022-06-01 0:00:00 -0600
 description: Computer Program Registration Certificate.
 img: posts/qdm/post-quest-man.png
-tags: [Skyrim, Mod, Desktop, Python]
+tags: [skyrim, mod, desktop, python]
 author: Anderson Paschoalon
 # Links
 github: https://github.com/AndersonPaschoalon/CreationKit-DialogDocGen

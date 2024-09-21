@@ -6,7 +6,7 @@ title: The Lost Continent of Adria -- Age of Mithology Mod
 date:   2022-09-24 0:00:00 -0600
 description: This mod brings a new Campaign with RPG-like lore and a collection of new random maps for Age of Mythology.
 img: posts/aom/Adria.jpg
-tags: [Age of Mitology, Game Development, Mod]
+tags: [age of mitology, game development, mod, nexus]
 author: Anderson Paschoalon
 # Links
 github: https://github.com/AndersonPaschoalon/LostContinentOfAdria

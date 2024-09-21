@@ -6,7 +6,7 @@ title:  CPQD3036 EtherMonitor
 date:   2014-08-27 0:00:00 -0600
 description: Embedded software for eternet interfaces management.
 img: posts/ether/etherMonitor.png
-tags: [Embedded Linux, Networks, LTE, 4G, CPQD]
+tags: [embedded linux, networks, lte, 4g]
 author: Anderson Paschoalon
 # Links
 github: 

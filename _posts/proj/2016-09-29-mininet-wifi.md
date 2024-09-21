@@ -6,7 +6,7 @@ title:  MininetWifi Contribuition
 date:   2016-09-29 0:00:00 -0600
 description: MininetWifi
 img: posts/mini/MininetWifi.png
-tags: [SDN, Open Source, Contribution, C++]
+tags: [sdn, open source, ns3]
 author: 
 # Links
 github: https://github.com/ramonfontes/reproducible-research/blob/20510254176710d5632a5c66b731bb0bd39dccc2/mininet-wifi/The-Computer-Journal-2017/fileTransferring.cc
